@@ -18,5 +18,5 @@ There are various code projects available on GitHub.
 - [Damir Cavar](http://damir.cavar.me/)  
 - Oren Baldinger  
 - Yiwen Zhang  
-- [Prashant Modak](pkmsoftpro.github.io)  
+- [Prashant Modak](https://pkmsoftpro.github.io/)  
 - Shreejith Panicker  
