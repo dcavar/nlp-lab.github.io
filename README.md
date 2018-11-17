@@ -16,6 +16,6 @@ There are various code projects available on GitHub.
 ### Team
 
 - [Damir Cavar](http://damir.cavar.me/)
-- Yiwen
-- Prashant
--
+- Yiwen Zhang
+- Prashant Modak
+- Shreejith Panicker
