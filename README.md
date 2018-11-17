@@ -1,6 +1,6 @@
 ## Welcome to The NLP Lab Pages
 
-The NLP Lab is currently located at Indiana University. We use Slack for communication and we meet about 2 or 3 times a week.
+The NLP Lab is currently located at Indiana University. We use Slack for communication and we meet about 2 or 3 times a week on campus at IU Bloomington.
 
 ### Projects
 
