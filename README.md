@@ -2,6 +2,7 @@
 
 The NLP Lab is currently located at Indiana University. We use Slack for communication and we meet about 2 or 3 times a week on campus at IU Bloomington.
 
+
 ### Projects
 
 There are various code projects available on GitHub.
@@ -12,11 +13,11 @@ There are various code projects available on GitHub.
 - Free Linguistic Environment
 
 
-
 ### Team
 
 - [Damir Cavar](http://damir.cavar.me/)  
 - Oren Baldinger  
 - Yiwen Zhang  
 - [Prashant Modak](pkmsoftpro.github.io)  
-- Shreejith Panicker  
+- Shreejith Panicker
+- Aarnav
