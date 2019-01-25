@@ -10,7 +10,8 @@ There are various code projects available on GitHub.
 - Open Information Extraction (OpenIE)
 - [High Performance NLP](http://hpnlp.org/)
 - Free Linguistic Environment
-
+- JSON Probabilistic Unifier (C++, Python, Java)
+- NLP RESTful Microservices (Java, Python)
 
 
 ### Team
