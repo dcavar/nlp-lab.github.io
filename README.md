@@ -23,3 +23,4 @@ There are various code projects available on GitHub.
 - [Shreejith Panicker](https://skpanick.github.io/)
 - Aarnav  
 - Abhishek Babuji  
+- [Richard Xu](https://github.com/richardxu204)
