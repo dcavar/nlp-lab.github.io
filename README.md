@@ -17,10 +17,12 @@ There are various code projects available on GitHub.
 ### Team
 
 - [Damir Cavar](http://damir.cavar.me/)  
-- Oren Baldinger  
-- Yiwen Zhang  
+- [Oren Baldinger](https://github.com/orenbaldinger)  
+- [Yiwen Zhang](https://github.com/yiwenzh29)  
 - [Prashant Modak](https://pkmsoftpro.github.io/)  
 - [Shreejith Panicker](https://skpanick.github.io/)
 - Aarnav  
 - Abhishek Babuji  
 - [Richard Xu](https://github.com/richardxu204)
+- [Peace Han](https://github.com/P-eaceHan)
+
