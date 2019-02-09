@@ -23,8 +23,10 @@ There are various sub-projects related to IU-DSG and some code repos are availab
 ### Team
 
 - [Damir Cavar](http://damir.cavar.me/)  
-- [Oren Baldinger](https://github.com/orenbaldinger)
-- [Yiwen Zhang](https://github.com/yiwenzh29)
+- [Oren Baldinger](https://github.com/orenbaldinger)  
+- [Maanvitha Gongalla](https://github.com/maanvithag)
+- [Yiwen Zhang](https://github.com/yiwenzh29)  
+- [Umang Mehta](https://umangrmehta.github.io/)
 - [Prashant Modak](https://pkmsoftpro.github.io/)  
 - [Shreejith Panicker](https://skpanick.github.io/)
 - Aarnav  
@@ -33,3 +35,4 @@ There are various sub-projects related to IU-DSG and some code repos are availab
 - [Chaitanya Patil](https://github.com/Chaitz333)
 - [Gopal Seshadri](https://github.com/GopalSeshadri)
 - [Shujun Liu](https://github.com/liu-shuj/)
+- [Peace Han](https://github.com/P-eaceHan)
