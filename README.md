@@ -36,3 +36,6 @@ There are various sub-projects related to IU-DSG and some code repos are availab
 - [Gopal Seshadri](https://github.com/GopalSeshadri)
 - [Shujun Liu](https://github.com/liu-shuj/)
 - [Peace Han](https://github.com/P-eaceHan)
+- [Rohit Bapat](https://github.com/rohitbapat/)
+
+
