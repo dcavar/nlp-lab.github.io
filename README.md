@@ -3,6 +3,7 @@
 The NLP Lab is currently located at Indiana University. We use Slack for communication and we meet about 2 or 3 times a week on campus at IU Bloomington.
 
 
+
 ### Projects
 
 The main project that we are engaged in currently is:
@@ -18,6 +19,13 @@ There are various sub-projects related to IU-DSG and some code repos are availab
 - JSON Probabilistic Unifier (C++, Python, Java)
 - NLP RESTful Microservices (Java, Python)
 - Hoosier Semantic Information ExtractoR (HOOSIER)
+
+
+
+## Publications
+
+[List of publications](/publications)
+
 
 
 ### Team
