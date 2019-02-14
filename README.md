@@ -1,7 +1,11 @@
 ## Welcome to The NLP Lab Pages
 
-The NLP Lab is currently located at Indiana University. We use Slack for communication and we meet about 2 or 3 times a week on campus at IU Bloomington.
+The NLP Lab is located at Indiana University. We use Slack for communication and we meet about 3 to 4 times a week on campus at IU Bloomington.
 
+
+- [List of publications](/publications)
+- [Software](/software)
+- [Data](/data)
 
 
 ### Projects
@@ -22,11 +26,6 @@ There are various sub-projects related to IU-DSG and some code repos are availab
 
 
 
-## Publications
-
-[List of publications](/publications)
-
-
 
 ### Team
 
@@ -35,7 +34,7 @@ There are various sub-projects related to IU-DSG and some code repos are availab
 - [Maanvitha Gongalla](https://github.com/maanvithag)
 - [Yiwen Zhang](https://github.com/yiwenzh29)  
 - [Umang Mehta](https://umangrmehta.github.io/)
-- [Prashant Modak](https://pkmsoftpro.github.io/)  
+- Prashant Modak
 - [Shreejith Panicker](https://skpanick.github.io/)
 - Aarnav  
 - Abhishek Babuji  
@@ -49,6 +48,3 @@ There are various sub-projects related to IU-DSG and some code repos are availab
 - [Murali Kishore Varma Kammili](https://github.com/mkvk)
 - [Mahesh Latnekar](https://github.com/mrlatnek)
 - [Aarushi Bisht](https://github.com/aarushiibisht)
-
-
-

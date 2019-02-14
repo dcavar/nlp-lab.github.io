@@ -9,4 +9,3 @@ permalink: /publications/
 
 
 ## 2019
-
