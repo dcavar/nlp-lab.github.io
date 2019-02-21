@@ -1,6 +1,15 @@
 ## Welcome to The NLP Lab Pages
 
+The NLP-Lab is about this simple fact:
+
+*You cannot train to have a car. You cannot apply Machine Learning to get a tire for it. You have to engineer it.*
+
+We do train models, but we actually build and engineer systems.
+
+
 The NLP Lab is located at Indiana University. We use Slack for communication and we meet about 3 to 4 times a week on campus at IU Bloomington.
+
+Here is [our Event Calendar](https://calendar.google.com/calendar/embed?src=3h9o18o7i82tjmmt5q2j3qgkj8%40group.calendar.google.com&ctz=America%2FNew_York) with all meeting times.
 
 
 - [List of publications](/publications)
@@ -29,7 +38,7 @@ There are various sub-projects related to IU-DSG and some code repos are availab
 
 ### Team
 
-- [Damir Cavar](http://damir.cavar.me/)  
+- [Dr. Damir Cavar](http://damir.cavar.me/)
 - [Oren Baldinger](https://github.com/orenbaldinger)  
 - [Maanvitha Gongalla](https://github.com/maanvithag)
 - [Yiwen Zhang](https://github.com/yiwenzh29)  
