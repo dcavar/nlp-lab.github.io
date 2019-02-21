@@ -2,7 +2,7 @@
 
 The NLP-Lab is about this simple fact:
 
-*You cannot train to have a car. You cannot machine-learn a tire for it. You have to engineer it.*
+*You cannot train yourself a car. You cannot machine-learn a tire for it. You have to engineer it.*
 
 We do train models, but we actually build and engineer systems. If we know something about language in general or a language in particular, we enjoy using this knowledge in engineering of NLP and AI technologies.
 
