@@ -4,7 +4,7 @@ The NLP-Lab is about this simple fact:
 
 *You cannot train to have a car. You cannot apply Machine Learning to get a tire for it. You have to engineer it.*
 
-We do train models, but we actually build and engineer systems.
+We do train models, but we actually build and engineer systems. If we know something about language in general or a language in particular, we enjoy using this knowledge in engineering.
 
 
 The NLP Lab is located at Indiana University. We use Slack for communication and we meet about 3 to 4 times a week on campus at IU Bloomington.
