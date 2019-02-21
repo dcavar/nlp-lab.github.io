@@ -15,28 +15,10 @@ Here is [our Event Calendar](https://calendar.google.com/calendar/embed?src=3h9o
 - [List of publications](/publications)
 - [Software](/software)
 - [Data](/data)
+- [Projects](/projects)
 
 
-### Projects
-
-The main project that we are engaged in currently is:
-
-- Indiana University Deep Semantic Graph (IU-DSG)
-
-There are various sub-projects related to IU-DSG and some code repos are available on GitHub.
-
-- [NLP JSON Schema](https://github.com/dcavar/NLP-JSON)
-- Open Information Extraction (OpenIE)
-- [High Performance NLP](http://hpnlp.org/)
-- Free Linguistic Environment
-- JSON Probabilistic Unifier (C++, Python, Java)
-- NLP RESTful Microservices (Java, Python)
-- Hoosier Semantic Information ExtractoR (HOOSIER)
-
-
-
-
-### Team
+## Team
 
 - [Dr. Damir Cavar](http://damir.cavar.me/)
 - [Oren Baldinger](https://github.com/orenbaldinger)  
