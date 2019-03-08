@@ -40,3 +40,4 @@ Here is [our Event Calendar](https://calendar.google.com/calendar/embed?src=3h9o
 - [Mahesh Latnekar](https://github.com/mrlatnek)
 - [Aarushi Bisht](https://github.com/aarushiibisht)
 - [Jagpreet Singh Chawla](https://github.com/jagpreetschawla)
+- Boli Fang
