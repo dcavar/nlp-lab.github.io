@@ -5,7 +5,16 @@ author: Damir Cavar
 permalink: /publications/
 ---
 
-# Publications
+## Publications
 
 
-## 2019
+
+
+
+## Presentations
+
+<ul>
+<li>Damir Cavar (2019) <a href="/Pubs/Deep and Broad NLP for Big Data and Knowledge Graph Generation.pdf">Deep and Broad NLP for Big Data and Knowledge Graph Generation</a>, paper presented at the Data Science Colloquium at the <a href="https://sice.indiana.edu/">School of Informatics, Computation and Engineering at Indiana University</a>, March, 22nd, 2019.</li>
+
+</ul>
+
