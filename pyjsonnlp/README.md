@@ -2,5 +2,5 @@
 
 See for more details:
 
-- [Python JSON-NLP Module](https://pypi.org/project/pyjsonnlp/https://pypi.org/project/pyjsonnlp/)
+- [Python JSON-NLP Module](https://pypi.org/project/pyjsonnlp/)
 - [GitHub Repo](https://github.com/dcavar/Py-JSON-NLP)
