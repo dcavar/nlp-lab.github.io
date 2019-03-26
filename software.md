@@ -9,3 +9,4 @@ permalink: /software/
 
 - [NLP JSON Schema](https://github.com/dcavar/NLP-JSON)
 - [NLP RESTful Microservice Architecture](https://api.linguistic.technology/)
+- [Python JSON-NLP module](https://pypi.org/project/pyjsonnlp/https://pypi.org/project/pyjsonnlp/)
