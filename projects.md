@@ -13,7 +13,7 @@ The main project that we are engaged in currently is:
 
 There are various sub-projects related to IU-DSG and some code repos are available on GitHub.
 
-- [NLP JSON Schema](https://github.com/dcavar/NLP-JSON)
+- [JSON-NLP Schema](https://github.com/dcavar/JSON-NLP)
 - Open Information Extraction (OpenIE)
 - [High Performance NLP](http://hpnlp.org/)
 - Free Linguistic Environment

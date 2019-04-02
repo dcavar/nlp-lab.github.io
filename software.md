@@ -7,7 +7,7 @@ permalink: /software/
 
 # Software
 
-- [NLP JSON Schema](https://github.com/dcavar/NLP-JSON)
+- [JSON-NLP Schema](https://github.com/dcavar/JSON-NLP)
 - [NLP RESTful Microservice Architecture](https://api.linguistic.technology/)
 - [Python JSON-NLP module](https://pypi.org/project/pyjsonnlp/)
 - [Flair JSON-NLP module](/flairjsonnlp/)
