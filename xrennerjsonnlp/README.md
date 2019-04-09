@@ -3,8 +3,14 @@
 See for more details:
 
 - [Xrenner]
-- Python Xrenner-JSON-NLP Module
+- [Python Xrenner-JSON-NLP Module](https://pypi.org/project/xrennerjsonnlp/)
 - [GitHub Repo](https://github.com/dcavar/Xrenner-JSON-NLP)
+
+You can install the Python module using the following command:
+
+  pip install xrennerjsonnlp
+
+The module provides a wrapper for the [Xrenner] output to [JSON-NLP]. It also allows you to run [Xrenner] as a RESTful Microservice using [Flask] or WSGI.
 
 
 
@@ -17,3 +23,4 @@ See for more details:
 [Polyglot]: https://github.com/aboSamoor/polyglot "Polyglot"
 [Xrenner]: https://github.com/amir-zeldes/xrenner "Xrenner"
 [CONLL-U]: https://universaldependencies.org/format.html "CONLL-U"
+[Flask]: http://flask.pocoo.org/ "Flask"
