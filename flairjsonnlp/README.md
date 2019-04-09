@@ -3,8 +3,14 @@
 See for more details:
 
 - [Flair]
-- Python Flair-JSON-NLP Module
+- [Python Flair-JSON-NLP Module](https://pypi.org/project/flairjsonnlp/)
 - [GitHub Repo](https://github.com/dcavar/Flair-JSON-NLP)
+
+You can install the Python module using:
+
+  pip install flairjsonnlp
+
+The module provides a mapper of the [Flair] NLP output to [JSON-NLP]. It also provides a wrapper to generate a RESTful Microservice from [Flair] using [Flask] or WSGI.
 
 
 
@@ -17,3 +23,4 @@ See for more details:
 [Polyglot]: https://github.com/aboSamoor/polyglot "Polyglot"
 [Xrenner]: https://github.com/amir-zeldes/xrenner "Xrenner"
 [CONLL-U]: https://universaldependencies.org/format.html "CONLL-U"
+[Flask]: http://flask.pocoo.org/ "Flask"
