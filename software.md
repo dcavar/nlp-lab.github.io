@@ -7,6 +7,9 @@ permalink: /software/
 
 # Software
 
+- Complete Release of **Sibyl 7** coming soon, integrating the systems below and more.
+
+
 - [JSON-NLP Schema](https://github.com/dcavar/JSON-NLP)
 - [NLP RESTful Microservice Architecture](https://api.linguistic.technology/)
 - [Python JSON-NLP module](https://pypi.org/project/pyjsonnlp/)
