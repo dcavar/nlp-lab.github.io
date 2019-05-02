@@ -1,6 +1,6 @@
 ## Welcome to The NLP Lab Pages
 
-The Natural Language Processing Lab (NLP-Lab) is about this simple fact:
+The Natural Language Processing Lab (NLP-Lab) has a simple motto:
 
 *You cannot train yourself a car. You cannot machine-learn a tire for it. You have to engineer it.*
 
@@ -45,4 +45,3 @@ Focus:
 - [Aarushi Bisht](https://github.com/aarushiibisht)
 - [Jagpreet Singh Chawla](https://github.com/jagpreetschawla)
 - [Boli Fang](https://github.com/blf11139)
-
