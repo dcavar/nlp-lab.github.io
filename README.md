@@ -19,7 +19,7 @@ Here is [our Event Calendar](https://calendar.google.com/calendar/embed?src=3h9o
 
 Focus:
 
-- Processing of the Mueller Report: corpus analysis, prediction models, Knowledge Graph and Event Graph extraction, time reference and sequencing along time axis ([GitHub repo](https://github.com/dcavar/Mueller_Report_NLP_Analysis))
+- Processing of the Mueller Report: corpus analysis, prediction models, Knowledge Graph and Event Graph extraction, time reference and sequencing along time axis ([GitHub repo](https://github.com/SemiringInc/Mueller-Report-Corpus)). The cleaned out text corpus with basic annotations is finally available. More data coming soon.
 
 
 ## Team
