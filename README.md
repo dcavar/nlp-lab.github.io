@@ -9,7 +9,7 @@ We do train models, but we actually build and engineer systems. If we know somet
 
 The NLP Lab is located at Indiana University. We use Slack for communication and we meet 3 times a week on campus at IU Bloomington. The current meeting location is Ballantine Hall 844.
 
-<iframe src="https://map.concept3d.com/?id=951#!m/241411" width="100%" height="400" frameBorder="0" scrolling="no" border="0" style="border:0px solid #fff; margin:0; padding:0;"></iframe>
+<iframe src="https://map.concept3d.com/?id=951#!m/241411" width="100%" height="450" frameBorder="0" scrolling="no" border="0" style="border:0px solid #fff; margin:0; padding:0;"></iframe>
 
 
 Here is [our Event Calendar](https://calendar.google.com/calendar/embed?src=3h9o18o7i82tjmmt5q2j3qgkj8%40group.calendar.google.com&ctz=America%2FNew_York) with all meeting times.
