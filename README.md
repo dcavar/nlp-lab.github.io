@@ -34,9 +34,9 @@ During the Fall 2019 semester we will focus on:
 
 - [Dr. Damir Cavar](http://damir.cavar.me/)
 - [Boli Fang](https://github.com/blf11139)
-- [Maanvitha Gongalla](https://github.com/maanvithag)
 - [Anurag Kumar](https://github.com/anuragkumar95)
 - [Chaitanya Patil](https://github.com/Chaitz333)
+
 
 
 ## Former Team Members
@@ -46,6 +46,7 @@ During the Fall 2019 semester we will focus on:
 - Abhishek Babuji  
 - [Rohit Bapat](https://github.com/rohitbapat/)
 - [Aarushi Bisht](https://github.com/aarushiibisht)
+- [Maanvitha Gongalla](https://github.com/maanvithag)
 - [Peace Han](https://github.com/P-eaceHan)
 - [Murali Kishore Varma Kammili](https://github.com/mkvk)
 - [Mahesh Latnekar](https://github.com/mrlatnek)
