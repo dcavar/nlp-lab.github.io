@@ -36,6 +36,7 @@ During the Fall 2019 semester we will focus on:
 - [Boli Fang](https://github.com/blf11139)
 - [Anurag Kumar](https://github.com/anuragkumar95)
 - [Chaitanya Patil](https://github.com/Chaitz333)
+- [Animesh Sagar](https://github.com/animeshsagar)
 
 
 
