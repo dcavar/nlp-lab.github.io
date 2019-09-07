@@ -38,7 +38,7 @@ During the Fall 2019 semester we will focus on:
 - [Chaitanya Patil](https://github.com/Chaitz333)
 - [Rushabh Dharia](https://github.com/rushabhdharia)
 - [Animesh Sagar](https://github.com/animeshsagar)
-
+- [Ludovic Mompelat](https://github.com/lmompela)
 
 
 ## Former Team Members
