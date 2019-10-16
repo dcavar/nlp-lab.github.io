@@ -34,10 +34,13 @@ During the Fall 2019 semester we will focus on:
 
 - [Dr. Damir Cavar](http://damir.cavar.me/)
 - [Boli Fang](https://github.com/blf11139)
-- [Anurag Kumar](https://github.com/anuragkumar95)
-- [Chaitanya Patil](https://github.com/Chaitz333)
 - [Rushabh Dharia](https://github.com/rushabhdharia)
 - [Animesh Sagar](https://github.com/animeshsagar)
+- Surya Prateek Soni
+- Ludovic Mompelat
+- Falcon Dario Restrepo Ramos
+- Kimball Wu
+- Josephine Douglas
 
 
 
@@ -51,10 +54,12 @@ During the Fall 2019 semester we will focus on:
 - [Maanvitha Gongalla](https://github.com/maanvithag)
 - [Peace Han](https://github.com/P-eaceHan)
 - [Murali Kishore Varma Kammili](https://github.com/mkvk)
+- [Anurag Kumar](https://github.com/anuragkumar95)
 - [Mahesh Latnekar](https://github.com/mrlatnek)
 - [Shujun Liu](https://github.com/liu-shuj/)
 - [Umang Mehta](https://umangrmehta.github.io/)
 - [Shreejith Panicker](https://skpanick.github.io/)
+- [Chaitanya Patil](https://github.com/Chaitz333)
 - [Gopal Seshadri](https://github.com/GopalSeshadri)
 - [Jagpreet Singh Chawla](https://github.com/jagpreetschawla)
 - [Yiwen Zhang](https://github.com/yiwenzh29)  
