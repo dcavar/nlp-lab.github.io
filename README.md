@@ -23,11 +23,13 @@ Here is [our Event Calendar](https://calendar.google.com/calendar/embed?src=3h9o
 
 ## Focus
 
-During the Fall 2019 semester we will focus on:
+During the Spring 2020 semester we will focus on:
 
 - Knowledge Graph extraction and visualization from unstructured text and images/videos.
 - Entailment and Reasoning over Knowledge Graphs (and Description Logic).
 - Processing of the Mueller Report: corpus analysis, prediction models, Knowledge Graph and Event Graph extraction, time reference and sequencing along time axis ([GitHub repo](https://github.com/SemiringInc/Mueller-Report-Corpus)). The cleaned out text corpus with basic annotations is finally available. More data coming soon.
+
+We are organizing special meetings to refresh our knowledge of Lisp and Prolog, in particular related to computational semantics and pragmatics, and probabilistic logic. See [here](http://damir.cavar.me/2020-01-23-Knowledge_Representation_and_Reasoning_for_AI_using_Lisp_Prolog)...
 
 
 ## Team
