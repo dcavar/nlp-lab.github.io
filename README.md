@@ -7,13 +7,7 @@ The Natural Language Processing Lab (NLP-Lab) has a simple motto:
 We do train models, but we actually build and engineer systems. If we know something about language in general or a language in particular, we enjoy using this knowledge in engineering of NLP and AI technologies. Our goal is on computational semantics, reasoning, common sense, and knowledge representations and processing.
 
 
-The NLP Lab is located at [Indiana University Bloomington](https://indiana.edu/). We meet 3 times a week on campus at [IU Bloomington](https://indiana.edu/). The current meeting location is Ballantine Hall 5th floor.
-
-<iframe src="https://map.concept3d.com/?id=951#!m/241411" width="100%" height="450" frameBorder="0" scrolling="no" border="0" style="border:0px solid #fff; margin:0; padding:0;"></iframe>
-
-
-Here is [our Event Calendar](https://calendar.google.com/calendar/embed?src=3h9o18o7i82tjmmt5q2j3qgkj8%40group.calendar.google.com&ctz=America%2FNew_York) with all meeting times.
-
+The NLP Lab is located at [Indiana University Bloomington](https://indiana.edu/). We meet 3 times a week on campus at [IU Bloomington](https://indiana.edu/). The current meeting location is Ballantine Hall 5th floor. See the map link below.
 
 - [List of publications](/publications)
 - [Software](/software)
@@ -66,3 +60,9 @@ We are organizing special meetings to refresh our knowledge of Lisp and Prolog f
 - [Gopal Seshadri](https://github.com/GopalSeshadri)
 - [Jagpreet Singh Chawla](https://github.com/jagpreetschawla)
 - [Yiwen Zhang](https://github.com/yiwenzh29)  
+
+
+<iframe src="https://map.concept3d.com/?id=951#!m/241411" width="100%" height="450" frameBorder="0" scrolling="no" border="0" style="border:0px solid #fff; margin:0; padding:0;"></iframe>
+
+
+Here is [our Event Calendar](https://calendar.google.com/calendar/embed?src=3h9o18o7i82tjmmt5q2j3qgkj8%40group.calendar.google.com&ctz=America%2FNew_York) with all meeting times.
