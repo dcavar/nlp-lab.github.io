@@ -7,13 +7,31 @@ permalink: /projects/
 
 # Projects
 
-The main project that we are engaged in currently is:
+## Antisemitism and Hate-Speech in Social Media
 
-- Indiana University Deep Semantic Graph (IU-DSG)
+During the summer of 2020 we engaged in an international Datathon and Hackathon on focusing on antisemitic tweets and the development of corpora and machine learning algorithms to classify tweets as antisemitic or not. See the [project page](/antisemitism) for more information on this project.
 
-There are various sub-projects related to IU-DSG and some code repos are available on GitHub.
+- [Project Page](/antisemitism)
 
-- [JSON-NLP Schema](https://github.com/dcavar/JSON-NLP)
+
+## Turkic Language Resources
+
+- Azerbaijani
+- Uzbek
+
+## Information Retrieval from Medical Reports
+
+
+## Knowledge Graphs
+
+The main Knowedge Graph related project that we are engaged in currently is:
+
+- Unstructured Information to High-quality Knowledge Graph Mapping
+- Mapping of Relational Databases to High-quality Knowledge Graphs using R2RML and RML, as well as JRML
+
+There are various sub-projects related to this goal and some code repos are available on GitHub.
+
+- [JSON-NLP Schema](https://github.com/SemiringInc/JSON-NLP)
 - Open Information Extraction (OpenIE)
 - [High Performance NLP](http://hpnlp.org/)
 - Free Linguistic Environment
