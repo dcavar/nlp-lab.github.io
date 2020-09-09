@@ -11,10 +11,17 @@ For Azerbaijani we generated vocabulary sets and we are working on:
 
 The [Anki](https://ankiweb.net/about) vocabulary set using Latin script:
 
-- Part 1
-- Part 2
-- Part 3
-- Part 4
+- Azerbaijani 1
+- Azerbaijani 2
+- Azerbaijani 3
+- Azerbaijani 4
+- Azerbaijani 5
+- Azerbaijani 6
+- Azerbaijani 7
+- Azerbaijani Questions
+- Azerbaijani Numbers
+- Azerbaijani OPI Prep
+
 
 
 ## Uzbek
