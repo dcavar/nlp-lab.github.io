@@ -4,7 +4,7 @@ The Natural Language Processing Lab (NLP-Lab) has a simple motto:
 
 *You cannot train yourself a car. You cannot machine-learn a tire for it. You have to engineer it.*
 
-We do train models, but we actually build and engineer systems. If we know something about language in general or a language in particular, we enjoy using this knowledge in engineering of NLP and AI technologies. Our goal is on computational semantics, reasoning, common sense, and knowledge representations and processing.
+We do train models, but we actually build and engineer systems. If we know something about language in general or a language in particular, we enjoy using this knowledge in engineering of NLP and AI technologies. Our NLP and AI focus is on computational semantics, reasoning, common sense, and knowledge representations and processing.
 
 
 The NLP Lab is located at [Indiana University Bloomington](https://indiana.edu/). We meet 3 times a week on campus at [IU Bloomington](https://indiana.edu/). The current meeting location is Ballantine Hall 5th floor. See the map link below.
