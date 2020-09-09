@@ -12,7 +12,7 @@ permalink: /publications/
 ## Publications
 
 <ul>
-<li><a href=""></a>
+<li><a href="https://arxiv.org/ftp/arxiv/papers/1910/1910.01214.pdf">Annotating Antisemitic Online Content: Towards an  Applicable Definition of Antisemitism</a> (2019) Gunther Jikeli, Damir Cavar, Daniel Miehling.
 </li>
 </ul>
 
