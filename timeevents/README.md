@@ -8,7 +8,7 @@ Our proposed annotation standard for time, events, and temporal relations (seque
 - [Damir Cavar](https://www.linkedin.com/in/damircavar/)
 - Ali Abdulaziz Aljubailan
 - Soyoung Kim
-- Billy G. Dickson
+- [Billy Dickson](https://www.linkedin.com/in/billy-dickson/)
 
 
 ## Links to existing standards
