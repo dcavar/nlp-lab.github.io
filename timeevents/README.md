@@ -1,7 +1,6 @@
 ---
 title: Time and Event annotation standard and corpora
 author: Damir Cavar
-permalink: /timeevent/
 ---
 
 # Time and Event Annotation
