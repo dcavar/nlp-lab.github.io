@@ -14,6 +14,7 @@ Our proposed annotation standard for time, events, and temporal relations (seque
 ## Links to existing standards
 
 - [TimeML](https://en.wikipedia.org/wiki/TimeML) (and TIMEX tags)
+- [TimexPortal](http://timexportal.wikidot.com/start)
 
 
 ## Tools
