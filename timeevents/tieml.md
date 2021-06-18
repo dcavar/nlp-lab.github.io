@@ -1,8 +1,8 @@
-###### June 2021
+##### June 2021
 
-## <center>TimeML vs. Proposed Schema</center>
+# <center>TimeML and TieML</center>
 
-### TimeML Tags:
+## TimeML:
 
 - Times
     - Marked using TIMEX3 tag (extension of TIMEX2)
@@ -14,13 +14,13 @@
 <!--- need to distinguish these better--->
 - Signals
     - Marked using the SIGNAL tag
-    - Specifies relationship between two events, or a time and an event.
+    - Mark function words that establish a relationship between two events, or a time and an event (e.g. before, after, when)
 - Links
     - Specifies relationship between events, times, or time and events
     - Encodes informtion such as durations and ordering relationships
-    - Three types of links including T-LINK (time link), S-LINK (subordinate link), and A-LINK (aspectual link)
+    - Three types of links including T-LINK (temporal link), S-LINK (subordinate link), and A-LINK (aspectual link)
 
-### Proposed Schema:
+## TieML:
 <!--- need to at E,R,S explanation --->
 - EventID
     - Integer
@@ -52,6 +52,7 @@
     - Boolean
     - Marks the presence of progressive aspect
     - Default is FALSE
+
 <!---
 ### How TeML time and event capture information in relation to TimeML:
 Times
