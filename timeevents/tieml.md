@@ -2,6 +2,10 @@
 
 # <center>TimeML and TieML</center>
 
+(C) 2021 [Damir Cavar](https://www.linkedin.com/in/damircavar/), Ali Abdulaziz Aljubailan, Soyoung Kim, [Billy Dickson](https://www.linkedin.com/in/billy-dickson/)
+
+
+
 ## TimeML:
 
 - Times
@@ -20,7 +24,9 @@
     - Encodes informtion such as durations and ordering relationships
     - Three types of links including T-LINK (temporal link), S-LINK (subordinate link), and A-LINK (aspectual link)
 
-## TieML:
+
+## TIE-ML:
+
 <!--- need to at E,R,S explanation --->
 - EventID
     - Integer
