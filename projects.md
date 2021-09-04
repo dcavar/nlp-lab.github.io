@@ -7,12 +7,6 @@ permalink: /projects/
 
 # Projects
 
-## Antisemitism and Hate-Speech in Social Media
-
-During the summer of 2020 we engaged in an international Datathon and Hackathon on focusing on antisemitic tweets and the development of corpora and machine learning algorithms to classify tweets as antisemitic or not. See the [project page](/antisemitism) for more information on this project.
-
-- [Project Page](/antisemitism)
-
 
 ## Time and Event Annotation
 
@@ -21,12 +15,23 @@ Our proposed annotation standard for time, events, and temporal relations (seque
 - [Project Page](/timeevents/)
 
 
+## Information Retrieval from Medical Reports
+
+- Mental Health NER
+- Food and Nutrients Knowledge Graphs
+
+
+## Antisemitism and Hate-Speech in Social Media
+
+During the summer of 2020 we engaged in an international Datathon and Hackathon on focusing on antisemitic tweets and the development of corpora and machine learning algorithms to classify tweets as antisemitic or not. See the [project page](/antisemitism) for more information on this project.
+
+- [Project Page](/antisemitism)
+
+
 ## Turkic Language Resources
 
 - Azerbaijani
 - Uzbek
-
-## Information Retrieval from Medical Reports
 
 
 ## Knowledge Graphs
