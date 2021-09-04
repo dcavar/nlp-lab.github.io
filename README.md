@@ -15,19 +15,19 @@ The NLP Lab is located at [Indiana University at Bloomington](https://indiana.ed
 
 During the 2020 semester the focus is on:
 
-- [Time and Event Annotation and NLP Technologies](/timeevents)
+- [Time and Event Annotation and NLP Technologies (TIE-ML)](/timeevents)
 - [Language Resources for Turkic Languages](/turkic) - [Focusing on Azerbaijani](/turkic)
 - [Knowledge Graph extraction and visualization from relational databases, unstructured text, and images/videos](/kgextraction)
 - Entailment and Reasoning over Knowledge Graphs (and Description Logic).
 - Processing of the Mueller Report: corpus analysis, prediction models, Knowledge Graph and Event Graph extraction, time reference and sequencing along time axis ([GitHub repo](https://github.com/SemiringInc/Mueller-Report-Corpus)). The cleaned out text corpus with basic annotations is finally available. More data coming soon.
 - [Antisemitism in Social Media](/antisemitism)
 
-[I am](http://damir.cavar.me/) organizing special meetings to refresh our knowledge of Lisp and Prolog for logic computation and reasoning, in particular related to computational semantics and pragmatics, and probabilistic logic, integrating Semantic Web and Knowledge Graph technologies. See [here](http://damir.cavar.me/2020-01-23-Knowledge_Representation_and_Reasoning_for_AI_using_Lisp_Prolog)...
+[I am](https://www.linkedin.com/in/damircavar/) organizing special meetings to refresh our knowledge of Lisp and Prolog for logic computation and reasoning, in particular related to computational semantics and pragmatics, and probabilistic logic, integrating Semantic Web and Knowledge Graph technologies. See [here](http://damir.cavar.me/2020-01-23-Knowledge_Representation_and_Reasoning_for_AI_using_Lisp_Prolog)...
 
 
 ## Team
 
-- [Dr. Damir Cavar](http://damir.cavar.me/)
+- [Dr. Damir Cavar](https://www.linkedin.com/in/damircavar/)
 - Ali Abdulaziz Aljubailan
 - [Billy Dickson](https://www.linkedin.com/in/billy-dickson/)
 - Soyoung Kim

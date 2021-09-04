@@ -12,7 +12,7 @@ permalink: /projects/
 
 Our proposed annotation standard for time, events, and temporal relations (sequencing and duration) differs from various existing standards in its simplicity and efficiency, both for annotators and machine learning approaches.
 
-- [Project Page](/timeevents/)
+- [Project Page](/timeevents)
 
 
 ## Information Retrieval from Medical Reports
