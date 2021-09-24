@@ -5,7 +5,7 @@ The Natural Language Processing Lab (NLP-Lab) is focused on theoretical and hand
 
 The NLP Lab is located at [Indiana University at Bloomington](https://indiana.edu/). We meet a couple of times a week on campus. The current meeting location is Ballantine Hall 5th floor. See the map link below.
 
-- [List of publications](/publications)
+- [Publications](/publications)
 - [Software](/software)
 - [Data](/data)
 - [Projects](/projects)

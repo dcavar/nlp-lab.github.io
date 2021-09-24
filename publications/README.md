@@ -31,6 +31,8 @@ ML)*, [Poster](/timeevents/TIEML_Poster_8_27.pdf), Indiana University at Bloomin
 - [Python JSON-NLP GitHub Repo](https://github.com/dcavar/Py-JSON-NLP)
 - [Polyglot GitHub Repo](https://github.com/dcavar/Polyglot-JSON-NLP)
 - [NLTK-JSON-NLP GitHub Repo](https://github.com/dcavar/NLTK-JSON-NLP)
+- [TIE-ML GitHub repo](https://github.com/dcavar/tieml)
+
 
 
 
