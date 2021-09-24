@@ -1,13 +1,11 @@
 ## Online tutorials and videos
 
 
-
 ## Publications
 
-- [Annotating Antisemitic Online Content: Towards an  Applicable Definition of Antisemitism](https://arxiv.org/ftp/arxiv/papers/1910/1910.01214.pdf) (2019) Gunther Jikeli, [Damir Cavar], Daniel Miehling.
+- [Annotating Antisemitic Online Content: Towards an  Applicable Definition of Antisemitism](https://arxiv.org/ftp/arxiv/papers/1910/1910.01214.pdf) (2019) [Günther Jikeli], [Damir Cavar], Daniel Miehling.
 
 - [D. Cavar], [B. Dickson], A. Aljubailan, S. Kim (2021) *Temporal Information and Event Markup Language: TIE-ML Markup Process and Schema Version 1.0*, In Proceedings of [SEMAPRO 2021](https://www.iaria.org/conferences2021/SEMAPRO21.html), Barcelona, Spain.
-
 
 
 ## Presentations
@@ -35,8 +33,8 @@ ML)*, [Poster](/timeevents/TIEML_Poster_8_27.pdf), Indiana University at Bloomin
 
 
 
-
 [D. Cavar]: http://damir.cavar.me/ "Damir Cavar"
 [Damir Cavar]: http://damir.cavar.me/ "Damir Cavar"
 [B. Dickson]: https://www.linkedin.com/in/billy-dickson/ "Billy Dickson"
 [JSON-NLP]: https://github.com/dcavar/JSON-NLP "JSON-NLP"
+[Günther Jikeli]: https://news.iu.edu/iu-experts/profile/m/297/jikeli-gunther "Günther Jikeli"
