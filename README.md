@@ -3,7 +3,9 @@
 The Natural Language Processing Lab (NLP-Lab) is focused on theoretical and hands on implementations of Natural Language Processing (NLP) and AI solutions using hybrid approaches, empiricist, neural, probabilistic, and knowledge driven. We are also strongly interested in Quantum NLP and Machine Learning (ML) solutions.
 
 
-The NLP Lab is located at [Indiana University at Bloomington](https://indiana.edu/). We meet a couple of times a week on campus. The current meeting location is Ballantine Hall 5th floor. See the map link below.
+The NLP Lab is located at [Indiana University at Bloomington](https://indiana.edu/). While it is mainly a local group of researchers with a strong interest in NLP and AI here in Indiana, it has ties to colleagues all across the country.
+
+We meet a couple of times a week on campus in person. The current meeting location is in Ballantine Hall, 5th floor. See the map link below. From around mid of October on - we hope - we will continue meetings in the [new AI Building](https://news.iu.edu/stories/2021/06/iub/releases/23-luddy-center-artificial-intelligence-dedication.html) in the NLP Lab space (3rd floor).
 
 - [Publications](/publications)
 - [Software](/software)
@@ -18,7 +20,7 @@ During the 2021/2022 academic year the focus is on:
 - [Time and Event Annotation and NLP Technologies (TIE-ML)](/timeevents)
 - [Language Resources for Turkic Languages](/turkic) - [Focusing on Azerbaijani](/turkic)
 - [Knowledge Graph extraction and visualization from relational databases, unstructured text, and images/videos](/kgextraction)
-- Entailment and Reasoning over Knowledge Graphs (and Description Logic) using Temporal Graph Neural Networks and Knowledge Graphs.
+- Entailment and Reasoning over Knowledge Graphs (and Description Logic/Semantic Web): Using Temporal Graph Neural Networks and Knowledge Graphs.
 
 Previous projects foci:
 
