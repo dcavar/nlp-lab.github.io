@@ -13,7 +13,7 @@ We meet a couple of times a week on campus in person. The current meeting locati
 - [Projects](/projects)
 
 
-## Focus
+## Research Foci
 
 During the 2021/2022 academic year the focus is on:
 
@@ -33,6 +33,7 @@ Previous projects foci:
 
 - [Dr. Damir Cavar](https://www.linkedin.com/in/damircavar/)
 - Ali Abdulaziz Aljubailan
+- Andrew Davis
 - [Billy Dickson](https://www.linkedin.com/in/billy-dickson/)
 - Soyoung Kim
 - Ludovic Mompelat
