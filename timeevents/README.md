@@ -15,7 +15,7 @@ Our proposed annotation standard for time, events, and temporal relations (seque
 
 ## Publications
 
-- D. Cavar, B. Dickson, A. Aljubailan, S. Kim (2021) *Temporal Information and Event Markup Language: TIE-ML Markup Process and Schema Version 1.0*, In Proceedings of [SEMAPRO 2021](https://www.iaria.org/conferences2021/SEMAPRO21.html), Barcelona, Spain.
+- D. Cavar, B. Dickson, A. Aljubailan, S. Kim (2021) *[Temporal Information and Event Markup Language: TIE-ML Markup Process and Schema Version 1.0](https://arxiv.org/abs/2109.13892)*, In Proceedings of [SEMAPRO 2021](https://www.iaria.org/conferences2021/SEMAPRO21.html), Barcelona, Spain.
 
 - B. Dickson, S. Kim, D. Cavar, A. Aljubailan (2021) *Temporal Information and Event Markup Language (TIE
 ML)*, [Poster](TIEML_Poster_8_27.pdf), Indiana University.

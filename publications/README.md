@@ -5,7 +5,7 @@
 
 - [Annotating Antisemitic Online Content: Towards an  Applicable Definition of Antisemitism](https://arxiv.org/ftp/arxiv/papers/1910/1910.01214.pdf) (2019) [Günther Jikeli], [Damir Cavar], Daniel Miehling.
 
-- [D. Cavar], [B. Dickson], A. Aljubailan, S. Kim (2021) *Temporal Information and Event Markup Language: TIE-ML Markup Process and Schema Version 1.0*, In Proceedings of [SEMAPRO 2021](https://www.iaria.org/conferences2021/SEMAPRO21.html), Barcelona, Spain.
+- [D. Cavar], [B. Dickson], A. Aljubailan, S. Kim (2021) *[Temporal Information and Event Markup Language: TIE-ML Markup Process and Schema Version 1.0](https://arxiv.org/abs/2109.13892)*, In Proceedings of [SEMAPRO 2021](https://www.iaria.org/conferences2021/SEMAPRO21.html), Barcelona, Spain.
 
 
 ## Presentations
