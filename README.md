@@ -37,6 +37,7 @@ Previous projects foci:
 - [Billy Dickson](https://www.linkedin.com/in/billy-dickson/)
 - Soyoung Kim
 - Ludovic Mompelat
+- [Ashutosh Tiwari](https://www.linkedin.com/in/ashutosh--tiwari/)
 
 
 ## Former Team Members
