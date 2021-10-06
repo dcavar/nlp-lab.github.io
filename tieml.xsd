@@ -1,0 +1,35 @@
+<?xml version="1.1" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified">
+  <xs:element name="tieml">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element maxOccurs="unbounded" ref="s"/>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="s">
+    <xs:complexType mixed="true">
+      <xs:sequence>
+        <xs:element minOccurs="0" maxOccurs="unbounded" ref="c"/>
+      </xs:sequence>
+      <xs:attribute name="duration" type="xs:NMTOKEN"/>
+    </xs:complexType>
+  </xs:element>
+  <xs:element name="c">
+    <xs:complexType mixed="true">
+      <xs:attribute name="E" type="xs:integer"/>
+      <xs:attribute name="eventtime" type="xs:integer"/>
+      <xs:attribute name="R" type="xs:integer"/>
+      <xs:attribute name="referencetime" type="xs:integer"/>
+      <xs:attribute name="S" type="xs:integer"/>
+      <xs:attribute name="speakertime" type="xs:integer"/>
+      <xs:attribute name="eventid" use="required" type="xs:integer"/>
+      <xs:attribute name="perfect" type="xs:NCName"/>
+      <xs:attribute name="tense" type="xs:NCName"/>
+      <xs:attribute name="timeslot" type="xs:integer"/>
+      <xs:assert test="(@E and not(@eventtime)) or (not(@E) and @eventtime) or (not(@E) and not(@eventtime))"/>
+      <xs:assert test="(@R and not(@referencetime)) or (not(@R) and @referencetime) or (not(@R) and not(@referencetime))"/>
+      <xs:assert test="(@S and not(@speakertime)) or (not(@S) and @speakertime) or (not(@S) and not(@speakertime))"/>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>
