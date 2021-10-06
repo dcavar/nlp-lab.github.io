@@ -11,6 +11,7 @@ Our proposed annotation standard for time, events, and temporal relations (seque
 - Ali Abdulaziz Aljubailan
 - Soyoung Kim
 - [Billy Dickson](https://www.linkedin.com/in/billy-dickson/)
+- [Ashutosh Tiwari](https://www.linkedin.com/in/ashutosh--tiwari/)
 
 
 ## Publications
