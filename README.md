@@ -38,6 +38,7 @@ Previous projects foci:
 - Soyoung Kim
 - Ludovic Mompelat
 - [Ashutosh Tiwari](https://www.linkedin.com/in/ashutosh--tiwari/)
+- [Yuna Won](http://www.yunawon.net)
 
 
 ## Former Team Members
