@@ -11,8 +11,8 @@ Our proposed annotation standard for time, events, and temporal relations (seque
 
 ## Team Members
 
-- [Damir Cavar]
 - Ali Abdulaziz Aljubailan
+- [Damir Cavar]
 - Soyoung Kim
 - [Billy Dickson]
 - [Andrew Davis]
