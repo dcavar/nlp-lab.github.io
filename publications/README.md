@@ -3,12 +3,16 @@
 
 ## Publications
 
+- Damir Cavar, Ali Aljubailan, Ludovic Mompelat, Yuna Won, Billy Dickson, Matthew Fort, Andrew Davis and Soyoung Kim (2022) *Event Sequencing Annotation with TIE-ML* (2022) in proceedings of the [The Eighteenth Joint ACL - ISO Workshop on Interoperable Semantic Annotation](https://sigsem.uvt.nl/isa18/) ([ISA-18 2022](https://sigsem.uvt.nl/isa18/)), at [LREC 2022](https://lrec2022.lrec-conf.org/en/) in Marsaille, France.
+
 - [Annotating Antisemitic Online Content: Towards an  Applicable Definition of Antisemitism](https://arxiv.org/ftp/arxiv/papers/1910/1910.01214.pdf) (2019) [Günther Jikeli], [Damir Cavar], Daniel Miehling.
 
 - [D. Cavar], [B. Dickson], A. Aljubailan, S. Kim (2021) *[Temporal Information and Event Markup Language: TIE-ML Markup Process and Schema Version 1.0](https://arxiv.org/abs/2109.13892)*, In Proceedings of [SEMAPRO 2021](https://www.iaria.org/conferences2021/SEMAPRO21.html), Barcelona, Spain.
 
 
 ## Presentations
+
+- - *Event Sequencing Annotation with TIE-ML* Poster at the [The Eighteenth Joint ACL - ISO Workshop on Interoperable Semantic Annotation](https://sigsem.uvt.nl/isa18/) ([ISA-18 2022](https://sigsem.uvt.nl/isa18/)), at [LREC 2022](https://lrec2022.lrec-conf.org/en/) in Marsaille, France.
 
 - [B. Dickson], S. Kim, [D. Cavar], A. Aljubailan (2021) *Temporal Information and Event Markup Language (TIE
 ML)*, [Poster](/timeevents/TIEML_Poster_8_27.pdf), Indiana University at Bloomington.

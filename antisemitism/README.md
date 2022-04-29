@@ -14,3 +14,15 @@ Here are some articles and resources that document this project the the current 
 The [award ceremony](https://isca.indiana.edu/news-events/Awards-Ceremony.-Datathon-and-Hackathon-Competition.html) video with speeches by Elaine Monaghan and Lee Finestein, comments by Damir Cavar, Guenther Jikeli, and participating students:
 
 - [Social Media and Antisemitism Hackathon and Datathon. Awards ceremony with keynote speakers Elaine Monaghan and Lee Feinstein](https://iu.mediaspace.kaltura.com/media/Social+Media+and+Antisemitism+Hackathon+and+Datathon.+Awards+ceremony+with+keynote+speakers+Lee+Feinstein+and+Elaine+Monaghan/1_tpw4w9f5/)
+
+
+## Publications
+
+- [Günther Jikeli], [Damir Cavar], Weejeong Jeong, Daniel Miehling, Pauravi Wagh, Denizhan Pak (2022) *Toward an AI Definition of Antisemitism?* Pages 193-212 in M. Hübscher and S. von Mering (eds.) *Antisemitism on Social Media*. Routlage, New York.
+
+- [Annotating Antisemitic Online Content: Towards an  Applicable Definition of Antisemitism](https://arxiv.org/ftp/arxiv/papers/1910/1910.01214.pdf) (2019) [Günther Jikeli], [Damir Cavar], Daniel Miehling.
+
+
+
+[Damir Cavar]: http://damir.cavar.me/ "Damir Cavar"
+[Günther Jikeli]: https://news.iu.edu/iu-experts/profile/m/297/jikeli-gunther "Günther Jikeli"

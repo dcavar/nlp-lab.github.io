@@ -2,8 +2,7 @@
 
 # <center>TimeML and TieML</center>
 
-(C) 2021 [Damir Cavar](https://www.linkedin.com/in/damircavar/), Ali Abdulaziz Aljubailan, Soyoung Kim, [Billy Dickson](https://www.linkedin.com/in/billy-dickson/)
-
+(C) 2021-2022 [Damir Cavar](https://www.linkedin.com/in/damircavar/), Ali Abdulaziz Aljubailan, Soyoung Kim, [Billy Dickson](https://www.linkedin.com/in/billy-dickson/), [Andrew Davis](https://www.linkedin.com/in/adavis94/), [Matthew Fort](https://www.linkedin.com/in/matthew-fort-07b802236/), [Ludovic Mompelat](https://www.linkedin.com/in/ludovic-mompelat-8a1960b8/), [Zoran Tiganj](https://homes.luddy.indiana.edu/ztiganj/), [Yuna Won](http://www.yunawon.net)
 
 
 ## TimeML:
