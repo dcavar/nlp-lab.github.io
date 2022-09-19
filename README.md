@@ -31,19 +31,19 @@ Previous projects foci:
 
 ## Team
 
-- [Dr. Damir Cavar](https://www.linkedin.com/in/damircavar/)
+- [Dr. Damir Cavar](https://luddy.indiana.edu/contact/profile/?Damir_Cavar)
 - [Andrew Davis](https://www.linkedin.com/in/adavis94/)
 - [Billy Dickson](https://www.linkedin.com/in/billy-dickson/)
 - [Matthew Fort](https://www.linkedin.com/in/matthew-fort-07b802236/)
 - Soyoung Kim
 - [Ludovic Mompelat](https://www.linkedin.com/in/ludovic-mompelat-8a1960b8/)
-- [Zoran Tiganj](https://homes.luddy.indiana.edu/ztiganj/)
+- [Dr. Zoran Tiganj](https://homes.luddy.indiana.edu/ztiganj/)
 
 
 ## Former Team Members
 
 - Aarnav  
-- Ali Abdulaziz Aljubailan
+- Dr. Ali Abdulaziz Aljubailan
 - [Oren Baldinger](https://github.com/orenbaldinger)  
 - Abhishek Babuji  
 - [Rohit Bapat](https://github.com/rohitbapat/)
@@ -57,16 +57,17 @@ Previous projects foci:
 - [Anurag Kumar](https://github.com/anuragkumar95)
 - [Mahesh Latnekar](https://github.com/mrlatnek)
 - [Shujun Liu](https://github.com/liu-shuj/)
+- [Dr. Anthony Meyer](https://www.linkedin.com/in/antmeyer408/)
 - [Umang Mehta](https://umangrmehta.github.io/)
 - [Shreejith Panicker](https://skpanick.github.io/)
 - [Chaitanya Patil](https://github.com/Chaitz333)
-- [Falcon Dario Restrepo Ramos](https://www.linkedin.com/in/falcon-restrepo-ramos-657b74203/)
+- [Dr. Falcon Dario Restrepo Ramos](https://www.linkedin.com/in/falcon-restrepo-ramos-657b74203/)
 - [Animesh Sagar](https://github.com/animeshsagar)
 - [Gopal Seshadri](https://github.com/GopalSeshadri)
 - [Jagpreet Singh Chawla](https://github.com/jagpreetschawla)
 - Surya Prateek Soni
 - [Ashutosh Tiwari](https://www.linkedin.com/in/ashutosh--tiwari/)
-- [Yuna Won](http://www.yunawon.net)
+- [Dr. Yuna Won](http://www.yunawon.net)
 - Kimball Wu
 - [Yiwen Zhang](https://github.com/yiwenzh29)  
 
