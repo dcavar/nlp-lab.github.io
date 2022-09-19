@@ -31,7 +31,6 @@ Previous projects foci:
 
 ## Team
 
-- Ali Abdulaziz Aljubailan
 - [Dr. Damir Cavar](https://www.linkedin.com/in/damircavar/)
 - [Andrew Davis](https://www.linkedin.com/in/adavis94/)
 - [Billy Dickson](https://www.linkedin.com/in/billy-dickson/)
@@ -39,12 +38,12 @@ Previous projects foci:
 - Soyoung Kim
 - [Ludovic Mompelat](https://www.linkedin.com/in/ludovic-mompelat-8a1960b8/)
 - [Zoran Tiganj](https://homes.luddy.indiana.edu/ztiganj/)
-- [Yuna Won](http://www.yunawon.net)
 
 
 ## Former Team Members
 
 - Aarnav  
+- Ali Abdulaziz Aljubailan
 - [Oren Baldinger](https://github.com/orenbaldinger)  
 - Abhishek Babuji  
 - [Rohit Bapat](https://github.com/rohitbapat/)
@@ -67,6 +66,7 @@ Previous projects foci:
 - [Jagpreet Singh Chawla](https://github.com/jagpreetschawla)
 - Surya Prateek Soni
 - [Ashutosh Tiwari](https://www.linkedin.com/in/ashutosh--tiwari/)
+- [Yuna Won](http://www.yunawon.net)
 - Kimball Wu
 - [Yiwen Zhang](https://github.com/yiwenzh29)  
 
