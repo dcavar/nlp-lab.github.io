@@ -32,3 +32,8 @@ permalink: /software/
 - TIE-ML to TimeML
 - TIE-ML GUI
 
+
+## Rust Environments
+
+- [NLP-Lab Rust info and links](/rust/)
+

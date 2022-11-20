@@ -1,11 +1,11 @@
 ## Welcome to The NLP Lab Pages
 
-The Natural Language Processing Lab (NLP-Lab) is focused on theoretical and hands on implementations of Natural Language Processing (NLP) and AI solutions using hybrid approaches, empiricist, neural, probabilistic, and knowledge driven. We are also strongly interested in Quantum NLP and Machine Learning (ML) solutions for computer vision and multi-modal information processing.
+The Natural Language Processing Lab (NLP-Lab) is focused on theoretical and hands on implementations of [Natural Language Processing] ([NLP]) and [Artificial Intelligence] ([AI]) solutions using hybrid approaches, empiricist, neural, probabilistic, and knowledge driven. We are also strongly interested in Quantum [NLP] and Machine Learning ([ML]) solutions for computer vision and multi-modal information processing.
 
 
-The NLP Lab is located at [Indiana University at Bloomington](https://indiana.edu/). While it is mainly a local group of researchers with a strong interest in NLP and AI here in Indiana, it has ties to colleagues all across the country.
+The NLP-Lab is located at [Indiana University at Bloomington](https://indiana.edu/). While it is mainly a local group of researchers with a strong interest in [NLP] and [AI] here in Indiana, it has ties to colleagues all across the country.
 
-We meet a couple of times a week on campus in person. The current meeting location is in Ballantine Hall 008 every Wednesday at 6 PM.
+We meet a couple of times a week on campus in person. The current meeting location is in TBA every Monday at 6 PM. (The session during Thanksgiving week will happen! See Teams and email announcements for more detail.)
 
 - [Publications](/publications)
 - [Software](/software)
@@ -15,15 +15,25 @@ We meet a couple of times a week on campus in person. The current meeting locati
 
 ## Research Foci
 
-During the 2021/2022 academic year the focus is on:
+During the 2022/2023 academic year the focus is on:
 
 - [Time and Event Annotation and NLP Technologies (TIE-ML)](/timeevents)
-- [Language Resources for Turkic Languages](/turkic) - [Focusing on Azerbaijani](/turkic)
 - [Knowledge Graph extraction and visualization from relational databases, unstructured text, and images/videos](/kgextraction)
 - Entailment and Reasoning over Knowledge Graphs (and Description Logic/Semantic Web): Using Temporal Graph Neural Networks and Knowledge Graphs.
 
+In all these projects we work on hands-on implementation of technologies, utilizing programming languages like [Python] and [Rust], and graph or RDF libraries, as well as common graph database systems like [Apache Jena], [oxigraph], [AllegroGraph], [GraphDB], or [Neo4j].
+
+See for example:
+
+- [NLP-Lab's Rust material](/rust)
+- [NLP-Lab's Python material](/software)
+
+If you are interested in joining our [Rust] tutorials with a focus on using [Rust] for [NLP] and [AI] or in Robotics environments (with the [Robot Operating System] ([ROS])), please get in touch!
+
+
 Previous projects foci:
 
+- [Language Resources for Turkic Languages](/turkic) - [Focusing on Azerbaijani](/turkic)
 - Processing of the Mueller Report: corpus analysis, prediction models, Knowledge Graph and Event Graph extraction, time reference and sequencing along time axis ([GitHub repo](https://github.com/SemiringInc/Mueller-Report-Corpus)). The cleaned out text corpus with basic annotations is finally available. More data coming soon.
 - [Antisemitism in Social Media](/antisemitism)
 - [I was](https://www.linkedin.com/in/damircavar/) organizing special meetings to refresh our knowledge of Lisp and Prolog for logic computation and reasoning, in particular related to computational semantics and pragmatics, and probabilistic logic, integrating Semantic Web and Knowledge Graph technologies. See [here](http://damir.cavar.me/2020-01-23-Knowledge_Representation_and_Reasoning_for_AI_using_Lisp_Prolog)... but the pandemic interfered with that. We should talk about a continuation. Please get in touch, if you are interested in Lisp / Scheme / Prolog.
@@ -76,3 +86,21 @@ Previous projects foci:
 
 
 Here is [our Event Calendar](https://calendar.google.com/calendar/embed?src=3h9o18o7i82tjmmt5q2j3qgkj8%40group.calendar.google.com&ctz=America%2FNew_York) with all meeting times.
+
+
+
+[Python]: https://www.python.org/ "Python"
+[Rust]: https://www.rust-lang.org/ "Rust Language"
+[AllegroGraph]: https://allegrograph.com/ "AllegroGraph"
+[GraphDB]: https://www.ontotext.com/products/graphdb/ "GraphDB"
+[Neo4j]: https://neo4j.com/ "Neo4j"
+[Apache Jena]: https://jena.apache.org/ "Apache Jena"
+[oxigraph]: https://github.com/oxigraph/ "oxigraph"
+[NLP]: https://en.wikipedia.org/wiki/Natural_language_processing "Natural Language Processing"
+[Natural Language Processing]: https://en.wikipedia.org/wiki/Natural_language_processing "Natural Language Processing"
+[AI]: https://en.wikipedia.org/wiki/Artificial_intelligence "Artificial Intelligence"
+[Artificial Intelligence]: https://en.wikipedia.org/wiki/Artificial_intelligence "Artificial Intelligence"
+[ML]: https://en.wikipedia.org/wiki/Machine_learning "Machine Learning"
+[Machine Learning]: https://en.wikipedia.org/wiki/Machine_learning "Machine Learning"
+[ROS]: https://www.ros.org/ "Robot Operating System"
+[Robot Ooperating System]: https://www.ros.org/ "Robot Operating System"
