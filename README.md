@@ -15,6 +15,10 @@ We meet a couple of times a week on campus in person. The current meeting locati
 
 ## Research Foci
 
+DARPA and IARPA solicitations:
+
+- The team at the NLP Lab will be working on a proposal for [IARPA REASON](https://www.client-meeting.net/reason-proposers-day). We are open to teaming proposals and happy to meet at the [Proposer's Day in January 2023](https://www.iarpa.gov/research-programs/reason)
+
 During the 2022/2023 academic year the focus is on:
 
 - [Time and Event Annotation and NLP Technologies (TIE-ML)](/timeevents)
