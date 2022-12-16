@@ -20,6 +20,7 @@ During the 2022/2023 academic year the focus is on:
 - [Time and Event Annotation and NLP Technologies (TIE-ML)](/timeevents)
 - [Knowledge Graph extraction and visualization from relational databases, unstructured text, and images/videos](/kgextraction)
 - Entailment and Reasoning over Knowledge Graphs (and Description Logic/Semantic Web): Using Temporal Graph Neural Networks and Knowledge Graphs.
+- [2023 Datathon and Hackathon](https://isca.indiana.edu/publication-research/social-media-project/datathon-2023/index.html) on Antisemitic and hate speech, using NLP and Machine Learning to process social media posts.
 
 In all these projects we work on hands-on implementation of technologies, utilizing programming languages like [Python] and [Rust], and graph or RDF libraries, as well as common graph database systems like [Apache Jena], [oxigraph], [AllegroGraph], [GraphDB], or [Neo4j].
 
