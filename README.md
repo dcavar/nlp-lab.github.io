@@ -1,6 +1,6 @@
 ## Welcome to The NLP Lab Pages
 
-The Natural Language Processing Lab (NLP-Lab) is focused on theoretical and hands on implementations of [Natural Language Processing] ([NLP]) and [Artificial Intelligence] ([AI]) solutions using hybrid approaches, empiricist, neural, probabilistic, and knowledge-driven. We are also strongly interested in Quantum [NLP] and Machine Learning ([ML]) solutions for computer vision and multi-modal information processing.
+The Natural Language Processing Lab (NLP-Lab) is focused on theoretical work and implementations of [Natural Language Processing] ([NLP]) and [Artificial Intelligence] ([AI]) solutions using hybrid approaches, empiricist, neural, probabilistic, and knowledge-driven. We are also strongly interested in Quantum [NLP] and Machine Learning ([ML]) solutions for computer vision and multi-modal information processing.
 
 
 The NLP-Lab is located at [Indiana University at Bloomington](https://indiana.edu/). While it is mainly a local group of researchers with a strong interest in [NLP] and [AI] here in Indiana, it has ties to colleagues all across the country.
@@ -39,9 +39,9 @@ If you are interested in joining our [Rust] tutorials with a focus on using [Rus
 Previous projects foci:
 
 - [Language Resources for Turkic Languages](/turkic) - [Focusing on Azerbaijani](/turkic)
-- Processing of the Mueller Report: corpus analysis, prediction models, Knowledge Graph and Event Graph extraction, time reference and sequencing along time axis ([GitHub repo](https://github.com/SemiringInc/Mueller-Report-Corpus)). The cleaned out text corpus with basic annotations is finally available. More data coming soon.
+- Processing of the Mueller Report: corpus analysis, prediction models, Knowledge Graph and Event Graph extraction, time reference and sequencing along the time axis ([GitHub repo](https://github.com/SemiringInc/Mueller-Report-Corpus)). The cleaned-out text corpus with basic annotations is finally available. More data coming soon.
 - [Antisemitism in Social Media](/antisemitism)
-- [I was](https://www.linkedin.com/in/damircavar/) organizing special meetings to refresh our knowledge of Lisp and Prolog for logic computation and reasoning, in particular related to computational semantics and pragmatics, and probabilistic logic, integrating Semantic Web and Knowledge Graph technologies. See [here](http://damir.cavar.me/2020-01-23-Knowledge_Representation_and_Reasoning_for_AI_using_Lisp_Prolog)... but the pandemic interfered with that. We should talk about a continuation. Please get in touch, if you are interested in Lisp / Scheme / Prolog.
+- [I was](https://www.linkedin.com/in/damircavar/) organizing special meetings to refresh our knowledge of Lisp and Prolog for logic computation and reasoning, in particular, related to computational semantics and pragmatics, and probabilistic logic, integrating Semantic Web and Knowledge Graph technologies. See [here](http://damir.cavar.me/2020-01-23-Knowledge_Representation_and_Reasoning_for_AI_using_Lisp_Prolog)... but the pandemic interfered with that. We should talk about a continuation. Please get in touch, if you are interested in Lisp / Scheme / Prolog.
 
 
 ## Team
