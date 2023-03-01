@@ -1,11 +1,10 @@
 ## Welcome to The NLP Lab Pages
 
-The Natural Language Processing Lab (NLP-Lab) is focused on theoretical work and implementations of [Natural Language Processing] ([NLP]) and [Artificial Intelligence] ([AI]) solutions using hybrid approaches, empiricist, neural, probabilistic, and knowledge-driven. We are also strongly interested in Quantum [NLP] and Machine Learning ([ML]) solutions for computer vision and multi-modal information processing.
-
+The Natural Language Processing Lab (NLP-Lab) is focused on theoretical work and implementations of [Natural Language Processing] ([NLP]) and [Artificial Intelligence] ([AI]) solutions using hybrid approaches, empiricist, neural, probabilistic, and knowledge-driven, with a particular interest in neuro-symbolic modeling. We are also strongly interested in Quantum [NLP] and [NLP] combined with Machine Learning ([ML]) solutions for computer vision and multi-modal information processing.
 
 The NLP-Lab is located at [Indiana University at Bloomington](https://indiana.edu/). While it is mainly a local group of researchers with a strong interest in [NLP] and [AI] here in Indiana, it has ties to colleagues all across the country.
 
-We meet a couple of times a week on campus in person. The current meeting location is in Ballantine Hall 013 every Monday at 6 PM. (See Teams and email announcements for more details.)
+We meet a couple of times a week on campus in person. The current regular meeting location is in Ballantine Hall 142 every Monday at 6 PM. (See Teams and email announcements for more details.)
 
 - [Publications](/publications)
 - [Software](/software)
