@@ -15,7 +15,6 @@ We meet a couple of times a week on campus in person. The current meeting locati
 **You can meet us on March, 8th from 3 to 6:30 PM at the Luddy AI Center Open House with a poster on Temporal and Event Logic AI.**
 
 
-
 ## Research Foci
 
 DARPA and IARPA solicitations:
