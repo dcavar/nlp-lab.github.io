@@ -4,12 +4,16 @@ The Natural Language Processing Lab (NLP-Lab) is focused on theoretical work and
 
 The NLP-Lab is located at [Indiana University at Bloomington](https://indiana.edu/). While it is mainly a local group of researchers with a strong interest in [NLP] and [AI] here in Indiana, it has ties to colleagues all across the country.
 
-We meet a couple of times a week on campus in person. The current regular meeting location is in Ballantine Hall 142 every Monday at 6 PM. (See Teams and email announcements for more details.)
+We meet a couple of times a week on campus in person. The current meeting location is in Ballantine Hall 142 every Monday at 6 PM. (See Teams and email announcements for more details.)
 
 - [Publications](/publications)
 - [Software](/software)
 - [Data](/data)
 - [Projects](/projects)
+
+
+**You can meet us on March, 8th from 3 to 6:30 PM at the Luddy AI Center Open House with a poster on Temporal and Event Logic AI.**
+
 
 
 ## Research Foci
@@ -25,7 +29,7 @@ During the 2022/2023 academic year the focus is on:
 - Entailment and Reasoning over Knowledge Graphs (and Description Logic/Semantic Web): Using Temporal Graph Neural Networks and Knowledge Graphs.
 - [2023 Datathon and Hackathon](https://isca.indiana.edu/publication-research/social-media-project/datathon-2023/index.html) on Antisemitic and hate speech, using NLP and Machine Learning to process social media posts.
 
-In all these projects we work on hands-on implementation of technologies, utilizing programming languages like [Python] and [Rust], and graph or RDF libraries, as well as common graph database systems like [Apache Jena], [oxigraph], [AllegroGraph], [GraphDB], or [Neo4j].
+In all these projects we work on hands-on implementation of technologies, utilizing programming languages like [Python] and [Rust], and graph or RDF libraries, as well as common graph-database systems like [Apache Jena], [oxigraph], [AllegroGraph], [GraphDB], or [Neo4j].
 
 See for example:
 
