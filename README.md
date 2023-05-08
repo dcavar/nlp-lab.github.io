@@ -2,9 +2,9 @@
 
 The Natural Language Processing Lab (NLP-Lab) is focused on theoretical work and implementations of [Natural Language Processing] ([NLP]) and [Artificial Intelligence] ([AI]) solutions using hybrid approaches, empiricist, neural, probabilistic, and knowledge-driven, with a particular interest in neuro-symbolic modeling. We are also strongly interested in Quantum [NLP] and [NLP] combined with Machine Learning ([ML]) solutions for computer vision and multi-modal information processing.
 
-The NLP-Lab is located at [Indiana University at Bloomington](https://indiana.edu/). While it is mainly a local group of researchers with a strong interest in [NLP] and [AI] here in Indiana, it has ties to colleagues all across the country.
+The NLP-Lab is located at [Indiana University at Bloomington](https://indiana.edu/). While it is mainly a local group of students and researchers with a strong interest in [NLP] and [AI] here in Indiana, it has ties to colleagues all across the country.
 
-We meet a couple of times a week on campus in person. The current meeting location is in Ballantine Hall 142 every Monday at 6 PM. (See Teams and email announcements for more details.)
+**During summer 2023 we meet every week in Luddy Hall 0002 every Wednesday 4-6 PM. (See Teams and email announcements for more details.)**
 
 - [Publications](/publications)
 - [Software](/software)
@@ -12,21 +12,14 @@ We meet a couple of times a week on campus in person. The current meeting locati
 - [Projects](/projects)
 
 
-**You can meet us on March, 8th from 3 to 6:30 PM at the Luddy AI Center Open House with a poster on Temporal and Event Logic AI.**
-
 
 ## Research Foci
 
-DARPA and IARPA solicitations:
-
-- The team at the NLP Lab will be working on a proposal for [IARPA REASON](https://www.client-meeting.net/reason-proposers-day). We are open to teaming proposals and happy to meet at the [Proposer's Day in January 2023](https://www.iarpa.gov/research-programs/reason)
-
-During the 2022/2023 academic year the focus is on:
+During the 2023/2024 academic year the focus is on:
 
 - [Time and Event Annotation and NLP Technologies (TIE-ML)](/timeevents)
 - [Knowledge Graph extraction and visualization from relational databases, unstructured text, and images/videos](/kgextraction)
 - Entailment and Reasoning over Knowledge Graphs (and Description Logic/Semantic Web): Using Temporal Graph Neural Networks and Knowledge Graphs.
-- [2023 Datathon and Hackathon](https://isca.indiana.edu/publication-research/social-media-project/datathon-2023/index.html) on Antisemitic and hate speech, using NLP and Machine Learning to process social media posts.
 
 In all these projects we work on hands-on implementation of technologies, utilizing programming languages like [Python] and [Rust], and graph or RDF libraries, as well as common graph-database systems like [Apache Jena], [oxigraph], [AllegroGraph], [GraphDB], or [Neo4j].
 
@@ -40,6 +33,7 @@ If you are interested in joining our [Rust] tutorials with a focus on using [Rus
 
 Previous projects foci:
 
+- [2023 Datathon and Hackathon](https://isca.indiana.edu/publication-research/social-media-project/datathon-2023/index.html) on Antisemitic and hate speech, using NLP and Machine Learning to process social media posts.
 - [Language Resources for Turkic Languages](/turkic) - [Focusing on Azerbaijani](/turkic)
 - Processing of the Mueller Report: corpus analysis, prediction models, Knowledge Graph and Event Graph extraction, time reference and sequencing along the time axis ([GitHub repo](https://github.com/SemiringInc/Mueller-Report-Corpus)). The cleaned-out text corpus with basic annotations is finally available. More data coming soon.
 - [Antisemitism in Social Media](/antisemitism)
