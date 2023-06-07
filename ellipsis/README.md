@@ -11,7 +11,8 @@ Last change: Damir Cavar, 2023-06-07
 We identified the following resources online:
 
 - [An annotated corpus for the analysis of VP ellipsis](http://www.let.rug.nl/bos/vpe/abstract.html), Johan Bos and Jennifer Spenader
-- [https://sites.google.com/simmons.edu/vpe-corpus](https://sites.google.com/simmons.edu/vpe-corpus), Lotus Goldberg and Amber Stubbs
+- [The Brandeis-Simmons Corpus of English VP Ellipsis](https://sites.google.com/simmons.edu/vpe-corpus/about)
+    - [VPE-Corpus Material](https://sites.google.com/simmons.edu/vpe-corpus), Lotus Goldberg and Amber Stubbs
     - [The Syntactic Corpus of English VP Ellipsis](https://sites.google.com/simmons.edu/vpe-corpus/nasslli2022), NASSLLI 2022 course
     - [The VP Ellipsis Corpus](https://osf.io/uv2tq/) at OSF
 - [Santa Cruz Ellipsis Project](https://babel.ucsc.edu/SCEP/Downloads/index.html)
