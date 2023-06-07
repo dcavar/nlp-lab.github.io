@@ -17,6 +17,8 @@ The NLP-Lab is located at [Indiana University at Bloomington](https://indiana.ed
 
 During the 2023/2024 academic year the focus is on:
 
+- [Ellipsis and Empty Element Parsing](/ellipsis)
+- [Discontinuity and Non-local Dependency Processing in Natural Language Discourse](/discontinuities)
 - [Time and Event Annotation and NLP Technologies (TIE-ML)](/timeevents)
 - [Knowledge Graph extraction and visualization from relational databases, unstructured text, and images/videos](/kgextraction)
 - Entailment and Reasoning over Knowledge Graphs (and Description Logic/Semantic Web): Using Temporal Graph Neural Networks and Knowledge Graphs.
@@ -44,12 +46,13 @@ Previous projects foci:
 
 - [Dr. Damir Cavar](https://luddy.indiana.edu/contact/profile/?Damir_Cavar)
 - [Andrew Davis](https://www.linkedin.com/in/adavis94/)
+- Aravind Dendukuri
 - [Billy Dickson](https://www.linkedin.com/in/billy-dickson/)
 - [Matthew Fort](https://www.linkedin.com/in/matthew-fort-07b802236/)
 - Soyoung Kim
 - [Ludovic Mompelat](https://www.linkedin.com/in/ludovic-mompelat-8a1960b8/)
+- Harshwardhan Raghunath Patil
 - [Dr. Zoran Tiganj](https://homes.luddy.indiana.edu/ztiganj/)
-
 
 ## Former Team Members
 
