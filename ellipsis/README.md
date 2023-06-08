@@ -1,4 +1,4 @@
-# Ellipsis and Dropped Elements in Natural Language: The Hoosier Ellipsis Corpus
+# Ellipsis and Elided Elements in Natural Language: The Hoosier Ellipsis Corpus
 
 Created: [Damir Cavar], 2023-06-07
 
