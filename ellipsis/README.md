@@ -2,7 +2,7 @@
 
 Created: [Damir Cavar], 2023-06-07
 
-Last change: [Damir Cavar], 2023-06-07
+Last change: [Damir Cavar], 2023-06-08
 
 
 [Ellipsis] and other phenomena where words in sentences and utterances are elided or omitted are extremely interesting from a theoretical linguistic and cognitive language faculty perspective. In general, we recommend looking at [The Oxford Handbook of Ellipsis](https://academic.oup.com/edited-volume/41718) and the numerous research articles, books, and dissertations discussed in the different sections of the handbook. There are also highly relevant articles mentioned below in the publications and on the websites from the various ellipsis corpus projects mentioned below.
@@ -18,7 +18,10 @@ Our goals are ambitious:
 
 - to develop a data set that provides enough corpus material to sufficiently document and represent the various manifestations of [ellipsis], and to provide enough data for the engineering of [NLP] solutions
 - to engineer [NLP] components (parsers and language models) that can reconstruct the omitted words and that can provide theoretically adequate and computationally useful [syntactic] parse tree ([Phrase Structure Tree] and [Dependency Tree]) for constructions containing [ellipsis]
+- all this we want to cover for English, Ukranian, Russian, Chinese, Japanese, Korean, Spanish, German...
 
+
+And, no, [ChatGPT](https://openai.com/blog/chatgpt) is not the solution here...
 
 
 ## Online Resources
