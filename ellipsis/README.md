@@ -18,6 +18,7 @@ We identified the following resources online:
 - [Santa Cruz Ellipsis Project](https://babel.ucsc.edu/SCEP/Downloads/index.html)
     - [Santa Cruz Ellipsis Consortium Sluicing Dataset 1.0](https://zenodo.org/record/1739702)
     - [Dataset of Zaitsu 2019](https://babel.ucsc.edu/SCEP/Downloads/zaitsu-whyVP-dataset.txt)
+    - [Santa Cruz Ellipsis Consortium](https://thi.ucsc.edu/clusters/santa-cruz-ellipsis-consortium/)
 
 If you have more links or if you want to share your data sets, please send us a note, damir at iu.edu.
 
