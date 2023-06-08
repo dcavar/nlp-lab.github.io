@@ -47,8 +47,10 @@ Previous projects foci:
 - [Dr. Damir Cavar](https://luddy.indiana.edu/contact/profile/?Damir_Cavar)
 - [Andrew Davis](https://www.linkedin.com/in/adavis94/)
 - Aravind Dendukuri
+- Shreeja Deshpanbe
 - [Billy Dickson](https://www.linkedin.com/in/billy-dickson/)
 - [Matthew Fort](https://www.linkedin.com/in/matthew-fort-07b802236/)
+- Vance Holthenrichs
 - Soyoung Kim
 - [Ludovic Mompelat](https://www.linkedin.com/in/ludovic-mompelat-8a1960b8/)
 - Harshwardhan Raghunath Patil
