@@ -17,6 +17,7 @@ The NLP-Lab is located at [Indiana University at Bloomington](https://indiana.ed
 
 During the 2023/2024 academic year the focus is on:
 
+- [Quantum NLP](/quantumnlp)
 - [Ellipsis and Empty Element Parsing](/ellipsis)
 - [Discontinuity and Non-local Dependency Processing in Natural Language Discourse](/discontinuities)
 - [Time and Event Annotation and NLP Technologies (TIE-ML)](/timeevents)
@@ -50,10 +51,11 @@ Previous projects foci:
 - Shreeja Deshpanbe
 - [Billy Dickson](https://www.linkedin.com/in/billy-dickson/)
 - [Matthew Fort](https://www.linkedin.com/in/matthew-fort-07b802236/)
-- Vance Holthenrichs
-- Soyoung Kim
+- [Vance Holthenrichs](https://russian.indiana.edu/about/instructors/holthenrichs-van.html)
+- [Soyoung Kim](https://linguistics.indiana.edu/about/graduate-students/kim-soyoung.html)
 - [Ludovic Mompelat](https://www.linkedin.com/in/ludovic-mompelat-8a1960b8/)
 - Harshwardhan Raghunath Patil
+- Shane Alan Sparks
 - [Dr. Zoran Tiganj](https://homes.luddy.indiana.edu/ztiganj/)
 
 ## Former Team Members
