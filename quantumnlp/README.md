@@ -8,7 +8,7 @@ Last change: [Damir Cavar], 2023-06-12
 
 The Quantum NLP project in the NLP Lab is currently a reading group focusing on the most recent papers in Quantum NLP. Our goal is to familiarize everybody with the different tools and environments for QNLP.
 
-The reading group meets independently of the NLP Lab weekly meeting. If you want to join this meeting, contact [Damir Cavar] directly.
+The reading group meets independently of the NLP Lab weekly meeting at [IU-B](https://www.indiana.edu/). If you want to join this meeting, contact [Damir Cavar] directly.
 
 
 The papers we are reading are:
