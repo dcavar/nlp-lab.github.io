@@ -14,6 +14,9 @@ The reading group meets independently of the NLP Lab weekly meeting at [IU-B](ht
 The papers we are reading are:
 
 - Coecke et al. (2010) [Mathematical Foundations for a Compositional Distributional Model of Meaning](https://arxiv.org/abs/1003.4394).
+- Coecke (2019) [The Mathematics of Text Structure](https://arxiv.org/abs/1904.03478).
+- Gogioso (2016) [A Corpus-based Toy Model for DisCoCat](https://arxiv.org/abs/1605.04013).
+- Bradley et al. (2018) [Translating and Evolving: Towards a Model of Language Change in DisCoCat](https://arxiv.org/abs/1811.11041).
 - Kartasaklis et al. (2021) [lambeq: An Efficient High-Level Python Library for Quantum NLP](https://arxiv.org/abs/2110.04236).
 - Widdows et al. (2022) [Near-Term Advances in Quantum Natural Language Processing](https://arxiv.org/abs/2206.02171).
 - Alexander and Widdows (2023) [Quantum Text Encoding for Classification Tasks](https://arxiv.org/abs/2301.03715).
