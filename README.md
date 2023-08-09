@@ -4,7 +4,10 @@ The Natural Language Processing Lab (NLP-Lab) is focused on theoretical work and
 
 The NLP-Lab is located at [Indiana University at Bloomington](https://indiana.edu/). While it is mainly a local group of students and researchers with a strong interest in [NLP] and [AI] here in Indiana, it has ties to colleagues all across the country.
 
-**During the summer of 2023 we meet every week in Luddy Hall 0002 every Wednesday 4-6 PM. (See Teams and email announcements for more details.)**
+**For the rest of 2023 we meet in person every week in Luddy Hall 0002, every Thursday 5:30-7 PM. (See Teams and email announcements for more details.)**
+
+**Please contact Damir Cavar, if you are interested in joining the NLP-Lab meetings. The meetings are in person and only exceptionally Teams-based online participants can join.**
+
 
 - [Publications](/publications)
 - [Software](/software)
