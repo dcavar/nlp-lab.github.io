@@ -27,7 +27,7 @@ During the 2023/2024 academic year the focus is on:
 - [Knowledge Graph extraction and visualization from relational databases, unstructured text, and images/videos](/kgextraction)
 - Entailment and Reasoning over Knowledge Graphs (and Description Logic/Semantic Web): Using Temporal Graph Neural Networks and Knowledge Graphs.
 
-In all these projects we work on hands-on implementation of technologies, utilizing programming languages like [Python] and [Rust], and graph or RDF libraries, as well as common graph-database systems like [Apache Jena], [oxigraph], [AllegroGraph], [GraphDB], or [Neo4j].
+In all these projects we work on hands-on implementation of technologies, utilizing programming languages like [Python] and [Rust], and graph or RDF libraries, as well as common graph-database systems like [Apache Jena], [Fluree], [oxigraph], [AllegroGraph], [GraphDB], or [Neo4j].
 
 See for example:
 
@@ -53,9 +53,9 @@ Previous projects foci:
 - Aravind Dendukuri
 - Shreeja Deshpanbe
 - [Billy Dickson](https://www.linkedin.com/in/billy-dickson/)
-- [Matthew Fort](https://www.linkedin.com/in/matthew-fort-07b802236/)
 - [Vance Holthenrichs](https://russian.indiana.edu/about/instructors/holthenrichs-van.html)
 - [Soyoung Kim](https://linguistics.indiana.edu/about/graduate-students/kim-soyoung.html)
+- Gordon Elliot Lichtstein
 - [Ludovic Mompelat](https://www.linkedin.com/in/ludovic-mompelat-8a1960b8/)
 - Harshwardhan Raghunath Patil
 - Shane Alan Sparks
@@ -72,6 +72,7 @@ Previous projects foci:
 - [Rushabh Dharia](https://github.com/rushabhdharia)
 - Josephine Douglas
 - [Boli Fang](https://github.com/blf11139)
+- [Matthew Fort](https://www.linkedin.com/in/matthew-fort-07b802236/)
 - [Maanvitha Gongalla](https://github.com/maanvithag)
 - [Peace Han](https://github.com/P-eaceHan)
 - [Murali Kishore Varma Kammili](https://github.com/mkvk)
@@ -99,7 +100,7 @@ Previous projects foci:
 Here is [our Event Calendar](https://calendar.google.com/calendar/embed?src=3h9o18o7i82tjmmt5q2j3qgkj8%40group.calendar.google.com&ctz=America%2FNew_York) with all meeting times.
 
 
-
+[Fluree]: https://flur.ee/ "Fluree"
 [Python]: https://www.python.org/ "Python"
 [Rust]: https://www.rust-lang.org/ "Rust Language"
 [AllegroGraph]: https://allegrograph.com/ "AllegroGraph"
