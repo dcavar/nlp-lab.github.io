@@ -57,7 +57,7 @@ Previous projects foci:
 - [Soyoung Kim](https://linguistics.indiana.edu/about/graduate-students/kim-soyoung.html)
 - Gordon Elliot Lichtstein
 - [Ludovic Mompelat](https://www.linkedin.com/in/ludovic-mompelat-8a1960b8/)
-- Harshwardhan Raghunath Patil
+- [Harshwardhan Raghunath Patil](https://harshwardhanpatil.com/)
 - Shane Alan Sparks
 - [Dr. Zoran Tiganj](https://homes.luddy.indiana.edu/ztiganj/)
 
