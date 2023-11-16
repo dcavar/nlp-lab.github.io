@@ -1,12 +1,12 @@
 ## Welcome to The NLP Lab Pages
 
-The Natural Language Processing Lab (NLP-Lab) is focused on theoretical work and implementations of [Natural Language Processing] ([NLP]) and [Artificial Intelligence] ([AI]) solutions using hybrid approaches, empiricist, neural, probabilistic, and knowledge-driven, with a particular interest in neuro-symbolic modeling. We are also strongly interested in Quantum [NLP] and [NLP] combined with Machine Learning ([ML]) solutions for computer vision and multi-modal information processing.
+The Natural Language Processing Lab (NLP-Lab) is focused on theoretical work and implementations of [Natural Language Processing] ([NLP]) and [Artificial Intelligence] ([AI]) solutions using hybrid approaches, empiricist, neural, probabilistic, and knowledge-driven, with a particular interest in neuro-symbolic modeling. We are also interested in Quantum [NLP] and [NLP] combined with Machine Learning ([ML]) solutions for computer vision and multi-modal information processing.
 
 The NLP-Lab is located at [Indiana University at Bloomington](https://indiana.edu/). While it is mainly a local group of students and researchers with a strong interest in [NLP] and [AI] here in Indiana, it has ties to colleagues all across the country.
 
-**For the rest of 2023 we meet in person every week in Luddy Hall 0002, every Thursday 5:30-7 PM. (See Teams and email announcements for more details.)**
+**For the rest of the year 2023 we meet in person every week in Luddy Hall 0002, every Thursday 5:30-7 PM. (See Teams and email announcements for more details.)**
 
-**Please contact Damir Cavar, if you are interested in joining the NLP-Lab meetings. The meetings are in person and only exceptionally Teams-based online participants can join.**
+**Please contact [Damir Cavar] if you are interested in joining the NLP-Lab meetings. The meetings are in person, and only exceptionally Teams-based online participants can join.**
 
 
 - [Publications](/publications)
@@ -41,14 +41,14 @@ Previous projects foci:
 
 - [2023 Datathon and Hackathon](https://isca.indiana.edu/publication-research/social-media-project/datathon-2023/index.html) on Antisemitic and hate speech, using NLP and Machine Learning to process social media posts.
 - [Language Resources for Turkic Languages](/turkic) - [Focusing on Azerbaijani](/turkic)
-- Processing of the Mueller Report: corpus analysis, prediction models, Knowledge Graph and Event Graph extraction, time reference and sequencing along the time axis ([GitHub repo](https://github.com/SemiringInc/Mueller-Report-Corpus)). The cleaned-out text corpus with basic annotations is finally available. More data coming soon.
+- Processing of the Mueller Report: corpus analysis, prediction models, Knowledge Graph and Event Graph extraction, time reference and sequencing along the time axis ([GitHub repo](https://github.com/SemiringInc/Mueller-Report-Corpus)). The cleaned-out text corpus with basic annotations is finally available. More data is coming soon.
 - [Antisemitism in Social Media](/antisemitism)
 - [I was](https://www.linkedin.com/in/damircavar/) organizing special meetings to refresh our knowledge of Lisp and Prolog for logic computation and reasoning, in particular, related to computational semantics and pragmatics, and probabilistic logic, integrating Semantic Web and Knowledge Graph technologies. See [here](http://damir.cavar.me/2020-01-23-Knowledge_Representation_and_Reasoning_for_AI_using_Lisp_Prolog)... but the pandemic interfered with that. We should talk about a continuation. Please get in touch, if you are interested in Lisp / Scheme / Prolog.
 
 
 ## Team
 
-- [Dr. Damir Cavar](https://luddy.indiana.edu/contact/profile/?Damir_Cavar)
+- [Dr. Damir Cavar]
 - [Andrew Davis](https://www.linkedin.com/in/adavis94/)
 - Aravind Dendukuri
 - Shreeja Deshpanbe
@@ -69,43 +69,31 @@ Previous projects foci:
 
 ## Former Team Members
 
-- Aarnav  
-- Dr. Ali Abdulaziz Aljubailan
-- [Oren Baldinger](https://github.com/orenbaldinger)  
-- Abhishek Babuji  
-- [Rohit Bapat](https://github.com/rohitbapat/)
-- [Aarushi Bisht](https://github.com/aarushiibisht)
-- [Rushabh Dharia](https://github.com/rushabhdharia)
-- Josephine Douglas
-- [Boli Fang](https://github.com/blf11139)
-- [Matthew Fort](https://www.linkedin.com/in/matthew-fort-07b802236/)
-- [Maanvitha Gongalla](https://github.com/maanvithag)
-- [Peace Han](https://github.com/P-eaceHan)
-- [Murali Kishore Varma Kammili](https://github.com/mkvk)
-- [Anurag Kumar](https://github.com/anuragkumar95)
-- [Mahesh Latnekar](https://github.com/mrlatnek)
-- [Shujun Liu](https://github.com/liu-shuj/)
-- [Dr. Anthony Meyer](https://www.linkedin.com/in/antmeyer408/)
-- [Umang Mehta](https://umangrmehta.github.io/)
-- [Shreejith Panicker](https://skpanick.github.io/)
-- [Chaitanya Patil](https://github.com/Chaitz333)
-- [Dr. Falcon Dario Restrepo Ramos](https://www.linkedin.com/in/falcon-restrepo-ramos-657b74203/)
-- [Animesh Sagar](https://github.com/animeshsagar)
-- [Gopal Seshadri](https://github.com/GopalSeshadri)
-- [Jagpreet Singh Chawla](https://github.com/jagpreetschawla)
-- Surya Prateek Soni
-- [Ashutosh Tiwari](https://www.linkedin.com/in/ashutosh--tiwari/)
-- [Dr. Yuna Won](http://www.yunawon.net)
-- Kimball Wu
-- [Yiwen Zhang](https://github.com/yiwenzh29)  
+
+| Aarnav                                               | Dr. Ali Abdulaziz Aljubailan |
+| [Oren Baldinger](https://github.com/orenbaldinger)   | Abhishek Babuji  |
+| [Rohit Bapat](https://github.com/rohitbapat/)        | [Aarushi Bisht](https://github.com/aarushiibisht) |
+| [Rushabh Dharia](https://github.com/rushabhdharia)   | Josephine Douglas |
+| [Boli Fang](https://github.com/blf11139)             | [Matthew Fort](https://www.linkedin.com/in/matthew-fort-07b802236/) |
+| [Maanvitha Gongalla](https://github.com/maanvithag)  | [Peace Han](https://github.com/P-eaceHan) |
+| [Murali Kishore Varma Kammili](https://github.com/mkvk) | [Anurag Kumar](https://github.com/anuragkumar95) |
+| [Shujun Liu](https://github.com/liu-shuj/)           | [Dr. Anthony Meyer](https://www.linkedin.com/in/antmeyer408/) |
+| [Umang Mehta](https://umangrmehta.github.io/)        | [Shreejith Panicker](https://skpanick.github.io/) |
+| [Chaitanya Patil](https://github.com/Chaitz333)      | [Dr. Falcon Dario Restrepo Ramos](https://www.linkedin.com/in/falcon-restrepo-ramos-657b74203/) |
+| [Animesh Sagar](https://github.com/animeshsagar)     | [Gopal Seshadri](https://github.com/GopalSeshadri) |
+| [Jagpreet Singh Chawla](https://github.com/jagpreetschawla)      | Surya Prateek Soni |
+| [Ashutosh Tiwari](https://www.linkedin.com/in/ashutosh--tiwari/) | [Dr. Yuna Won](http://www.yunawon.net) |
+| Kimball Wu                                                       | [Yiwen Zhang](https://github.com/yiwenzh29) |
 
 
-<iframe src="https://map.concept3d.com/?id=951#!m/241411" width="100%" height="450" frameBorder="0" scrolling="no" border="0" style="border:0px solid #fff; margin:0; padding:0;"></iframe>
+<!-- <iframe src="https://map.concept3d.com/?id=951#!m/241411" width="100%" height="450" frameBorder="0" scrolling="no" border="0" style="border:0px solid #fff; margin:0; padding:0;"></iframe> -->
 
 
 Here is [our Event Calendar](https://calendar.google.com/calendar/embed?src=3h9o18o7i82tjmmt5q2j3qgkj8%40group.calendar.google.com&ctz=America%2FNew_York) with all meeting times.
 
 
+[Damir Cavar]: http://damir.cavar.me/ "Damir Cavar"
+[Dr. Damir Cavar]: https://luddy.indiana.edu/contact/profile/?Damir_Cavar "Damir Cavar"
 [Fluree]: https://flur.ee/ "Fluree"
 [Python]: https://www.python.org/ "Python"
 [Rust]: https://www.rust-lang.org/ "Rust Language"
