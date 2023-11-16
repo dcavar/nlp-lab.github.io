@@ -60,6 +60,12 @@ Previous projects foci:
 - Harshwardhan Raghunath Patil
 - Shane Alan Sparks
 - [Dr. Zoran Tiganj](https://homes.luddy.indiana.edu/ztiganj/)
+- Khai Anthony Willard
+- [Calvin Josenhans](https://halflinghelper.github.io/)
+- Yuchen Yang
+- John MacIntosh Phillips
+- Luis Abrego
+
 
 ## Former Team Members
 
