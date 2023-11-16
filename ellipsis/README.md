@@ -42,9 +42,31 @@ If you have more links or if you want to share your data sets, please send us a 
 
 
 
-### Hoosier Ellipsis Corpus
+### Indiana Multilingual Ellipsis Corpus
 
 - GitHub repo
+
+The current status of the corpus (still under development):
+
+| lang             | count |
+|------------------|-------|
+| English          | 568   |
+| Arabic           | 375   |
+| Spanish          | 135   |
+| Russian          | 122   |
+| Japanese         | 113   |
+| Hindi            | 112   |
+| Polish           | 91   |
+| Ukrainian        | 81   |
+| German           | 79   |
+| Korean           | 40   |
+| Mandarin Chinese | 31   |
+| Kumaoni          | 29   |
+| Gujarati         | 9   |
+| Swedish          | 8   |
+| Navajo           | 8   |
+| Croatian         | 6   |
+
 
 
 
