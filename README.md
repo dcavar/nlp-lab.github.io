@@ -25,9 +25,9 @@ During the 2023/2024 academic year the focus is on:
 - [Discontinuity and Non-local Dependency Processing in Natural Language Discourse](/discontinuities)
 - [Time and Event Annotation and NLP Technologies (TIE-ML)](/timeevents)
 - [Knowledge Graph extraction and visualization from relational databases, unstructured text, and images/videos](/kgextraction)
-- Entailment and Reasoning over Knowledge Graphs (and Description Logic/Semantic Web): Using Temporal Graph Neural Networks and Knowledge Graphs.
+- Entailment and Reasoning over Knowledge Graphs (and Description Logic/Semantic Web): Using Temporal Graph Neural Networks, Large Language Models, and Knowledge Graphs.
 
-In all these projects we work on hands-on implementation of technologies, utilizing programming languages like [Python] and [Rust], and graph or RDF libraries, as well as common graph-database systems like [Apache Jena], [Fluree], [oxigraph], [AllegroGraph], [GraphDB], or [Neo4j].
+In all these projects, we work on hands-on implementation of technologies, utilizing programming languages like [Python] and [Rust], and graph or RDF libraries, as well as common graph-database systems like [Apache Jena], [Fluree], [oxigraph], [AllegroGraph], [GraphDB], or [Neo4j].
 
 See for example:
 
@@ -48,23 +48,15 @@ Previous projects foci:
 
 ## Team
 
-- [Dr. Damir Cavar]
-- [Andrew Davis](https://www.linkedin.com/in/adavis94/)
-- Aravind Dendukuri
-- Shreeja Deshpanbe
-- [Billy Dickson](https://www.linkedin.com/in/billy-dickson/)
-- [Vance Holthenrichs](https://russian.indiana.edu/about/instructors/holthenrichs-van.html)
-- [Soyoung Kim](https://linguistics.indiana.edu/about/graduate-students/kim-soyoung.html)
-- Gordon Elliot Lichtstein
-- [Ludovic Mompelat](https://www.linkedin.com/in/ludovic-mompelat-8a1960b8/)
-- Harshwardhan Raghunath Patil
-- Shane Alan Sparks
-- [Dr. Zoran Tiganj](https://homes.luddy.indiana.edu/ztiganj/)
-- Khai Anthony Willard
-- [Calvin Josenhans](https://halflinghelper.github.io/)
-- Yuchen Yang
-- [John MacIntosh Phillips](https://github.com/jackp1377)
-- Luis Abrego
+| [Dr. Damir Cavar] | [Andrew Davis](https://www.linkedin.com/in/adavis94/) |
+| Aravind Dendukuri | Shreeja Deshpanbe |
+| [Billy Dickson](https://www.linkedin.com/in/billy-dickson/) | [Vance Holthenrichs](https://russian.indiana.edu/about/instructors/holthenrichs-van.html) |
+| [Soyoung Kim](https://linguistics.indiana.edu/about/graduate-students/kim-soyoung.html) | Gordon Elliot Lichtstein |
+| [Ludovic Mompelat](https://www.linkedin.com/in/ludovic-mompelat-8a1960b8/) | Harshwardhan Raghunath Patil |
+| Shane Alan Sparks | [Dr. Zoran Tiganj](https://homes.luddy.indiana.edu/ztiganj/) |
+| Khai Anthony Willard | [Calvin Josenhans](https://halflinghelper.github.io/) |
+| Yuchen Yang | [John MacIntosh Phillips](https://github.com/jackp1377) |
+| Luis Abrego | |
 
 
 ## Former Team Members
