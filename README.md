@@ -4,7 +4,7 @@ The Natural Language Processing Lab (NLP-Lab) is focused on theoretical work and
 
 The NLP-Lab is located at [Indiana University at Bloomington](https://indiana.edu/). While it is mainly a local group of students and researchers with a strong interest in [NLP] and [AI] here in Indiana, it has ties to colleagues all across the country.
 
-**For the rest of the year 2023 we meet in person every week in Luddy Hall 0002, every Thursday 5:30-7 PM. (See Teams and email announcements for more details.)**
+**For the rest of the year 2024 we meet in person every week in Luddy Hall BCIF 0002, every Wednesday 5:00-6:30 PM. (See Teams and email announcements for more details.)**
 
 **Please contact [Damir Cavar] if you are interested in joining the NLP-Lab meetings. The meetings are in person, and only exceptionally Teams-based online participants can join.**
 
@@ -18,13 +18,13 @@ The NLP-Lab is located at [Indiana University at Bloomington](https://indiana.ed
 
 ## Research Foci
 
-During the 2023/2024 academic year the focus is on:
+During the 2024 academic year the focus is on:
 
-- [Quantum NLP](/quantumnlp)
 - [Ellipsis and Empty Element Parsing](/ellipsis)
 - [Discontinuity and Non-local Dependency Processing in Natural Language Discourse](/discontinuities)
 - [Time and Event Annotation and NLP Technologies (TIE-ML)](/timeevents)
 - [Knowledge Graph extraction and visualization from relational databases, unstructured text, and images/videos](/kgextraction)
+- [Quantum NLP](/quantumnlp)
 - Entailment and Reasoning over Knowledge Graphs (and Description Logic/Semantic Web): Using Temporal Graph Neural Networks, Large Language Models, and Knowledge Graphs.
 
 In all these projects, we work on hands-on implementation of technologies, utilizing programming languages like [Python] and [Rust], and graph or RDF libraries, as well as common graph-database systems like [Apache Jena], [Fluree], [oxigraph], [AllegroGraph], [GraphDB], or [Neo4j].
@@ -60,7 +60,6 @@ Previous projects foci:
 
 
 ## Former Team Members
-
 
 | Aarnav                                               | Dr. Ali Abdulaziz Aljubailan |
 | [Oren Baldinger](https://github.com/orenbaldinger)   | Abhishek Babuji  |
