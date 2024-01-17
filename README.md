@@ -48,7 +48,7 @@ Previous projects foci:
 
 ## Team
 
-| [Dr. Damir Cavar] | []() |
+| [Dr. Damir Cavar] | [Muhammad S. Abdo](https://www.linkedin.com/in/muhsabrys/) |
 | [Andrew Davis](https://www.linkedin.com/in/adavis94/) | 
 | Aravind Dendukuri | Shreeja Deshpanbe |
 | [Billy Dickson](https://www.linkedin.com/in/billy-dickson/) | [Vance Holthenrichs](https://russian.indiana.edu/about/instructors/holthenrichs-van.html) |
