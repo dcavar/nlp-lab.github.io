@@ -49,12 +49,12 @@ Previous projects foci:
 ## Team
 
 | [Dr. Damir Cavar] | [Muhammad S. Abdo](https://www.linkedin.com/in/muhsabrys/) |
-| [Andrew Davis](https://www.linkedin.com/in/adavis94/) | 
+| [Andrew Davis](https://www.linkedin.com/in/adavis94/) | [Dhananjay Srivastava](https://www.linkedin.com/in/dhananjay-srivastava/) |
 | Aravind Dendukuri | Shreeja Deshpanbe |
 | [Billy Dickson](https://www.linkedin.com/in/billy-dickson/) | [Vance Holthenrichs](https://russian.indiana.edu/about/instructors/holthenrichs-van.html) |
-| [Soyoung Kim](https://linguistics.indiana.edu/about/graduate-students/kim-soyoung.html) | Gordon Elliot Lichtstein |
+| [Soyoung Kim](https://linguistics.indiana.edu/about/graduate-students/kim-soyoung.html) |  |
 | [Ludovic Mompelat](https://www.linkedin.com/in/ludovic-mompelat-8a1960b8/) | Harshwardhan Raghunath Patil |
-| Shane Alan Sparks | [Dr. Zoran Tiganj](https://homes.luddy.indiana.edu/ztiganj/) |
+|  | [Dr. Zoran Tiganj](https://homes.luddy.indiana.edu/ztiganj/) |
 | Khai Anthony Willard | [Calvin Josenhans](https://halflinghelper.github.io/) |
 | Yuchen Yang | [John MacIntosh Phillips](https://github.com/jackp1377) |
 | Luis Abrego | |
@@ -63,6 +63,7 @@ Previous projects foci:
 ## Former Team Members
 
 | Aarnav                                               | Dr. Ali Abdulaziz Aljubailan |
+| Gordon Elliot Lichtstein | Shane Alan Sparks |
 | [Oren Baldinger](https://github.com/orenbaldinger)   | Abhishek Babuji  |
 | [Rohit Bapat](https://github.com/rohitbapat/)        | [Aarushi Bisht](https://github.com/aarushiibisht) |
 | [Rushabh Dharia](https://github.com/rushabhdharia)   | Josephine Douglas |
