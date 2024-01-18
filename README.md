@@ -51,8 +51,7 @@ Previous projects foci:
 | [Dr. Damir Cavar] | [Muhammad S. Abdo](https://www.linkedin.com/in/muhsabrys/) |
 | [Andrew Davis](https://www.linkedin.com/in/adavis94/) | [Dhananjay Srivastava](https://www.linkedin.com/in/dhananjay-srivastava/) |
 | [Billy Dickson](https://www.linkedin.com/in/billy-dickson/) | [Vance Holthenrichs](https://russian.indiana.edu/about/instructors/holthenrichs-van.html) |
-| [Soyoung Kim](https://linguistics.indiana.edu/about/graduate-students/kim-soyoung.html) |  |
-|  | [Dr. Zoran Tiganj](https://homes.luddy.indiana.edu/ztiganj/) |
+| [Soyoung Kim](https://linguistics.indiana.edu/about/graduate-students/kim-soyoung.html) | [Dr. Zoran Tiganj](https://homes.luddy.indiana.edu/ztiganj/) |
 | Khai Anthony Willard | [Calvin Josenhans](https://halflinghelper.github.io/) |
 | Yuchen Yang | [John MacIntosh Phillips](https://github.com/jackp1377) |
 | Luis Abrego | [Ian Devine](https://www.linkedin.com/in/ian-devine-2002/) |
