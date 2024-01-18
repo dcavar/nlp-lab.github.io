@@ -50,19 +50,19 @@ Previous projects foci:
 
 | [Dr. Damir Cavar] | [Muhammad S. Abdo](https://www.linkedin.com/in/muhsabrys/) |
 | [Andrew Davis](https://www.linkedin.com/in/adavis94/) | [Dhananjay Srivastava](https://www.linkedin.com/in/dhananjay-srivastava/) |
-| Aravind Dendukuri | Shreeja Deshpanbe |
 | [Billy Dickson](https://www.linkedin.com/in/billy-dickson/) | [Vance Holthenrichs](https://russian.indiana.edu/about/instructors/holthenrichs-van.html) |
 | [Soyoung Kim](https://linguistics.indiana.edu/about/graduate-students/kim-soyoung.html) |  |
-| [Ludovic Mompelat](https://www.linkedin.com/in/ludovic-mompelat-8a1960b8/) | Harshwardhan Raghunath Patil |
 |  | [Dr. Zoran Tiganj](https://homes.luddy.indiana.edu/ztiganj/) |
 | Khai Anthony Willard | [Calvin Josenhans](https://halflinghelper.github.io/) |
 | Yuchen Yang | [John MacIntosh Phillips](https://github.com/jackp1377) |
-| Luis Abrego | |
+| Luis Abrego | [Ian Devine](https://www.linkedin.com/in/ian-devine-2002/) |
 
 
 ## Former Team Members
 
 | Aarnav                                               | Dr. Ali Abdulaziz Aljubailan |
+| Aravind Dendukuri | Shreeja Deshpanbe |
+| [Dr. Ludovic Mompelat](https://www.linkedin.com/in/ludovic-mompelat-8a1960b8/) |  Harshwardhan Raghunath Patil |
 | Gordon Elliot Lichtstein | Shane Alan Sparks |
 | [Oren Baldinger](https://github.com/orenbaldinger)   | Abhishek Babuji  |
 | [Rohit Bapat](https://github.com/rohitbapat/)        | [Aarushi Bisht](https://github.com/aarushiibisht) |
