@@ -69,6 +69,12 @@ The current status of the corpus (still under development):
 
 
 
+## Publications
+
+- Damir Cavar, Ludovic Vetea Mompelat, Muhammad S. Abdo (2024) The Typology of Ellipsis: A Corpus for Linguistic Analysis and Machine Learning Applications. Paper to be presented at the [ACL Special Interest Group on Typology](https://sigtyp.github.io/) ([SIGTYP](https://sigtyp.github.io/)) 2024, colocated with the [18th Conference of the European Chapter of the Association for Computational Linguistics](https://2024.eacl.org/), St Julian's, Malta (March, 2024). (full paper)
+
+
+
 
 [Damir Cavar]: http://damir.cavar.me/ "Damir Cavar"
 [NLP-Lab.org]: http://nlp-lab.org/ "NLP-Lab.org"
