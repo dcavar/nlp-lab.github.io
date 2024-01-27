@@ -55,7 +55,7 @@ Previous projects foci:
 | Khai Anthony Willard | [Calvin Josenhans](https://halflinghelper.github.io/) |
 | Yuchen Yang | [John MacIntosh Phillips](https://github.com/jackp1377) |
 | Luis Abrego | [Ian Devine](https://www.linkedin.com/in/ian-devine-2002/) |
-| Anshul Kumar Mangalapalli | |
+| Anshul Kumar Mangalapalli |  |
 
 
 ## Former Team Members
