@@ -5,7 +5,7 @@ Created: [Damir Cavar], 2023-06-12
 Last change: [Damir Cavar], 2023-06-12
 
 
-**The Quantum NLP Reading Group starts from February 9th 2024. The location will be announced ASAP.**
+**The Quantum NLP Reading Group starts from February 9th 2024. The meetings are on Ballantine Hall BLBH 105 every Friday at 4 PM.**
 
 
 
