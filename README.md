@@ -6,7 +6,7 @@ The NLP-Lab is located at [Indiana University at Bloomington](https://indiana.ed
 
 **For the rest of the year 2024 we meet in person every week in Luddy Hall BCIF 0002, every Wednesday 5:00-6:30 PM. (See Teams and email announcements for more details.)**
 
-**The Quantum NLP Reading Group starts from February 9th 2024. The meetings are on Ballantine Hall BLBH 105 every Friday at 4 PM.**
+**The Quantum NLP Reading Group meetings are in Ballantine Hall BLBH 105 every Friday at 4 PM.**
 
 **Please contact [Damir Cavar] if you are interested in joining the NLP-Lab meetings. The meetings are in person, and only exceptionally Teams-based online participants can join.**
 
