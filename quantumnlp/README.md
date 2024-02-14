@@ -2,11 +2,10 @@
 
 Created: [Damir Cavar], 2023-06-12
 
-Last change: [Damir Cavar], 2023-06-12
+Last change: [Damir Cavar], 2024-02-14
 
 
-**The Quantum NLP Reading Group starts from February 9th 2024. The meetings are on Ballantine Hall BLBH 105 every Friday at 4 PM.**
-
+**The Quantum NLP Reading Group meetings are in Ballantine Hall BLBH 105 every Friday at 4 PM.**
 
 
 The Quantum NLP project in the NLP Lab is currently a reading group focusing on the most recent papers in Quantum NLP. Our goal is to familiarize everybody with the different tools and environments for QNLP.
@@ -29,6 +28,7 @@ The papers we are reading are:
 
 ## Tools and Technologies
 
+- [lambeq], Python library for experimental Quantum Natural Language Processing (QNLP)
 - [tket], a quantum SDK
     - [pytket], a quantum computing toolkit and optimizing compiler by Quantinuum
     - [pytket-extensions], extension modules for [pytket]
@@ -48,3 +48,4 @@ The papers we are reading are:
 [pytket]:      https://github.com/CQCL/pytket "pytket, quantum computing toolkit"
 [pytket-extensions]: https://github.com/CQCL/pytket-extensions "pytket extension modules"
 [Qiskit]: https://qiskit.org/ "Qiskit"
+[lambeq]: https://cqcl.github.io/lambeq/ "Lambeq"
