@@ -14,7 +14,7 @@
 
 ## Presentations
 
-- [Damir Cavar], [Muhammad S. Abdo](https://www.linkedin.com/in/muhsabrys/), and [Billy Dickson](https://www.linkedin.com/in/billy-dickson/) (2024) Ellipsis in Arabic: Using Machine Learning to Detect and Predict Elided Words. Paper presented at the [Arabic Linguistic Society](https://arabic-linguistics-society.uwm.edu/annual-symposia-on-arabic-linguistics/guidelines-for-writing-abstracts/) ([ASAL](https://arabic-linguistics-society.uwm.edu/annual-symposia-on-arabic-linguistics/guidelines-for-writing-abstracts/)) 37 Conference, February 2024, New York City.
+- [Damir Cavar], [Muhammad S. Abdo](https://www.linkedin.com/in/muhsabrys/), and [Billy Dickson](https://www.linkedin.com/in/billy-dickson/) (2024) Ellipsis in Arabic: Using Machine Learning to Detect and Predict Elided Words. Paper presented at the [Arabic Linguistic Society](https://arabic-linguistics-society.uwm.edu/annual-symposia-on-arabic-linguistics/guidelines-for-writing-abstracts/) ([ASAL](https://arabic-linguistics-society.uwm.edu/annual-symposia-on-arabic-linguistics/guidelines-for-writing-abstracts/)) 37 Conference, February 2024, New York City. ([slides](/publications/Ellipsis_IU.pdf))
 
 - *[Building a Multilingual Ellipsis CorpusCalvin](/publications/Poster_UG_Ellipsis_Nov_2023.pdf)*. IU presentation, Luddy School, authors: Calvin Josenhans, John Phillips, Khai Willard, Luis Abrego, Yuchen Yang, Niko Kilo1and, [Damir Cavar]
 
