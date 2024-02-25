@@ -48,24 +48,6 @@ If you have more links or if you want to share your data sets, please send us a 
 
 The current status of the corpus (still under development):
 
-| lang             | count |
-|------------------|-------|
-| English          | 568   |
-| Arabic           | 375   |
-| Spanish          | 135   |
-| Russian          | 122   |
-| Japanese         | 113   |
-| Hindi            | 112   |
-| Polish           | 91   |
-| Ukrainian        | 81   |
-| German           | 79   |
-| Korean           | 40   |
-| Mandarin Chinese | 31   |
-| Kumaoni          | 29   |
-| Gujarati         | 9   |
-| Swedish          | 8   |
-| Navajo           | 8   |
-| Croatian         | 6   |
 
 
 
@@ -78,7 +60,9 @@ The current status of the corpus (still under development):
 
 - [Damir Cavar], [Ludovic V. Mompelat](https://www.linkedin.com/in/ludovic-mompelat-8a1960b8/), [Muhammad S. Abdo](https://www.linkedin.com/in/muhsabrys/) (2024) The Typology of Ellipsis: A Corpus for Linguistic Analysis and Machine Learning Applications. Paper to be presented at the [ACL Special Interest Group on Typology](https://sigtyp.github.io/) ([SIGTYP](https://sigtyp.github.io/)) 2024, colocated with the [18th Conference of the European Chapter of the Association for Computational Linguistics](https://2024.eacl.org/), St Julian's, Malta. (full paper)
 
-- [Damir Cavar], [Muhammad S. Abdo](https://www.linkedin.com/in/muhsabrys/), and [Billy Dickson](https://www.linkedin.com/in/billy-dickson/) (2024) Ellipsis in Arabic: Using Machine Learning to Detect and Predict Elided Words. Paper presented at the [Arabic Linguistic Society](https://arabic-linguistics-society.uwm.edu/annual-symposia-on-arabic-linguistics/guidelines-for-writing-abstracts/) ([ASAL](https://arabic-linguistics-society.uwm.edu/annual-symposia-on-arabic-linguistics/guidelines-for-writing-abstracts/)) 37 Conference, February 2024, New York City.
+This presentation is about ellipsis constructions in Arabic and three types of experiments using Logistic Regression, BERT-type of classifiers and guessers, and [GPT-4](https://chat.openai.com/) ([ChatGPT](https://chat.openai.com/)) Large Language Models (LLM) to guess whether sentences contain ellipsis, where the ellipsis is located, and what the elided words are:
+
+- [Damir Cavar], [Muhammad S. Abdo](https://www.linkedin.com/in/muhsabrys/), and [Billy Dickson](https://www.linkedin.com/in/billy-dickson/) (2024) Ellipsis in Arabic: Using Machine Learning to Detect and Predict Elided Words. Paper presented at the [Arabic Linguistic Society](https://arabic-linguistics-society.uwm.edu/annual-symposia-on-arabic-linguistics/guidelines-for-writing-abstracts/) ([ASAL](https://arabic-linguistics-society.uwm.edu/annual-symposia-on-arabic-linguistics/guidelines-for-writing-abstracts/)) 37 Conference, February 2024, New York City. ([slides](/publications/Ellipsis_IU.pdf))
 
 
 
