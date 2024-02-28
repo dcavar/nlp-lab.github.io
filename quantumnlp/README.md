@@ -40,6 +40,7 @@ The papers we are reading are:
 - [From quantum picturalism to quantum NLP and quantum AI](https://www.youtube.com/live/pFc2PmxVMt8?feature=share) with Bob Coecke
 - [An introduction to Quantum Natural Language Processing](https://medium.com/qiskit/an-introduction-to-quantum-natural-language-processing-7aa4cc73c674), Nov. 2022 by Amin Karamlou, Marcel Pfaffhauser, and James Wootton
     - [related presentation](https://youtu.be/mJSjAePB0Eo) from the QNLP 2022
+- [A Simple Classification Task Using lambeq](https://colab.research.google.com/drive/1fFvFJgA8ybbh75D0SBcEFHGV9D6bO2qU?usp=sharing) Jupyter Notebook Example using lambeq
 
 
 
