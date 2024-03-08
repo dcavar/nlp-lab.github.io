@@ -58,7 +58,7 @@ The current status of the corpus (still under development):
 
 ## Presentations
 
-- Vance Holthenrichs, Damir Ćavar, Zoran Tiganj, Billy Dickson (May 2024) *On Ellipsis in Slavic: The Ellipsis Corpus and Natural Language Processing Results* (16-19 May 2024) at the [Formal Approaches to Slavic Linguistics 33](https://sites.google.com/view/fasl33) ([FASL33](https://sites.google.com/view/fasl33)), Halifax, Canada.
+- Vance Holthenrichs, Damir Cavar, Zoran Tiganj, Billy Dickson (May 2024) *On Ellipsis in Slavic: The Ellipsis Corpus and Natural Language Processing Results* (16-19 May 2024) at the [Formal Approaches to Slavic Linguistics 33](https://sites.google.com/view/fasl33) ([FASL33](https://sites.google.com/view/fasl33)), Halifax, Canada.
 
 - [Damir Cavar], [Ludovic V. Mompelat](https://www.linkedin.com/in/ludovic-mompelat-8a1960b8/), [Muhammad S. Abdo](https://www.linkedin.com/in/muhsabrys/) (2024) The Typology of Ellipsis: A Corpus for Linguistic Analysis and Machine Learning Applications. Paper to be presented at the [ACL Special Interest Group on Typology](https://sigtyp.github.io/) ([SIGTYP](https://sigtyp.github.io/)) 2024, colocated with the [18th Conference of the European Chapter of the Association for Computational Linguistics](https://2024.eacl.org/), St Julian's, Malta. (full paper)
 
