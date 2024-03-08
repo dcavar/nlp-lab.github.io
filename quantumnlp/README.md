@@ -28,6 +28,8 @@ The reading group meets independently of the NLP Lab weekly meeting at [IU-B](ht
 
 ## Literature <a name="Literature"></a>
 
+### Papers:
+
 The papers we are reading are:
 
 - Coecke et al. (2010) [Mathematical Foundations for a Compositional Distributional Model of Meaning](https://arxiv.org/abs/1003.4394).
@@ -39,6 +41,13 @@ The papers we are reading are:
 - Alexander and Widdows (2023) [Quantum Text Encoding for Classification Tasks](https://arxiv.org/abs/2301.03715).
 - Lorenz et al. (2021) [QNLP in Practice: Running Compositional Models of Meaning on a Quantum Computer](https://arxiv.org/abs/2102.12846).
 - Meichanetzidis et al. (2020) [Grammar-aware sentence classification on quantum computers](https://arxiv.org/abs/2012.03756).
+- Bob Coecke (2023) [Our quest for finding the universality of language](https://medium.com/quantinuum/our-quest-for-finding-the-universality-of-language-d0f7a40b76e6)
+
+
+### Books:
+
+- Bob Coecke and Stefano Gogioso (2023) [Quantum in Pictures: A New Way to Understand the Quantum World](https://www.quantinuum.com/news/quantum-in-pictures), Quantinuum.
+-  Bob Coecke and Aleks Kissinger (2017) [Picturing Quantum Processes: A First Course in Quantum Theory and Diagrammatic Reasoning](https://www.cambridge.org/core/books/picturing-quantum-processes/1119568B3101F3A685BE832FEEC53E52), Cambridge University Press.
 
 
 Relevant literature from Cognitive Science and Psychology, related to language:
