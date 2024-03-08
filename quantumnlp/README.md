@@ -2,7 +2,7 @@
 
 Created: [Damir Cavar], 2023-06-12
 
-Last change: [Damir Cavar], 2024-02-14
+Last change: [Damir Cavar], 2024-03-08
 
 
 **The Quantum NLP Reading Group meetings are in Ballantine Hall BLBH 105 every Friday at 4 PM.**
@@ -24,6 +24,12 @@ The papers we are reading are:
 - Alexander and Widdows (2023) [Quantum Text Encoding for Classification Tasks](https://arxiv.org/abs/2301.03715).
 - Lorenz et al. (2021) [QNLP in Practice: Running Compositional Models of Meaning on a Quantum Computer](https://arxiv.org/abs/2102.12846).
 - Meichanetzidis et al. (2020) [Grammar-aware sentence classification on quantum computers](https://arxiv.org/abs/2012.03756).
+
+
+Relevant literature from Cognitive Science and Psychology, related to language:
+
+- Jerome R. Busemeyer and Peter D. Bruza (2012) *[Quantum Models of Cognition and Decision](https://www.cambridge.org/core/books/quantum-models-of-cognition-and-decision/75909428F710F7C6AF7D580CB83443AC)*. Cambridge University Press. (FYI: the second edition is coming out soon and it has a special chapter on Large Language Models!)
+
 
 
 ## Tools and Technologies
