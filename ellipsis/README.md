@@ -58,6 +58,8 @@ The current status of the corpus (still under development):
 
 ## Presentations
 
+- 
+
 - [Damir Cavar], [Ludovic V. Mompelat](https://www.linkedin.com/in/ludovic-mompelat-8a1960b8/), [Muhammad S. Abdo](https://www.linkedin.com/in/muhsabrys/) (2024) The Typology of Ellipsis: A Corpus for Linguistic Analysis and Machine Learning Applications. Paper to be presented at the [ACL Special Interest Group on Typology](https://sigtyp.github.io/) ([SIGTYP](https://sigtyp.github.io/)) 2024, colocated with the [18th Conference of the European Chapter of the Association for Computational Linguistics](https://2024.eacl.org/), St Julian's, Malta. (full paper)
 
 This presentation is about ellipsis constructions in Arabic and three types of experiments using Logistic Regression, BERT-type of classifiers and guessers, and [GPT-4](https://chat.openai.com/) ([ChatGPT](https://chat.openai.com/)) Large Language Models (LLM) to guess whether sentences contain ellipsis, where the ellipsis is located, and what the elided words are:
