@@ -16,9 +16,10 @@ The NLP-Lab is located at [Indiana University at Bloomington](https://indiana.ed
 - [Data](/data)
 - [Projects](/projects)
 
+
 ## News
 
-- [Damir Cavar], Billy Dickson (2024) *Generative AI and Symbolic Knowledge Representations: Large Language Models, Knowledge, and Reasoning*, (July/August 2024) course to be taught at the [35th European Summer School in Logic, Language and Information](https://2024.esslli.eu/) [ESSLLI 2024](https://2024.esslli.eu/) in Leuven, Belgium.
+- [Damir Cavar], [Billy Dickson](https://www.linkedin.com/in/billy-dickson/) (2024) *Generative AI and Symbolic Knowledge Representations: Large Language Models, Knowledge, and Reasoning*, (July/August 2024) course to be taught at the [35th European Summer School in Logic, Language and Information](https://2024.esslli.eu/) [ESSLLI 2024](https://2024.esslli.eu/) in Leuven, Belgium.
 
 
 ## Research Foci
