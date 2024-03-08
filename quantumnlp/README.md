@@ -14,6 +14,7 @@ Last change: [Damir Cavar], 2024-03-08
 - [Literature](#Literature)
 - [Tools and Technologies](#tools_and_technologies)
 - [Tutorials](#tutorials)
+- [Conferences](#conferences)
 - [Jobs and Internships](#jobs_internships)
 
 
@@ -55,7 +56,6 @@ Relevant literature from Cognitive Science and Psychology, related to language:
 - Jerome R. Busemeyer and Peter D. Bruza (2012) *[Quantum Models of Cognition and Decision](https://www.cambridge.org/core/books/quantum-models-of-cognition-and-decision/75909428F710F7C6AF7D580CB83443AC)*. Cambridge University Press. (FYI: the second edition is coming out soon and it has a special chapter on Large Language Models!)
 
 
-
 ## Tools and Technologies <a name="tools_and_technologies"></a>
 
 - [lambeq], Python library for experimental Quantum Natural Language Processing (QNLP)
@@ -70,6 +70,12 @@ Relevant literature from Cognitive Science and Psychology, related to language:
 - [From quantum picturalism to quantum NLP and quantum AI](https://www.youtube.com/live/pFc2PmxVMt8?feature=share) with Bob Coecke
 - [An introduction to Quantum Natural Language Processing](https://medium.com/qiskit/an-introduction-to-quantum-natural-language-processing-7aa4cc73c674), Nov. 2022 by Amin Karamlou, Marcel Pfaffhauser, and James Wootton
     - [related presentation](https://youtu.be/mJSjAePB0Eo) from the QNLP 2022
+
+
+## Conferences <a name="conferences"></a>
+
+- [Quantum Natural Language Processing (QNLP) 2022](https://qnlp.cambridgequantum.com/conf2022/), Oxford, UK
+- [Quantum Natural Language Processing (QNLP) 2023](https://qnlp.cambridgequantum.com/conf2023/), Gothenburg, Sweden
 
 
 ## Jobs and Internships <a name="jobs_internships"></a>
