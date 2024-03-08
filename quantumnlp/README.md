@@ -26,6 +26,10 @@ The reading group meets independently of the NLP Lab weekly meeting at [IU-B](ht
 
 - The [GitHub repo](https://github.com/dcavar/q).
 
+At Indiana University there is the 
+
+- [QSEc - Quantum Science and Engineering Center](https://qsec.sitehost.iu.edu/)
+
 
 ## Literature <a name="Literature"></a>
 
@@ -43,6 +47,7 @@ The papers we are reading are:
 - Lorenz et al. (2021) [QNLP in Practice: Running Compositional Models of Meaning on a Quantum Computer](https://arxiv.org/abs/2102.12846).
 - Meichanetzidis et al. (2020) [Grammar-aware sentence classification on quantum computers](https://arxiv.org/abs/2012.03756).
 - Bob Coecke (2023) [Our quest for finding the universality of language](https://medium.com/quantinuum/our-quest-for-finding-the-universality-of-language-d0f7a40b76e6)
+- Widdows, Dominic and Stanley Peters (2003) *[Word Vectors and Quantum Logic Experiments with negation and disjunction](https://www.semanticscholar.org/paper/Word-Vectors-and-Quantum-Logic-Experiments-with-and-Widdows-Peters/5160cad9dc3d6b19ae26796d79f69c24cee0e676#cited-papers)*. 
 
 
 ### Books:
