@@ -33,6 +33,9 @@ At Indiana University there is the
 
 ## Literature <a name="Literature"></a>
 
+<a href="https://nlp-lab.org/quantumnlp/quantum.html" target="_blank">Bibliography</a>
+
+
 ### Papers:
 
 The papers we are reading are:

@@ -1,6 +1,7 @@
 # Prerequisites
 *.d
 .idea/
+*.sav.tmp
 
 # Object files
 *.o
