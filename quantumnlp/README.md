@@ -8,12 +8,25 @@ Last change: [Damir Cavar], 2024-03-08
 **The Quantum NLP Reading Group meetings are in Ballantine Hall BLBH 105 every Friday at 4 PM.**
 
 
-The Quantum NLP project in the NLP Lab is currently a reading group focusing on the most recent papers in Quantum NLP. Our goal is to familiarize everybody with the different tools and environments for QNLP.
+## TOC
+
+- [Tools and Technologies](#tools_and_technologies)
+- [Tutorials](#tutorials)
+- [Jobs and Internships](#jobs_internships)
+- [Introduction](#Introduction)
+- [Literature](#Literature)
+
+
+## Introduction <a name="Introduction"></a>
+
+The Quantum NLP project in the NLP Lab is currently a reading group focusing on the most recent papers in Quantum NLP. Our goal is to familiarize everybody with the different tools and environments for QNLP and work on interesting questions related to Quantum and language-related computation or cognitive aspects of language processing and quantum models.
 
 The reading group meets independently of the NLP Lab weekly meeting at [IU-B](https://www.indiana.edu/). If you want to join this meeting, contact [Damir Cavar] directly.
 
 - The [GitHub repo](https://github.com/dcavar/q).
 
+
+## Literature <a name="Literature"></a>
 
 The papers we are reading are:
 
@@ -34,7 +47,7 @@ Relevant literature from Cognitive Science and Psychology, related to language:
 
 
 
-## Tools and Technologies
+## Tools and Technologies <a name="tools_and_technologies"></a>
 
 - [lambeq], Python library for experimental Quantum Natural Language Processing (QNLP)
 - [tket], a quantum SDK
@@ -43,11 +56,16 @@ Relevant literature from Cognitive Science and Psychology, related to language:
 - [Qiskit] - Open-Source Quantum Development
 
 
-## Tutorials
+## Tutorials <a name="tutorials"></a>
 
 - [From quantum picturalism to quantum NLP and quantum AI](https://www.youtube.com/live/pFc2PmxVMt8?feature=share) with Bob Coecke
 - [An introduction to Quantum Natural Language Processing](https://medium.com/qiskit/an-introduction-to-quantum-natural-language-processing-7aa4cc73c674), Nov. 2022 by Amin Karamlou, Marcel Pfaffhauser, and James Wootton
     - [related presentation](https://youtu.be/mJSjAePB0Eo) from the QNLP 2022
+
+
+## Jobs and Internships <a name="jobs_internships"></a>
+
+- [Quantinuum Quantum NLP positions](https://jobs.eu.lever.co/quantinuum)
 
 
 
