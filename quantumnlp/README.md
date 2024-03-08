@@ -10,11 +10,11 @@ Last change: [Damir Cavar], 2024-03-08
 
 ## TOC
 
+- [Introduction](#Introduction)
+- [Literature](#Literature)
 - [Tools and Technologies](#tools_and_technologies)
 - [Tutorials](#tutorials)
 - [Jobs and Internships](#jobs_internships)
-- [Introduction](#Introduction)
-- [Literature](#Literature)
 
 
 ## Introduction <a name="Introduction"></a>
