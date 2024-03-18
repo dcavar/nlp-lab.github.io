@@ -91,6 +91,15 @@ Relevant literature from Cognitive Science and Psychology, related to language:
 - [Quantinuum Quantum NLP positions](https://jobs.eu.lever.co/quantinuum)
 
 
+## Cloud Services for Quantum Computation <a name="cloud_services"></a>
+
+- [Amazon Bracket](https://aws.amazon.com/braket/)
+- [IBM Quantum](https://www.ibm.com/quantum)
+- [Microsoft Azure Quantum cloud service](https://azure.microsoft.com/en-us/products/quantum/)
+- [Quantinuum](https://www.quantinuum.com/hardware#access)
+
+
+
 
 [Damir Cavar]: http://damir.cavar.me/ "Damir Cavar"
 [tket]:        https://github.com/CQCL/tket "tket, a quantum SDK"
