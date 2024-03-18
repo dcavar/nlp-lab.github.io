@@ -2,7 +2,7 @@
 
 Created: [Damir Cavar], 2023-06-12
 
-Last change: [Damir Cavar], 2024-03-08
+Last change: [Damir Cavar], 2024-03-18
 
 
 **The Quantum NLP Reading Group meetings are in Ballantine Hall BLBH 105 every Friday at 4 PM.**
@@ -78,6 +78,8 @@ Relevant literature from Cognitive Science and Psychology, related to language:
 - [From quantum picturalism to quantum NLP and quantum AI](https://www.youtube.com/live/pFc2PmxVMt8?feature=share) with Bob Coecke
 - [An introduction to Quantum Natural Language Processing](https://medium.com/qiskit/an-introduction-to-quantum-natural-language-processing-7aa4cc73c674), Nov. 2022 by Amin Karamlou, Marcel Pfaffhauser, and James Wootton
     - [related presentation](https://youtu.be/mJSjAePB0Eo) from the QNLP 2022
+- [PennyLane a software framework for Q ML - by Xanadu](https://pennylane.ai/qml/demonstrations/)
+    - [Xanadu Quantum Codebook](https://codebook.xanadu.ai/)
 
 
 ## Conferences <a name="conferences"></a>
