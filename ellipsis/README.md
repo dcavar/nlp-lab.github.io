@@ -10,18 +10,17 @@ Last change: [Damir Cavar], 2024-01-27
 There are various reasons why we are working on [ellipsis] and other word-omitting phenomena. Some of those are:
 
 - [syntactic] parsers fail with such constructions, and such constructions are prevalent in highly relevant domains (e.g., social media interaction, dialogs, medical documents, financial reports)
-- current State of the Art (SOTA) [Natural Language Processing] ([NLP]) and [Natural Language Understanding] ([NLU]) components, including [Large Language Models] ([LLMs]) are of limited use for advanced [semantic] and [pragmatic] processing due to a failure to deal with omitted words or phrases, what we call the "**Language**" or "**Linguistic Dark Matter**".
+- current State-of-the-Art (SOTA) [Natural Language Processing] ([NLP]) and [Natural Language Understanding] ([NLU]) components, including [Large Language Models] ([LLMs]) are of limited use for advanced [semantic] and [pragmatic] processing due to a failure to deal with omitted words or phrases, what we call the "**Language**" or "**Linguistic Dark Matter**".
 
-We will provide research reports here in the near future with quantified data related to these claims. These are strong claims, but our experience has shown that the limited use of phrase structure and dependency parsers significantly relates to the failure to process **Dark Matter in Language**. While certainly [semantic] and [pragmatic] approaches could be tried to reconstruct omitted linguistic content, we focus on [syntactic] and pattern-based methods with neural and symbolic algorithms, modeling the [fast and slow processing](https://en.wikipedia.org/wiki/Thinking,_Fast_and_Slow) of the human language faculty when it comes to elided linguistic content.
+We will provide research reports here soon with quantified data related to these claims. These are strong claims, but our experience has shown that the limited use of phrase structure and dependency parsers significantly relates to the failure to process **Dark Matter in Language**. While certainly [semantic] and [pragmatic] approaches could be tried to reconstruct omitted linguistic content, we focus on [syntactic] and pattern-based methods with neural and symbolic algorithms, modeling the [fast and slow processing](https://en.wikipedia.org/wiki/Thinking,_Fast_and_Slow) of the human language faculty when it comes to elided linguistic content.
 
 Our goals are ambitious:
 
 - to develop a data set that provides enough corpus material to sufficiently document and represent the various manifestations of [ellipsis], and to provide enough data for the engineering of [NLP] solutions
 - to engineer [NLP] components (parsers and language models) that can reconstruct the omitted words and that can provide theoretically adequate and computationally useful [syntactic] parse tree ([Phrase Structure Tree] and [Dependency Tree]) for constructions containing [ellipsis]
-- all this we want to cover for English, Ukranian, Russian, Chinese, Japanese, Korean, Spanish, German...
+- all this we want to cover for English, Ukrainian, Russian, Chinese, Japanese, Korean, Spanish, German...
 
-
-And, no, [ChatGPT](https://openai.com/blog/chatgpt) is not the solution here...
+The corpus format is documented here: [The Hoosier Ellipsis Corpus - Data Format](/ellipsis/data_format)
 
 
 ## Online Resources
@@ -32,7 +31,7 @@ We identified the following resources online:
 - [The Brandeis-Simmons Corpus of English VP Ellipsis](https://sites.google.com/simmons.edu/vpe-corpus/about)
     - [VPE-Corpus Material](https://sites.google.com/simmons.edu/vpe-corpus), Lotus Goldberg and Amber Stubbs
     - [The Syntactic Corpus of English VP Ellipsis](https://sites.google.com/simmons.edu/vpe-corpus/nasslli2022), NASSLLI 2022 course
-    - [The VP Ellipsis Corpus](https://osf.io/uv2tq/) at OSF
+    - [The VP-Ellipsis Corpus](https://osf.io/uv2tq/) at OSF
 - [Santa Cruz Ellipsis Project](https://babel.ucsc.edu/SCEP/Downloads/index.html)
     - [Santa Cruz Ellipsis Consortium Sluicing Dataset 1.0](https://zenodo.org/record/1739702)
     - [Dataset of Zaitsu 2019](https://babel.ucsc.edu/SCEP/Downloads/zaitsu-whyVP-dataset.txt)
@@ -42,7 +41,7 @@ If you have more links or if you want to share your data sets, please send us a 
 
 
 
-### Indiana Multilingual Ellipsis Corpus
+### The Hoosier Ellipsis Corpus (THEC)
 
 - GitHub repo
 
@@ -53,7 +52,7 @@ The current status of the corpus (still under development):
 
 ## Publications
 
-- [Damir Cavar], [Ludovic V. Mompelat](https://www.linkedin.com/in/ludovic-mompelat-8a1960b8/), [Muhammad S. Abdo](https://www.linkedin.com/in/muhsabrys/) (2024) The Typology of Ellipsis: A Corpus for Linguistic Analysis and Machine Learning Applications. Paper to be presented at the [ACL Special Interest Group on Typology](https://sigtyp.github.io/) ([SIGTYP](https://sigtyp.github.io/)) 2024, colocated with the [18th Conference of the European Chapter of the Association for Computational Linguistics](https://2024.eacl.org/), St Julian's, Malta (March, 2024). (full paper)
+- [Damir Cavar], [Ludovic V. Mompelat](https://www.linkedin.com/in/ludovic-mompelat-8a1960b8/), [Muhammad S. Abdo](https://www.linkedin.com/in/muhsabrys/) (2024) The Typology of Ellipsis: A Corpus for Linguistic Analysis and Machine Learning Applications. Paper to be presented at the [ACL Special Interest Group on Typology](https://sigtyp.github.io/) ([SIGTYP](https://sigtyp.github.io/)) 2024, colocated with the [18th Conference of the European Chapter of the Association for Computational Linguistics](https://2024.eacl.org/), St Julian's, Malta (March, 2024). ([full paper](https://aclanthology.org/2024.sigtyp-1.6/))
 
 
 ## Presentations
