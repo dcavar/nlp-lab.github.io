@@ -43,9 +43,10 @@ If you have more links or if you want to share your data sets, please send us a 
 
 ### The Hoosier Ellipsis Corpus (THEC)
 
-- GitHub repo
+The main corpus code and data links can be found at:
 
-The current status of the corpus (still under development):
+- [GitHub repo](https://github.com/dcavar/hoosierellipsiscorpus)
+
 
 
 
