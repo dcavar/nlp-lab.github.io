@@ -62,6 +62,7 @@ Previous projects foci:
 | Yuchen Yang | [John MacIntosh Phillips](https://github.com/jackp1377) |
 | Luis Abrego | [Ian Devine](https://www.linkedin.com/in/ian-devine-2002/) |
 | Anshul Kumar Mangalapalli | [Tanmayi Balla](https://www.linkedin.com/in/tanmayiballa) |
+| [Koushik Reddy Parukola](https://www.linkedin.com/in/koushik-reddy-parukola/) | |
 
 
 ## Former Team Members
