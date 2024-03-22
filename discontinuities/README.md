@@ -2,7 +2,7 @@
 
 Created: [Damir Cavar], 2023-06-07
 
-Last change: [Damir Cavar], 2023-06-07
+Last change: [Damir Cavar], 2024-03-22
 
 
 This project focuses on NLP and LLM processing of syntactic constructions that contain discontinuities and Long-Distance Dependencies (LDDs). We collect datasets for various types of different languages with a broad range of restrictions and limitations on syntactic properties.
