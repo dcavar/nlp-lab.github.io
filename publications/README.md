@@ -54,3 +54,5 @@ ML)*, [Poster](/timeevents/TIEML_Poster_8_27.pdf), Indiana University at Bloomin
 [B. Dickson]: https://www.linkedin.com/in/billy-dickson/ "Billy Dickson"
 [JSON-NLP]: https://github.com/dcavar/JSON-NLP "JSON-NLP"
 [Günther Jikeli]: https://news.iu.edu/iu-experts/profile/m/297/jikeli-gunther "Günther Jikeli"
+[Van Holthenrichs]: https://russian.indiana.edu/about/instructors/holthenrichs-van.html "Van Holthenrichs"
+
