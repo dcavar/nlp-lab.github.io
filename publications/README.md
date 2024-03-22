@@ -46,7 +46,7 @@ ML)*, [Poster](/timeevents/TIEML_Poster_8_27.pdf), Indiana University at Bloomin
 - [Polyglot GitHub Repo](https://github.com/dcavar/Polyglot-JSON-NLP)
 - [NLTK-JSON-NLP GitHub Repo](https://github.com/dcavar/NLTK-JSON-NLP)
 - [TIE-ML GitHub repo](https://github.com/dcavar/tieml)
-
+- [The Hoosier Ellipsis Corpus (THEC)](https://github.com/dcavar/hoosierellipsiscorpus)
 
 
 [D. Cavar]: http://damir.cavar.me/ "Damir Cavar"
