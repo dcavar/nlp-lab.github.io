@@ -11,13 +11,13 @@ Our proposed annotation standard for time, events, and temporal relations (seque
 
 ## Team Members
 
-- Dr. Ali Abdulaziz Aljubailan
 - Dr. [Damir Cavar]
+- Dr. Ali Abdulaziz Aljubailan
 - Soyoung Kim
 - [Billy Dickson]
 - [Andrew Davis]
 - [Matthew Fort]
-- [Ludovic Mompelat]
+- Dr. [Ludovic Mompelat]
 - Dr. [Zoran Tiganj]
 - Dr. [Yuna Won]
 
