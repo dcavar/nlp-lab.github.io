@@ -1,12 +1,12 @@
 ## Welcome to The NLP Lab Pages
 
-The Natural Language Processing Lab (NLP-Lab) is focused on theoretical work and implementations of [Natural Language Processing] ([NLP]) and [Artificial Intelligence] ([AI]) solutions using hybrid approaches, empiricist, neural, probabilistic, and knowledge-driven, with a particular interest in neuro-symbolic modeling. We are also interested in Quantum [NLP] and [NLP] combined with Machine Learning ([ML]) solutions for computer vision and multi-modal information processing.
+The Natural Language Processing Lab (NLP-Lab) is focused on theoretical work and implementations of [Natural Language Processing] ([NLP]) and [Artificial Intelligence] ([AI]) solutions using hybrid approaches, empiricist, neural, probabilistic, and knowledge-driven, with a particular interest in neuro-symbolic modeling. We are also interested in [Quantum NLP]](https://nlp-lab.org/quantumnlp/) and [NLP] combined with Machine Learning ([ML]) solutions for computer vision and multi-modal information processing.
 
 The NLP-Lab is located at [Indiana University at Bloomington](https://indiana.edu/). While it is mainly a local group of students and researchers with a strong interest in [NLP] and [AI] here in Indiana, it has ties to colleagues all across the country.
 
 **For the rest of the year 2024 we meet in person every week in Luddy Hall BCIF 0002, every Wednesday 5:00-6:30 PM. (See Teams and email announcements for more details.)**
 
-**The Quantum NLP Reading Group meetings are in Ballantine Hall BLBH 105 every Friday at 4 PM.**
+**[The Quantum NLP Study Group](https://nlp-lab.org/quantumnlp/) meetings are in Ballantine Hall BLBH 105 every Friday at 4 PM.**
 
 **Please contact [Damir Cavar] if you are interested in joining the NLP-Lab meetings. The meetings are in person, and only exceptionally Teams-based online participants can join.**
 
@@ -24,7 +24,7 @@ The NLP-Lab is located at [Indiana University at Bloomington](https://indiana.ed
 
 ## Research Foci
 
-During the 2024 academic year the focus is on:
+During the 2024 academic year, the focus is on:
 
 - [Ellipsis and Empty Element Parsing](/ellipsis)
 - [Discontinuity and Non-local Dependency Processing in Natural Language Discourse](/discontinuities)
