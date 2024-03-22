@@ -5,7 +5,7 @@ Created: [Damir Cavar], 2023-06-12
 Last change: [Damir Cavar], 2024-03-18
 
 
-**The Quantum NLP Reading Group meetings are in Ballantine Hall BLBH 105 every Friday at 4 PM.**
+**The Quantum NLP Study Group meetings are in Ballantine Hall BLBH 105 every Friday at 4 PM.**
 
 
 ## TOC
@@ -20,9 +20,9 @@ Last change: [Damir Cavar], 2024-03-18
 
 ## Introduction <a name="Introduction"></a>
 
-The Quantum NLP project in the NLP Lab is currently a reading group focusing on the most recent papers in Quantum NLP. Our goal is to familiarize everybody with the different tools and environments for QNLP and work on interesting questions related to Quantum and language-related computation or cognitive aspects of language processing and quantum models.
+The Quantum NLP project in the NLP Lab is currently a study group focusing on the most recent papers in Quantum NLP. Our goal is to familiarize everybody with the different tools and environments for QNLP and work on interesting questions related to Quantum and language-related computation or cognitive aspects of language processing and quantum models.
 
-The reading group meets independently of the NLP Lab weekly meeting at [IU-B](https://www.indiana.edu/). If you want to join this meeting, contact [Damir Cavar] directly.
+The study group meets independently of the NLP Lab weekly meeting at [IU-B](https://www.indiana.edu/). If you want to join this meeting, contact [Damir Cavar] directly.
 
 - The [GitHub repo](https://github.com/dcavar/q).
 
