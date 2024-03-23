@@ -86,6 +86,9 @@ Relevant literature from Cognitive Science and Psychology, related to language:
 
 - [Quantum Natural Language Processing (QNLP) 2022](https://qnlp.cambridgequantum.com/conf2022/), Oxford, UK
 - [Quantum Natural Language Processing (QNLP) 2023](https://qnlp.cambridgequantum.com/conf2023/), Gothenburg, Sweden
+- [Quantum Physics and Logic (QPL) 2022](https://www.qplconference.org/) ([proceedings](https://cgi.cse.unsw.edu.au/~eptcs/content.cgi?QPL2022))
+- [Quantum Physics and Logic (QPL) 2023](https://qpl2023.github.io/) ([proceedings](https://cgi.cse.unsw.edu.au/~eptcs/content.cgi?QPL2023))
+- [Quantum Physics and Logic (QPL) 2024](https://qpl2024.dc.uba.ar/)
 
 
 ## Jobs and Internships <a name="jobs_internships"></a>
