@@ -30,6 +30,10 @@ At Indiana University there is the
 
 - [QSEc - Quantum Science and Engineering Center](https://qsec.sitehost.iu.edu/)
 
+- [Center for Quantum Technologies (CQT) - Indiana University, Purdue University, University of Notre Dame](https://www.purdue.edu/cqt/)
+    - [Center for Quantum Technologies (CQT) - NSF Site](https://iucrc.nsf.gov/centers/center-for-quantum-technologies/)
+
+
 
 ## Literature <a name="Literature"></a>
 
