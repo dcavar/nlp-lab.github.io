@@ -14,7 +14,9 @@
 
 ## Presentations
 
-- NLP-Lab (2024) [Generative AI and Knowledge Representations](/publications/NLP_Lab_LLM_KG_Poster_2024.pdf). Luddy-Crane Summit on March 29, 2024 at Indiana University Bloomington.
+- NLP-Lab poster (2024) [Quantum Natural Language Processing and Machine Learning](/publications/NLP_Lab_Quantum_Poster_2024.pdf). Luddy-Crane Summit on March 29, 2024 at Indiana University Bloomington.
+
+- NLP-Lab poster (2024) [Generative AI and Knowledge Representations](/publications/NLP_Lab_LLM_KG_Poster_2024.pdf). Luddy-Crane Summit on March 29, 2024 at Indiana University Bloomington.
 
 - [Van Holthenrichs], [Damir Cavar], Zoran Tiganj, Billy Dickson (2024) On Ellipsis in Slavic: The Ellipsis Corpus and Natural Language Processing Results. Paper presented at [The 33rd Annual Meeting of Formal Approaches to Slavic Linguistics](https://sites.google.com/view/fasl33). Halifax, Canada. ([abstract](NLP_Corpus_of_Ellipsis_Modelling_Ellipsis_Slavic-2.pdf))
 
