@@ -11,6 +11,7 @@ Last change: [Damir Cavar], 2024-03-18
 ## TOC
 
 - [Introduction](#Introduction)
+- [Most Recent](#MostRecent)
 - [Literature](#Literature)
 - [Tools and Technologies](#tools_and_technologies)
 - [Tutorials](#tutorials)
@@ -26,12 +27,16 @@ The study group meets independently of the NLP Lab weekly meeting at [IU-B](http
 
 - The [GitHub repo](https://github.com/dcavar/q).
 
-At Indiana University there is the 
+At Indiana University:
 
 - [QSEc - Quantum Science and Engineering Center](https://qsec.sitehost.iu.edu/)
-
 - [Center for Quantum Technologies (CQT) - Indiana University, Purdue University, University of Notre Dame](https://www.purdue.edu/cqt/)
     - [Center for Quantum Technologies (CQT) - NSF Site](https://iucrc.nsf.gov/centers/center-for-quantum-technologies/)
+
+
+## Most Recent <a name="MostRecent"></a>
+
+- NLP-Lab poster (2024) [Quantum Natural Language Processing and Machine Learning](/publications/NLP_Lab_Quantum_Poster_2024.pdf). Luddy-Crane Summit on March 29, 2024 at Indiana University Bloomington.
 
 
 
