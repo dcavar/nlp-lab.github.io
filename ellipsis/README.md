@@ -37,7 +37,7 @@ We identified the following resources online:
     - [Dataset of Zaitsu 2019](https://babel.ucsc.edu/SCEP/Downloads/zaitsu-whyVP-dataset.txt)
     - [Santa Cruz Ellipsis Consortium](https://thi.ucsc.edu/clusters/santa-cruz-ellipsis-consortium/)
 
-If you have more links or if you want to share your data sets, please send us a note, damir at iu.edu.
+If you have more links or if you want to share your data sets, please send us a note, dcavar at iu.edu.
 
 
 
