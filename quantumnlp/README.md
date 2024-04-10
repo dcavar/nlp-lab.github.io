@@ -9,7 +9,7 @@ Last change: [Damir Cavar], 2024-03-18
 
 Events:
 
-- [Quantum Day 2024](./quantumnlp/QuantumDayIUQuTE2024.png), April 14th, 2024, 11 AM - 3 PM, Swain West 007
+- [Quantum Day 2024](/quantumnlp/QuantumDayIUQuTE2024.png), April 14th, 2024, 11 AM - 3 PM, Swain West 007
 
 
 
