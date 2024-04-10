@@ -7,6 +7,11 @@ Last change: [Damir Cavar], 2024-03-18
 
 **The Quantum NLP Study Group meetings are in Ballantine Hall BLBH 105 every Friday at 4 PM.**
 
+Events:
+
+- [Quantum Day 2024](./quantumnlp/QuantumDayIUQuTE2024.png), April 14th, 2024, 11 AM - 3 PM, Swain West 007
+
+
 
 ## TOC
 
