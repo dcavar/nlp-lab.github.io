@@ -10,7 +10,7 @@ Last change: [Damir Cavar], 2024-03-18
 Events:
 
 - [Quantum Day 2024](/quantumnlp/QuantumDayIUQuTE2024.png), April 14th, 2024, 11 AM - 3 PM, Swain West 007
-
+- [CQT - Center for Quantum Technologies](https://www.purdue.edu/cqt/), NSF Industry/University Cooperative Research Center (IUCRC) Year 2, Phase I, Spring 2024 Industry Advisory Board Meeting, April 3-4, 2024, University of Notre Dame, South Bend, IN
 
 
 ## TOC

@@ -14,6 +14,12 @@
 
 ## Presentations
 
+- Quantum Natural Language Processing (QNLP) (2024) Damir
+Cavar, Presentation at the [Quantum Day 2024](/quantumnlp/QuantumDayIUQuTE2024.png) Seminar Series, organized by [Quantum Technologies for Everyone](https://beinvolved.indiana.edu/organization/qute) ([QuTE](https://beinvolved.indiana.edu/organization/qute)) at Indiana University Bloomington, April 14th 2024.
+
+- Quantum-Natural Language Processing (NLP) and Machine Learning (ML) (2024) Damir
+Cavar, Presentation at the [CQT - Center for Quantum Technologies](https://www.purdue.edu/cqt/), NSF Industry/University Cooperative Research Center (IUCRC) Year 2, Phase I, Spring 2024 Industry Advisory Board Meeting, April 3-4, 2024, University of Notre Dame, South Bend, IN.
+
 - NLP-Lab poster (2024) [Quantum Natural Language Processing and Machine Learning](/publications/NLP_Lab_Quantum_Poster_2024.pdf). Luddy-Crane Summit on March 29, 2024 at Indiana University Bloomington.
 
 - NLP-Lab poster (2024) [Generative AI and Knowledge Representations](/publications/NLP_Lab_LLM_KG_Poster_2024.pdf). Luddy-Crane Summit on March 29, 2024 at Indiana University Bloomington.
