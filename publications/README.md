@@ -14,7 +14,7 @@
 
 ## Presentations
 
-- The Hoosier Ellipsis Corpus (HELC): Documenting Linguistic Dark Matter (2024) Damir Cavar, Ludovic Mompelat, Muhammad S. Abdo. Poster presented at the [Midwest Speech and Language Days](https://ai.engin.umich.edu/news/midwest-speech-and-language-days/) at the University of Michigan in Ann Arbor, April 15-16, 2024.
+- The Hoosier Ellipsis Corpus (HELC): Documenting Linguistic Dark Matter (2024) Damir Cavar, Ludovic Mompelat, Muhammad S. Abdo. Poster presented at the [Midwest Speech and Language Days](https://ai.engin.umich.edu/news/midwest-speech-and-language-days/) at the University of Michigan in Ann Arbor, April 15-16, 2024. ([poster](/publications/IU_Poster_1_MSLD_2024.pdf))
 
 - The Hosiers Ellipsis Corpus: Building a Corpus of Ellipsis for Arabic Natural Language Processing (2024) Muhammad S. Abdo, Damir Cavar. Poster presented at the [Midwest Speech and Language Days](https://ai.engin.umich.edu/news/midwest-speech-and-language-days/) at the University of Michigan in Ann Arbor, April 15-16, 2024.
 
