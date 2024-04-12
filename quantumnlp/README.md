@@ -30,7 +30,7 @@ The Quantum NLP project in the NLP Lab is currently a study group focusing on th
 
 The study group meets independently of the NLP Lab weekly meeting at [IU-B](https://www.indiana.edu/). If you want to join this meeting, contact [Damir Cavar] directly.
 
-- The [GitHub repo](https://github.com/dcavar/q).
+- The [Quantum NLP/ML GitHub repo](https://github.com/dcavar/q).
 
 At Indiana University:
 
