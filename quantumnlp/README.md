@@ -32,7 +32,7 @@ The study group meets independently of the NLP Lab weekly meeting at [IU-B](http
 
 - The [Quantum NLP/ML GitHub repo](https://github.com/dcavar/q).
 
-At Indiana University:
+At [Indiana University](https://www.indiana.edu/):
 
 - [QSEc - Quantum Science and Engineering Center](https://qsec.sitehost.iu.edu/)
 - [Center for Quantum Technologies (CQT) - Indiana University, Purdue University, University of Notre Dame](https://www.purdue.edu/cqt/)
