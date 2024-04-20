@@ -115,6 +115,7 @@ Relevant literature from Cognitive Science and Psychology, related to language:
 
 - [Amazon Bracket](https://aws.amazon.com/braket/)
 - [IBM Quantum](https://www.ibm.com/quantum)
+- [Intel Quantum](https://www.intel.com/content/www/us/en/research/quantum-computing.html)
 - [Microsoft Azure Quantum cloud service](https://azure.microsoft.com/en-us/products/quantum/)
 - [Quantinuum](https://www.quantinuum.com/hardware)
 
