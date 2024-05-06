@@ -5,7 +5,7 @@ Created: [Damir Cavar], 2023-06-12
 Last change: [Damir Cavar], 2024-03-18
 
 
-**The Quantum NLP Study Group meetings are in Ballantine Hall BLBH 105 every Friday at 4 PM.**
+**The Quantum NLP Study Group meetings during the summer of 2024 are located in Luddy Hall BLIF 0002 every Thursday from 5 PM.**
 
 Events:
 
