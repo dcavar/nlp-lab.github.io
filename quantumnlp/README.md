@@ -7,6 +7,7 @@ Last change: [Damir Cavar], 2024-03-18
 
 **The Quantum NLP Study Group meetings during the summer of 2024 are located in Luddy Hall BLIF 0002 every Thursday from 5 PM.**
 
+
 Events:
 
 - [Quantum Day 2024](/quantumnlp/QuantumDayIUQuTE2024.png), April 14th, 2024, 11 AM - 3 PM, Swain West 007
