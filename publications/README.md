@@ -16,15 +16,13 @@
 
 ## Presentations
 
-- The Hoosier Ellipsis Corpus (HELC): Documenting Linguistic Dark Matter (2024) Damir Cavar, Ludovic Mompelat, Muhammad S. Abdo. Poster presented at the [Midwest Speech and Language Days](https://ai.engin.umich.edu/news/midwest-speech-and-language-days/) at the University of Michigan in Ann Arbor, April 15-16, 2024. ([poster](/publications/IU_Poster_1_MSLD_2024.pdf))
+- The Hoosier Ellipsis Corpus (HELC): Documenting Linguistic Dark Matter (2024) [Damir Cavar], Ludovic Mompelat, Muhammad S. Abdo. Poster presented at the [Midwest Speech and Language Days](https://ai.engin.umich.edu/news/midwest-speech-and-language-days/) at the University of Michigan in Ann Arbor, April 15-16, 2024. ([poster](/publications/IU_Poster_1_MSLD_2024.pdf))
 
-- The Hosiers Ellipsis Corpus: Building a Corpus of Ellipsis for Arabic Natural Language Processing (2024) Muhammad S. Abdo, Damir Cavar. Poster presented at the [Midwest Speech and Language Days](https://ai.engin.umich.edu/news/midwest-speech-and-language-days/) at the University of Michigan in Ann Arbor, April 15-16, 2024. ([poster](/publications/IU_Poster_2_MSLD_2024.pdf))
+- The Hosiers Ellipsis Corpus: Building a Corpus of Ellipsis for Arabic Natural Language Processing (2024) Muhammad S. Abdo, [Damir Cavar]. Poster presented at the [Midwest Speech and Language Days](https://ai.engin.umich.edu/news/midwest-speech-and-language-days/) at the University of Michigan in Ann Arbor, April 15-16, 2024. ([poster](/publications/IU_Poster_2_MSLD_2024.pdf))
 
-- Quantum Natural Language Processing (QNLP) (2024) Damir
-Cavar, Presentation at the [Quantum Day 2024](/quantumnlp/QuantumDayIUQuTE2024.png) Seminar Series, organized by [Quantum Technologies for Everyone](https://beinvolved.indiana.edu/organization/qute) ([QuTE](https://beinvolved.indiana.edu/organization/qute)) at Indiana University Bloomington, April 14th 2024.
+- Quantum Natural Language Processing (QNLP) (2024) [Damir Cavar], Presentation at the [Quantum Day 2024](/quantumnlp/QuantumDayIUQuTE2024.png) Seminar Series, organized by [Quantum Technologies for Everyone](https://beinvolved.indiana.edu/organization/qute) ([QuTE](https://beinvolved.indiana.edu/organization/qute)) at Indiana University Bloomington, April 14th 2024.
 
-- Quantum-Natural Language Processing (NLP) and Machine Learning (ML) (2024) Damir
-Cavar, Presentation at the [CQT - Center for Quantum Technologies](https://www.purdue.edu/cqt/), NSF Industry/University Cooperative Research Center (IUCRC) Year 2, Phase I, Spring 2024 Industry Advisory Board Meeting, April 3-4, 2024, University of Notre Dame, South Bend, IN.
+- Quantum-Natural Language Processing (NLP) and Machine Learning (ML) (2024) [Damir Cavar], Presentation at the [CQT - Center for Quantum Technologies](https://www.purdue.edu/cqt/), NSF Industry/University Cooperative Research Center (IUCRC) Year 2, Phase I, Spring 2024 Industry Advisory Board Meeting, April 3-4, 2024, University of Notre Dame, South Bend, IN.
 
 - NLP-Lab poster (2024) [Quantum Natural Language Processing and Machine Learning](/publications/NLP_Lab_Quantum_Poster_2024.pdf). Luddy-Crane Summit on March 29, 2024 at Indiana University Bloomington.
 
