@@ -53,29 +53,39 @@ The main corpus code and data links can be found at:
 
 ## Publications
 
-- [Damir Cavar], Zoran Tiganj, Ludovic Mompelat, Billy Dickson (2024) Computing Ellipsis Constructions: Comparing Classical NLP and LLM Approaches.In Proceedings of the 2024 Meeting of the [Society for Computation in Linguistics](https://sites.uci.edu/scil2024/) ([SCiL](https://sites.uci.edu/scil2024/)).
+- [Damir Cavar], [Zoran Tiganj], [Ludovic Mompelat], [Billy Dickson] (2024) Computing Ellipsis Constructions: Comparing Classical NLP and LLM Approaches. In Proceedings of the 2024 Meeting of the [Society for Computation in Linguistics](https://sites.uci.edu/scil2024/) ([SCiL](https://sites.uci.edu/scil2024/)).
 
-- [Damir Cavar], [Ludovic V. Mompelat](https://www.linkedin.com/in/ludovic-mompelat-8a1960b8/), [Muhammad S. Abdo](https://www.linkedin.com/in/muhsabrys/) (2024) The Typology of Ellipsis: A Corpus for Linguistic Analysis and Machine Learning Applications. Paper to be presented at the [ACL Special Interest Group on Typology](https://sigtyp.github.io/) ([SIGTYP](https://sigtyp.github.io/)) 2024, colocated with the [18th Conference of the European Chapter of the Association for Computational Linguistics](https://2024.eacl.org/), St Julian's, Malta (March 2024). ([full paper](https://aclanthology.org/2024.sigtyp-1.6/))
+- [Damir Cavar], [Ludovic V. Mompelat], [Muhammad S. Abdo] (2024) The Typology of Ellipsis: A Corpus for Linguistic Analysis and Machine Learning Applications. Paper to be presented at the [ACL Special Interest Group on Typology](https://sigtyp.github.io/) ([SIGTYP](https://sigtyp.github.io/)) 2024, colocated with the [18th Conference of the European Chapter of the Association for Computational Linguistics](https://2024.eacl.org/), St Julian's, Malta (March 2024). ([full paper](https://aclanthology.org/2024.sigtyp-1.6/))
 
 
 ## Presentations
 
-- [Damir Cavar], Ludovic Mompelat, Muhammad S. Abdo (2024) *The Hoosier Ellipsis Corpus (HELC): Documenting Linguistic Dark Matter*. Poster presented at the [Midwest Speech and Language Days](https://ai.engin.umich.edu/news/midwest-speech-and-language-days/) at the University of Michigan in Ann Arbor, April 15-16, 2024. ([poster](/publications/IU_Poster_1_MSLD_2024.pdf))
+- [Damir Cavar], [Ludovic Mompelat], [Muhammad S. Abdo] (2024) *The Hoosier Ellipsis Corpus (HELC): Documenting Linguistic Dark Matter*. Poster presented at the [Midwest Speech and Language Days](https://ai.engin.umich.edu/news/midwest-speech-and-language-days/) at the University of Michigan in Ann Arbor, April 15-16, 2024. ([poster](/publications/IU_Poster_1_MSLD_2024.pdf))
 
-- Muhammad S. Abdo, [Damir Cavar] (2024) *The Hosiers Ellipsis Corpus: Building a Corpus of Ellipsis for Arabic Natural Language Processing*. Poster presented at the [Midwest Speech and Language Days](https://ai.engin.umich.edu/news/midwest-speech-and-language-days/) at the University of Michigan in Ann Arbor, April 15-16, 2024. ([poster](/publications/IU_Poster_2_MSLD_2024.pdf))
+- [Muhammad S. Abdo], [Damir Cavar] (2024) *The Hosiers Ellipsis Corpus: Building a Corpus of Ellipsis for Arabic Natural Language Processing*. Poster presented at the [Midwest Speech and Language Days](https://ai.engin.umich.edu/news/midwest-speech-and-language-days/) at the University of Michigan in Ann Arbor, April 15-16, 2024. ([poster](/publications/IU_Poster_2_MSLD_2024.pdf))
 
-- Vance Holthenrichs, [Damir Cavar], Zoran Tiganj, Billy Dickson (May 2024) *On Ellipsis in Slavic: The Ellipsis Corpus and Natural Language Processing Results* (16-19 May 2024) at the [Formal Approaches to Slavic Linguistics 33](https://sites.google.com/view/fasl33) ([FASL33](https://sites.google.com/view/fasl33)), Halifax, Canada.
+- [Vance Holthenrichs], [Damir Cavar], [Zoran Tiganj], [Billy Dickson] (May 2024) *On Ellipsis in Slavic: The Ellipsis Corpus and Natural Language Processing Results* (16-19 May 2024) at the [Formal Approaches to Slavic Linguistics 33](https://sites.google.com/view/fasl33) ([FASL33](https://sites.google.com/view/fasl33)), Halifax, Canada.
 
-- [Damir Cavar], [Ludovic V. Mompelat](https://www.linkedin.com/in/ludovic-mompelat-8a1960b8/), [Muhammad S. Abdo](https://www.linkedin.com/in/muhsabrys/) (2024) The Typology of Ellipsis: A Corpus for Linguistic Analysis and Machine Learning Applications. Paper to be presented at the [ACL Special Interest Group on Typology](https://sigtyp.github.io/) ([SIGTYP](https://sigtyp.github.io/)) 2024, colocated with the [18th Conference of the European Chapter of the Association for Computational Linguistics](https://2024.eacl.org/), St Julian's, Malta. (full paper)
+- [Damir Cavar], [Ludovic V. Mompelat], [Muhammad S. Abdo] (2024) The Typology of Ellipsis: A Corpus for Linguistic Analysis and Machine Learning Applications. Paper to be presented at the [ACL Special Interest Group on Typology](https://sigtyp.github.io/) ([SIGTYP](https://sigtyp.github.io/)) 2024, colocated with the [18th Conference of the European Chapter of the Association for Computational Linguistics](https://2024.eacl.org/), St Julian's, Malta. (full paper)
 
 This presentation is about ellipsis constructions in Arabic and three types of experiments using Logistic Regression, BERT-type of classifiers and guessers, and [GPT-4](https://chat.openai.com/) ([ChatGPT](https://chat.openai.com/)) Large Language Models (LLM) to guess whether sentences contain ellipsis, where the ellipsis is located, and what the elided words are:
 
-- [Damir Cavar], [Muhammad S. Abdo](https://www.linkedin.com/in/muhsabrys/), and [Billy Dickson](https://www.linkedin.com/in/billy-dickson/) (2024) Ellipsis in Arabic: Using Machine Learning to Detect and Predict Elided Words. Paper presented at the [Arabic Linguistic Society](https://arabic-linguistics-society.uwm.edu/annual-symposia-on-arabic-linguistics/guidelines-for-writing-abstracts/) ([ASAL](https://arabic-linguistics-society.uwm.edu/annual-symposia-on-arabic-linguistics/guidelines-for-writing-abstracts/)) 37 Conference, February 2024, New York City. ([slides](/publications/Ellipsis_IU.pdf))
+- [Damir Cavar], [Muhammad S. Abdo], and [Billy Dickson] (2024) Ellipsis in Arabic: Using Machine Learning to Detect and Predict Elided Words. Paper presented at the [Arabic Linguistic Society](https://arabic-linguistics-society.uwm.edu/annual-symposia-on-arabic-linguistics/guidelines-for-writing-abstracts/) ([ASAL](https://arabic-linguistics-society.uwm.edu/annual-symposia-on-arabic-linguistics/guidelines-for-writing-abstracts/)) 37 Conference, February 2024, New York City. ([slides](/publications/Ellipsis_IU.pdf))
 
 
 
 
+[D. Cavar]: http://damir.cavar.me/ "Damir Cavar"
 [Damir Cavar]: http://damir.cavar.me/ "Damir Cavar"
+[B. Dickson]: https://www.linkedin.com/in/billy-dickson/ "Billy Dickson"
+[Billy Dickson]: https://www.linkedin.com/in/billy-dickson/ "Billy Dickson"
+[Günther Jikeli]: https://news.iu.edu/iu-experts/profile/m/297/jikeli-gunther "Günther Jikeli"
+[Van Holthenrichs]: https://russian.indiana.edu/about/instructors/holthenrichs-van.html "Van Holthenrichs"
+[Vance Holthenrichs]: https://russian.indiana.edu/about/instructors/holthenrichs-van.html "Van Holthenrichs"
+[Ludovic V. Mompelat]: https://www.linkedin.com/in/ludovic-mompelat-8a1960b8/ "Ludovic V. Mompelat"
+[Ludovic Mompelat]: https://www.linkedin.com/in/ludovic-mompelat-8a1960b8/ "Ludovic V. Mompelat"
+[Muhammad S. Abdo]: https://www.linkedin.com/in/muhsabrys/ "Muhammad S. Abdo"
+[Zoran Tiganj]: https://homes.luddy.indiana.edu/ztiganj/ "Zoran Tiganj"
 [NLP-Lab.org]: http://nlp-lab.org/ "NLP-Lab.org"
 [Ellipsis]: https://en.wikipedia.org/wiki/Ellipsis_(linguistics) "Ellipsis"
 [ellipsis]: https://en.wikipedia.org/wiki/Ellipsis_(linguistics) "Ellipsis"
