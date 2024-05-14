@@ -19,6 +19,8 @@ The NLP-Lab is located at [Indiana University at Bloomington](https://indiana.ed
 
 ## News
 
+- Our [Center for Quantum Technologies](https://www.purdue.edu/cqt/index.php) ([CQT](https://www.purdue.edu/cqt/index.php)) grant for [Quantum NLP](https://nlp-lab.org/quantumnlp/) kick-off is officially this week, from 15th of May 2024 on! Join us to celebrate this at the NLP-Lab meeting on Wednesday 05/15/2024.
+
 - NLP-Lab poster (2024) on Quantum Natural Language Processing and Machine Learning for VCs at the AI center, May 16th, 2024 at Indiana University Bloomington.
 
 - NLP-Lab poster (2024) [Quantum Natural Language Processing and Machine Learning](/publications/NLP_Lab_Quantum_Poster_2024.pdf). Luddy-Crane Summit on March 29, 2024 at Indiana University Bloomington.
