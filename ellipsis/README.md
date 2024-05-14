@@ -53,16 +53,18 @@ The main corpus code and data links can be found at:
 
 ## Publications
 
+- [Damir Cavar], Zoran Tiganj, Ludovic Mompelat, Billy Dickson (2024) Computing Ellipsis Constructions: Comparing Classical NLP and LLM Approaches.In Proceedings of the 2024 Meeting of the [Society for Computation in Linguistics](https://sites.uci.edu/scil2024/) ([SCiL](https://sites.uci.edu/scil2024/)).
+
 - [Damir Cavar], [Ludovic V. Mompelat](https://www.linkedin.com/in/ludovic-mompelat-8a1960b8/), [Muhammad S. Abdo](https://www.linkedin.com/in/muhsabrys/) (2024) The Typology of Ellipsis: A Corpus for Linguistic Analysis and Machine Learning Applications. Paper to be presented at the [ACL Special Interest Group on Typology](https://sigtyp.github.io/) ([SIGTYP](https://sigtyp.github.io/)) 2024, colocated with the [18th Conference of the European Chapter of the Association for Computational Linguistics](https://2024.eacl.org/), St Julian's, Malta (March 2024). ([full paper](https://aclanthology.org/2024.sigtyp-1.6/))
 
 
 ## Presentations
 
-- Damir Cavar, Ludovic Mompelat, Muhammad S. Abdo (2024) *The Hoosier Ellipsis Corpus (HELC): Documenting Linguistic Dark Matter*. Poster presented at the [Midwest Speech and Language Days](https://ai.engin.umich.edu/news/midwest-speech-and-language-days/) at the University of Michigan in Ann Arbor, April 15-16, 2024. ([poster](/publications/IU_Poster_1_MSLD_2024.pdf))
+- [Damir Cavar], Ludovic Mompelat, Muhammad S. Abdo (2024) *The Hoosier Ellipsis Corpus (HELC): Documenting Linguistic Dark Matter*. Poster presented at the [Midwest Speech and Language Days](https://ai.engin.umich.edu/news/midwest-speech-and-language-days/) at the University of Michigan in Ann Arbor, April 15-16, 2024. ([poster](/publications/IU_Poster_1_MSLD_2024.pdf))
 
-- Muhammad S. Abdo, Damir Cavar (2024) *The Hosiers Ellipsis Corpus: Building a Corpus of Ellipsis for Arabic Natural Language Processing*. Poster presented at the [Midwest Speech and Language Days](https://ai.engin.umich.edu/news/midwest-speech-and-language-days/) at the University of Michigan in Ann Arbor, April 15-16, 2024. ([poster](/publications/IU_Poster_2_MSLD_2024.pdf))
+- Muhammad S. Abdo, [Damir Cavar] (2024) *The Hosiers Ellipsis Corpus: Building a Corpus of Ellipsis for Arabic Natural Language Processing*. Poster presented at the [Midwest Speech and Language Days](https://ai.engin.umich.edu/news/midwest-speech-and-language-days/) at the University of Michigan in Ann Arbor, April 15-16, 2024. ([poster](/publications/IU_Poster_2_MSLD_2024.pdf))
 
-- Vance Holthenrichs, Damir Cavar, Zoran Tiganj, Billy Dickson (May 2024) *On Ellipsis in Slavic: The Ellipsis Corpus and Natural Language Processing Results* (16-19 May 2024) at the [Formal Approaches to Slavic Linguistics 33](https://sites.google.com/view/fasl33) ([FASL33](https://sites.google.com/view/fasl33)), Halifax, Canada.
+- Vance Holthenrichs, [Damir Cavar], Zoran Tiganj, Billy Dickson (May 2024) *On Ellipsis in Slavic: The Ellipsis Corpus and Natural Language Processing Results* (16-19 May 2024) at the [Formal Approaches to Slavic Linguistics 33](https://sites.google.com/view/fasl33) ([FASL33](https://sites.google.com/view/fasl33)), Halifax, Canada.
 
 - [Damir Cavar], [Ludovic V. Mompelat](https://www.linkedin.com/in/ludovic-mompelat-8a1960b8/), [Muhammad S. Abdo](https://www.linkedin.com/in/muhsabrys/) (2024) The Typology of Ellipsis: A Corpus for Linguistic Analysis and Machine Learning Applications. Paper to be presented at the [ACL Special Interest Group on Typology](https://sigtyp.github.io/) ([SIGTYP](https://sigtyp.github.io/)) 2024, colocated with the [18th Conference of the European Chapter of the Association for Computational Linguistics](https://2024.eacl.org/), St Julian's, Malta. (full paper)
 
