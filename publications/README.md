@@ -16,7 +16,7 @@
 
 ## Presentations
 
-- [Van Holthenrichs], [Damir Cavar], [Zoran Tiganj], [Billy Dickson] (2024) On Ellipsis in Slavic: The Ellipsis Corpus and Natural Language Processing Results. Paper presented at [The 33rd Annual Meeting of Formal Approaches to Slavic Linguistics](https://sites.google.com/view/fasl33). Halifax, Canada. ([abstract](NLP_Corpus_of_Ellipsis_Modelling_Ellipsis_Slavic-2.pdf), [slides](/publications/Ellipsis_IU_FASL.pdf))
+- [Van Holthenrichs], [Damir Cavar], [Zoran Tiganj], [Billy Dickson] (2024) On Ellipsis in Slavic: The Ellipsis Corpus and Natural Language Processing Results. Paper presented at [The 33rd Annual Meeting of Formal Approaches to Slavic Linguistics](https://sites.google.com/view/fasl33). Halifax, Canada. ([abstract](/publications/NLP_Corpus_of_Ellipsis_Modelling_Ellipsis_Slavic-2.pdf), [slides](/publications/Ellipsis_IU_FASL.pdf))
 
 - [Damir Cavar], [Zoran Tiganj], [Ludovic Mompelat], [Billy Dickson] (2024) Computing Ellipsis Constructions: Comparing Classical NLP and LLM Approaches. Paper presented at the 2024 Meeting of the [Society for Computation in Linguistics](https://sites.uci.edu/scil2024/) ([SCiL](https://sites.uci.edu/scil2024/)).
 
