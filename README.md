@@ -19,6 +19,8 @@ The NLP-Lab is located at [Indiana University at Bloomington](https://indiana.ed
 
 ## News
 
+- The NLP-Lab is happy to cosponsor the [2024 Datathon and Machine Learning Competition](/assets/img/DML_2024_Flyer.png) ([pdf](/assets/img/DML_2024_Flyer.pdf)). [Registration](https://go.iu.edu/8pGB) ([https://go.iu.edu/8pGB](https://go.iu.edu/8pGB)) is open till June 20th, 2024.
+
 - Our [Center for Quantum Technologies](https://www.purdue.edu/cqt/index.php) ([CQT](https://www.purdue.edu/cqt/index.php)) grant for [Quantum NLP](https://nlp-lab.org/quantumnlp/) kick-off is officially this week, from 15th of May 2024 on! Join us to celebrate this at the NLP-Lab meeting on Wednesday 05/15/2024.
 
 - NLP-Lab poster (2024) on Quantum Natural Language Processing and Machine Learning for VCs at the AI center, May 16th, 2024 at Indiana University Bloomington.
