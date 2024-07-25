@@ -4,7 +4,7 @@ The Natural Language Processing Lab (NLP-Lab) is focused on theoretical work and
 
 The NLP-Lab is located at [Indiana University at Bloomington](https://indiana.edu/). While it is mainly a local group of students and researchers with a strong interest in [NLP] and [AI] here in Indiana, it has ties to colleagues all across the country.
 
-**For the rest of the year 2024 we meet in person every week in Luddy Hall BCIF 0002, every Wednesday 5:00-6:30 PM. (See Teams and email announcements for more details.)**
+**For the rest of the year 2024 we meet in person every week in Luddy Hall BCIF 0002, every Wednesday 5:00-6:30 PM. (See Teams and email announcements for more details.) Starting August 2024 we will have new meeting times and locations.**
 
 **[The Quantum NLP Study Group](https://nlp-lab.org/quantumnlp/) meetings are in Luddy Hall BLIF 0002 every Thursday 5:00-6:30 PM.**
 
@@ -18,6 +18,8 @@ The NLP-Lab is located at [Indiana University at Bloomington](https://indiana.ed
 
 
 ## News
+
+- [Damir Cavar] and Billy Dickson teach a course on [Large Language Models and Knowledge Graphs](https://damir.cavar.me/ESSLLI24_LLM_KG.github.io/) at [ESSLLI 2024](https://2024.esslli.eu/), see also the related research activity during Fall 2024 [Knowledge Graph Extraction](/kgextraction)
 
 - The NLP-Lab is happy to cosponsor the [2024 Datathon and Machine Learning Competition](/assets/img/DML_2024_Flyer.png) ([pdf](/assets/img/DML_2024_Flyer.pdf)). [Registration](https://go.iu.edu/8pGB) ([https://go.iu.edu/8pGB](https://go.iu.edu/8pGB)) is open till June 20th, 2024.
 
@@ -71,7 +73,7 @@ Previous projects foci:
 | Khai Anthony Willard | [Calvin Josenhans](https://halflinghelper.github.io/) |
 | Luis Abrego          | [Ian Devine](https://www.linkedin.com/in/ian-devine-2002/) |
 | Akriti Kumari        | [Koushik Reddy Parukola](https://www.linkedin.com/in/koushik-reddy-parukola/) |
-| Chi Zhang            |  |
+| Chi Zhang            | Shane A. Sparks |
 
 
 ## Former Team Members
@@ -79,7 +81,7 @@ Previous projects foci:
 | Aarnav                                               | Dr. Ali Abdulaziz Aljubailan |
 | Aravind Dendukuri | Shreeja Deshpanbe |
 | [Dr. Ludovic Mompelat](https://www.linkedin.com/in/ludovic-mompelat-8a1960b8/) |  Harshwardhan Raghunath Patil |
-| Gordon Elliot Lichtstein | Shane Alan Sparks |
+| Gordon Elliot Lichtstein |  |
 | [Oren Baldinger](https://github.com/orenbaldinger)   | Abhishek Babuji  |
 | [Rohit Bapat](https://github.com/rohitbapat/)        | [Aarushi Bisht](https://github.com/aarushiibisht) |
 | [Rushabh Dharia](https://github.com/rushabhdharia)   | Josephine Douglas |
