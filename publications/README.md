@@ -3,6 +3,8 @@
 
 ## Publications
 
+- [Damir Cavar] and Chi Zhang (2024) *Semantic Similarities using Classical Embeddings in Quantum NLP.* Paper and Poster presented at the [IEEE Quantum Week 2024](https://qce.quantum.ieee.org/2024/), Montreal, Canada, September 2024. (paper, poster)
+
 - [Damir Cavar], [Zoran Tiganj], [Ludovic Mompelat], [Billy Dickson] (2024) Computing Ellipsis Constructions: Comparing Classical NLP and LLM Approaches. In Proceedings of the 2024 Meeting of the [Society for Computation in Linguistics](https://sites.uci.edu/scil2024/) ([SCiL](https://sites.uci.edu/scil2024/)). (full paper)
 
 - [Damir Cavar], [Ludovic V. Mompelat], [Muhammad S. Abdo] (2024) The Typology of Ellipsis: A Corpus for Linguistic Analysis and Machine Learning Applications. Paper to be presented at the [ACL Special Interest Group on Typology](https://sigtyp.github.io/) ([SIGTYP](https://sigtyp.github.io/)) 2024, colocated with the [18th Conference of the European Chapter of the Association for Computational Linguistics](https://2024.eacl.org/), St Julian's, Malta. ([full paper](https://aclanthology.org/2024.sigtyp-1.6/))
