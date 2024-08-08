@@ -4,9 +4,9 @@ The Natural Language Processing Lab (NLP-Lab) is focused on theoretical work and
 
 The NLP-Lab is located at [Indiana University at Bloomington](https://indiana.edu/). While it is mainly a local group of students and researchers with a strong interest in [NLP] and [AI] here in Indiana, it has ties to colleagues all across the country.
 
-**During the Fall 2024 semester we meet in person every week in Ballantine Hall BCBH 012, every Monday 6:00-7:30 PM. (See Teams and email announcements for more details.)**
+**During the Fall 2024 semester, we meet in person every week in Ballantine Hall BCBH 012, every Monday from 6:00 to 7:30 PM. (See Teams and email announcements for more details.)**
 
-**[The Quantum NLP Study Group](https://nlp-lab.org/quantumnlp/) meetings are in Luddy Hall BLIF 0002 every Friday 4:00-5:30 PM.**
+**[The Quantum NLP Study Group](https://nlp-lab.org/quantumnlp/) meetings are in Luddy Hall BLIF 0002 every Friday from 4:00 to 5:30 PM.**
 
 **Please contact [Damir Cavar] if you are interested in joining the NLP-Lab meetings.**
 
