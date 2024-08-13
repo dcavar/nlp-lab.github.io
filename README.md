@@ -32,11 +32,12 @@ The NLP-Lab is located at [Indiana University at Bloomington](https://indiana.ed
 
 During the 2024 academic year, the focus is on:
 
+- [Quantum NLP](/quantumnlp)
+- [Ontology Learning](/ontology_learning)
 - [Ellipsis and Empty Element Parsing](/ellipsis)
 - [Discontinuity and Non-local Dependency Processing in Natural Language Discourse](/discontinuities)
 - [Time and Event Annotation and NLP Technologies (TIE-ML)](/timeevents)
 - [Knowledge Graph extraction and visualization from relational databases, unstructured text, and images/videos](/kgextraction)
-- [Quantum NLP](/quantumnlp)
 - Entailment and Reasoning over Knowledge Graphs (and Description Logic/Semantic Web): Using Temporal Graph Neural Networks, Large Language Models, and Knowledge Graphs.
 
 In all these projects, we work on hands-on implementation of technologies, utilizing programming languages like [Python] and [Rust], and graph or RDF libraries, as well as common graph-database systems like [Apache Jena], [Fluree], [oxigraph], [AllegroGraph], [GraphDB], or [Neo4j].
