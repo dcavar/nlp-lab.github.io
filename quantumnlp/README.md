@@ -10,6 +10,7 @@ Last change: [Damir Cavar], 2024-08-08
 
 Events:
 
+- There was a [news article about the Quantum NLP Study Group](https://news.iu.edu/live/news/37695-iu-led-research-project-aims-to-improve)
 - [Quantum Day 2024](/quantumnlp/QuantumDayIUQuTE2024.png), April 14th, 2024, 11 AM - 3 PM, Swain West 007
 - [CQT - Center for Quantum Technologies](https://www.purdue.edu/cqt/), NSF Industry/University Cooperative Research Center (IUCRC) Year 2, Phase I, Spring 2024 Industry Advisory Board Meeting, April 3-4, 2024, University of Notre Dame, South Bend, IN
 
@@ -30,6 +31,8 @@ Events:
 The Quantum NLP project in the NLP Lab is currently a study group focusing on the most recent papers in Quantum NLP. Our goal is to familiarize everybody with the different tools and environments for QNLP and work on interesting questions related to Quantum and language-related computation or cognitive aspects of language processing and quantum models.
 
 The study group meets independently of the NLP Lab weekly meeting at [IU-B](https://www.indiana.edu/). If you want to join this meeting, contact [Damir Cavar] directly.
+
+See also the recent [IU News article](https://news.iu.edu/live/news/37695-iu-led-research-project-aims-to-improve) with some details on that.
 
 - The [Quantum NLP/ML GitHub repo](https://github.com/dcavar/q).
 
