@@ -14,8 +14,10 @@ The topics to discuss and papers to read:
 
 | **Date**   | **Topic** |
 | ---------- | --------- |
-| 08/16/2024 | [Schuld et al. 2014](https://arxiv.org/abs/1409.3097)<br/>
-               [Zhang et al. 2023](https://link.springer.com/chapter/10.1007/978-981-99-8145-8_14)  |
+| 08/16/2024 | [Schuld et al. 2014](https://arxiv.org/abs/1409.3097) |
+|            | [Zhang et al. 2023](https://link.springer.com/chapter/10.1007/978-981-99-8145-8_14)  |
+| ---------- | --------- |
+
 
 
 
