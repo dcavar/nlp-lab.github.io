@@ -8,7 +8,18 @@ Last change: [Damir Cavar], 2024-08-08
 **The Quantum NLP Study Group meetings during the Fall 2024 semester are located in Luddy Hall BLIF 0002 every Friday from 4 PM.**
 
 
-Events:
+## Schedule
+
+The topics to discuss and papers to read:
+
+| **Date**   | **Topic** |
+| ---------- | --------- |
+| 08/16/2024 | [Schuld et al. 2014](https://arxiv.org/abs/1409.3097)<br/>
+               [Zhang et al. 2023](https://link.springer.com/chapter/10.1007/978-981-99-8145-8_14)  |
+
+
+
+## Events
 
 - There was a [news article about the Quantum NLP Study Group](https://news.iu.edu/live/news/37695-iu-led-research-project-aims-to-improve)
 - [Quantum Day 2024](/quantumnlp/QuantumDayIUQuTE2024.png), April 14th, 2024, 11 AM - 3 PM, Swain West 007

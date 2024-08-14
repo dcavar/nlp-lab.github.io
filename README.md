@@ -61,68 +61,42 @@ Previous projects foci:
 
 ## Team
 
-- [Dr. Damir Cavar]
-- [Muhammad S. Abdo](https://www.linkedin.com/in/muhsabrys/)
-- Luis Abrego
-- Nada Aggadi
-- Jose P. Benavides
-- [Andrew Davis](https://www.linkedin.com/in/adavis94/)
-- [Ian Devine](https://www.linkedin.com/in/ian-devine-2002/)
-- [Billy Dickson](https://www.linkedin.com/in/billy-dickson/)
-- [Vance Holthenrichs](https://russian.indiana.edu/about/instructors/holthenrichs-van.html)
-- [Calvin Josenhans](https://halflinghelper.github.io/)
-- [Soyoung Kim](https://linguistics.indiana.edu/about/graduate-students/kim-soyoung.html)
-- Akriti Kumari
-- Khaled Mohammed
-- [Koushik Reddy Parukola](https://www.linkedin.com/in/koushik-reddy-parukola/)
-- Emily Reed
-- Shane A. Sparks
-- [Dhananjay Srivastava](https://www.linkedin.com/in/dhananjay-srivastava/)
-- [Dr. Zoran Tiganj](https://homes.luddy.indiana.edu/ztiganj/)
-- Khai Anthony Willard
-- Chi Zhang
-- [Rong Zheng](https://psych.indiana.edu/directory/graduate-students/zheng-rong.html)
+| ------- | ------- |
+| [Muhammad S. Abdo](https://www.linkedin.com/in/muhsabrys/) | Luis Abrego |
+| Nada Aggadi | Jose P. Benavides |
+| [Dr. Damir Cavar](http://damir.cavar.me/) | [Andrew Davis](https://www.linkedin.com/in/adavis94/) |
+| [Ian Devine](https://www.linkedin.com/in/ian-devine-2002/) | [Billy Dickson](https://www.linkedin.com/in/billy-dickson/) |
+| [Vance Holthenrichs](https://russian.indiana.edu/about/instructors/holthenrichs-van.html) | [Calvin Josenhans](https://halflinghelper.github.io/) |
+| [Soyoung Kim](https://linguistics.indiana.edu/about/graduate-students/kim-soyoung.html) | Akriti Kumari |
+| Khaled Mohammed | [Koushik Reddy Parukola](https://www.linkedin.com/in/koushik-reddy-parukola/) |
+| Emily Reed | Shane A. Sparks |
+| [Dhananjay Srivastava](https://www.linkedin.com/in/dhananjay-srivastava/) | [Dr. Zoran Tiganj](https://homes.luddy.indiana.edu/ztiganj/) |
+| Khai Anthony Willard | Chi Zhang |
+| [Rong Zheng](https://psych.indiana.edu/directory/graduate-students/zheng-rong.html) |  |
 
 
 ## Former Team Members
 
-- Aarnav
-- Dr. Ali Abdulaziz Aljubailan
-- [Oren Baldinger](https://github.com/orenbaldinger)
-- Abhishek Babuji
-- [Tanmayi Balla](https://www.linkedin.com/in/tanmayiballa)
-- [Rohit Bapat](https://github.com/rohitbapat/)
-- [Aarushi Bisht](https://github.com/aarushiibisht)
-- [Rushabh Dharia](https://github.com/rushabhdharia)
-- Aravind Dendukuri
-- Shreeja Deshpanbe
-- Josephine Douglas
-- Gordon Elliot Lichtstein
-- [Boli Fang](https://github.com/blf11139)
-- [Matthew Fort](https://www.linkedin.com/in/matthew-fort-07b802236/)
-- [Maanvitha Gongalla](https://github.com/maanvithag)
-- [Peace Han](https://github.com/P-eaceHan)
-- [Murali Kishore Varma Kammili](https://github.com/mkvk)
-- [Anurag Kumar](https://github.com/anuragkumar95)
-- [Shujun Liu](https://github.com/liu-shuj/)
-- [John MacIntosh Phillips](https://github.com/jackp1377)
-- [Umang Mehta](https://umangrmehta.github.io/)
-- Anshul Kumar Mangalapalli
-- [Dr. Anthony Meyer](https://www.linkedin.com/in/antmeyer408/)
-- [Dr. Ludovic Mompelat](https://www.linkedin.com/in/ludovic-mompelat-8a1960b8/)
--  Harshwardhan Raghunath Patil
-- [Shreejith Panicker](https://skpanick.github.io/)
-- [Chaitanya Patil](https://github.com/Chaitz333)
-- [Dr. Falcon Dario Restrepo Ramos](https://www.linkedin.com/in/falcon-restrepo-ramos-657b74203/)
-- [Animesh Sagar](https://github.com/animeshsagar)
-- [Gopal Seshadri](https://github.com/GopalSeshadri)
-- [Jagpreet Singh Chawla](https://github.com/jagpreetschawla)
-- Surya Prateek Soni
-- [Ashutosh Tiwari](https://www.linkedin.com/in/ashutosh--tiwari/)
-- [Dr. Yuna Won](http://www.yunawon.net)
-- Kimball Wu
-- [Yiwen Zhang](https://github.com/yiwenzh29)
-- Yuchen Yang
+| ------- | ------- |
+|  Aarnav | Dr. Ali Abdulaziz Aljubailan |
+| Abhishek Babuji | [Oren Baldinger](https://github.com/orenbaldinger) |
+| [Tanmayi Balla](https://www.linkedin.com/in/tanmayiballa) | [Rohit Bapat](https://github.com/rohitbapat/) |
+| [Aarushi Bisht](https://github.com/aarushiibisht) | [Jagpreet Singh Chawla](https://github.com/jagpreetschawla) |
+| Aravind Dendukuri | Shreeja Deshpanbe |
+| [Rushabh Dharia](https://github.com/rushabhdharia) | Josephine Douglas |
+| [Boli Fang](https://github.com/blf11139) | [Matthew Fort](https://www.linkedin.com/in/matthew-fort-07b802236/) |
+| [Maanvitha Gongalla](https://github.com/maanvithag) | [Peace Han](https://github.com/P-eaceHan) |
+| [Murali Kishore Varma Kammili](https://github.com/mkvk) | [Anurag Kumar](https://github.com/anuragkumar95) |
+| Gordon Elliot Lichtstein | [Shujun Liu](https://github.com/liu-shuj/) |
+| [MacIntosh Phillips, John](https://github.com/jackp1377) | Anshul Kumar Mangalapalli |
+| [Umang Mehta](https://umangrmehta.github.io/) | [Dr. Anthony Meyer](https://www.linkedin.com/in/antmeyer408/) |
+| [Dr. Ludovic Mompelat](https://www.linkedin.com/in/ludovic-mompelat-8a1960b8/) | [Shreejith Panicker](https://skpanick.github.io/) |
+| [Chaitanya Patil](https://github.com/Chaitz333) | Harshwardhan Raghunath Patil |
+| [Restrepo Ramos, Dr. Falcon Dario](https://www.linkedin.com/in/falcon-restrepo-ramos-657b74203/) | [Animesh Sagar](https://github.com/animeshsagar) |
+| [Gopal Seshadri](https://github.com/GopalSeshadri) | Surya Prateek Soni |
+| [Ashutosh Tiwari](https://www.linkedin.com/in/ashutosh--tiwari/) | [Dr. Yuna Won](http://www.yunawon.net) |
+| Kimball Wu | Yuchen Yang |
+| [Yiwen Zhang](https://github.com/yiwenzh29) |  |
 
 
 <!-- <iframe src="https://map.concept3d.com/?id=951#!m/241411" width="100%" height="450" frameBorder="0" scrolling="no" border="0" style="border:0px solid #fff; margin:0; padding:0;"></iframe> -->
