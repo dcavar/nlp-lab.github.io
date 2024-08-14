@@ -10,7 +10,7 @@ Last change: [Damir Cavar], 2024-08-08
 
 ## Schedule
 
-The topics to discuss and papers to read:
+The topics to discuss and papers to read for the Fall 2024 meetings:
 
 | **Date**   | **Topic** |
 | ---------- | --------- |
