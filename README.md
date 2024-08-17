@@ -19,7 +19,7 @@ The NLP-Lab is located at [Indiana University at Bloomington](https://indiana.ed
 
 ## News
 
-- We launched the environment for [Natural Language Qu Kit](https://nlqk.ai/) ([NLQK](https://nlqk.ai/)) - [GitHub repo](https://github.com/dcavar/nlqk), [PyPi project](https://pypi.org/project/nlqk/), [website](https://nlqk.ai/)
+- We launched the environment for [Natural Language Qu Kit](https://nlqk.ai/) ([NLQK](https://nlqk.ai/)), a Quantum NLP (QNLP) library - [GitHub repo](https://github.com/dcavar/nlqk), [PyPi project](https://pypi.org/project/nlqk/), [website](https://nlqk.ai/)
 - [Damir Cavar] and Billy Dickson teach a course on [Large Language Models and Knowledge Graphs](https://damir.cavar.me/ESSLLI24_LLM_KG.github.io/) at [ESSLLI 2024](https://2024.esslli.eu/), see also the related research activity during Fall 2024 [Knowledge Graph Extraction](/kgextraction)
 - The NLP-Lab is happy to cosponsor the [2024 Datathon and Machine Learning Competition](/assets/img/DML_2024_Flyer.png) ([pdf](/assets/img/DML_2024_Flyer.pdf)). [Registration](https://go.iu.edu/8pGB) ([https://go.iu.edu/8pGB](https://go.iu.edu/8pGB)) is open till June 20th, 2024.
 - Our [Center for Quantum Technologies](https://www.purdue.edu/cqt/index.php) ([CQT](https://www.purdue.edu/cqt/index.php)) grant for [Quantum NLP](https://nlp-lab.org/quantumnlp/) kick-off is officially this week, from 15th of May 2024 on! Join us to celebrate this at the NLP-Lab meeting on Wednesday 05/15/2024.
