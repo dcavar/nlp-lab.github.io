@@ -17,7 +17,11 @@ The topics to discuss and papers to read for the Fall 2024 meetings:
 | 08/16/2024 | [Schuld et al. 2014](https://arxiv.org/abs/1409.3097) |
 |            | [Zhang et al. 2023](https://link.springer.com/chapter/10.1007/978-981-99-8145-8_14)  |
 | ---------- | --------- |
-
+| ...        | ...       |
+| ---------- | --------- |
+| 10/11/2024 | [Nicholas LaRacuente](https://sites.google.com/iu.edu/nicholas-laracuente) (IU, Luddy, CS) |
+|            | "TBA"     |
+| ---------- | --------- |
 
 
 
