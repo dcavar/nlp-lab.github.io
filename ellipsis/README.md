@@ -2,7 +2,7 @@
 
 Created: [Damir Cavar], 2023-06-07
 
-Last change: [Damir Cavar], 2024-05-19
+Last change: [Damir Cavar], 2024-08-17
 
 
 [Ellipsis] and other phenomena where words in sentences and utterances are elided or omitted are extremely interesting from a theoretical linguistic and cognitive language faculty perspective. In general, we recommend looking at [The Oxford Handbook of Ellipsis](https://academic.oup.com/edited-volume/41718) and the numerous research articles, books, and dissertations discussed in the different sections of the handbook. There are also highly relevant articles mentioned below in the publications and on the websites from the various ellipsis corpus projects mentioned below.
