@@ -2,7 +2,7 @@
 
 Created: [Damir Cavar], 2023-06-12
 
-Last change: [Damir Cavar], 2024-08-08
+Last change: [Damir Cavar], 2024-08-17
 
 
 **The Quantum NLP Study Group meetings during the Fall 2024 semester are located in Luddy Hall BLIF 0002 every Friday from 4 PM.**
@@ -17,12 +17,28 @@ The topics to discuss and papers to read for the Fall 2024 meetings:
 | 08/16/2024 | [Schuld et al. 2014](https://arxiv.org/abs/1409.3097) |
 |            | [Zhang et al. 2023](https://link.springer.com/chapter/10.1007/978-981-99-8145-8_14)  |
 | ---------- | --------- |
+| 08/23/2024 | ...       |
+| ---------- | --------- |
+| 08/30/2024 | ...       |
+| ---------- | --------- |
+| ...        | ...       |
+| ---------- | --------- |
+| ...        | ...       |
+| ---------- | --------- |
+| 09/20/2024 | [IEEE Quantum Week 2024](https://qce.quantum.ieee.org/2024/) |
+| ---------- | --------- |
 | ...        | ...       |
 | ---------- | --------- |
 | 10/11/2024 | [Nicholas LaRacuente](https://sites.google.com/iu.edu/nicholas-laracuente) (IU, Luddy, CS) |
 |            | "TBA"     |
 | ---------- | --------- |
+| ...        | ...       |
+| ---------- | --------- |
 
+
+## News
+
+- We launched the environment for [Natural Language Qu Kit](https://nlqk.ai/) ([NLQK](https://nlqk.ai/)) - [GitHub repo](https://github.com/dcavar/nlqk), [PyPi project](https://pypi.org/project/nlqk/), [website](https://nlqk.ai/)
 
 
 ## Events
@@ -59,6 +75,7 @@ At [Indiana University](https://www.indiana.edu/):
 - [Center for Quantum Technologies (CQT) - Indiana University, Purdue University, University of Notre Dame](https://www.purdue.edu/cqt/)
     - [Center for Quantum Technologies (CQT) - NSF Site](https://iucrc.nsf.gov/centers/center-for-quantum-technologies/)
 - [QuTE](https://beinvolved.indiana.edu/organization/qute) - [Quantum Technologies for Everyone](https://beinvolved.indiana.edu/organization/qute) student club at IUB
+- [Quantum Information Science](https://qis.iu.edu/index.html) ([QIS](https://qis.iu.edu/index.html))
 
 
 ## Most Recent <a name="MostRecent"></a>
@@ -78,8 +95,11 @@ At [Indiana University](https://www.indiana.edu/):
 
 ### Papers:
 
-The papers we are reading are:
+The papers we were reading are:
 
+- Laakkonen, Konstantinos, and Coecke (2024) [Quantum Algorithms for Compositional Text Processing](https://arxiv.org/abs/2408.06061).
+- Zhang et al. (2023) [Applications of Quantum Embedding in Computer Vision](https://link.springer.com/chapter/10.1007/978-981-99-8145-8_14) (focus on Quantum Embeddings)
+- Schuld et al. (2014) [An introduction to quantum machine learning](https://arxiv.org/abs/1409.3097).
 - Coecke et al. (2010) [Mathematical Foundations for a Compositional Distributional Model of Meaning](https://arxiv.org/abs/1003.4394).
 - Coecke (2019) [The Mathematics of Text Structure](https://arxiv.org/abs/1904.03478).
 - Gogioso (2016) [A Corpus-based Toy Model for DisCoCat](https://arxiv.org/abs/1605.04013).
@@ -94,6 +114,8 @@ The papers we are reading are:
 
 
 ### Books:
+
+- Nielsen, Michael A., and Isaac L. Chuang. [Quantum Computation and Quantum Information](https://www.cambridge.org/highereducation/books/quantum-computation-and-quantum-information/01E10196D0A682A6AEFFEA52D53BE9AE#overview): 10th Anniversary Edition. Cambridge: Cambridge University Press, 2010. 
 
 - Bob Coecke and Stefano Gogioso (2023) [Quantum in Pictures: A New Way to Understand the Quantum World](https://www.quantinuum.com/news/quantum-in-pictures), Quantinuum.
 -  Bob Coecke and Aleks Kissinger (2017) [Picturing Quantum Processes: A First Course in Quantum Theory and Diagrammatic Reasoning](https://www.cambridge.org/core/books/picturing-quantum-processes/1119568B3101F3A685BE832FEEC53E52), Cambridge University Press.
