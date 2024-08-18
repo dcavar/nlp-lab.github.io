@@ -32,7 +32,7 @@ The topics to discuss and papers to read for the Fall 2024 meetings:
 | 10/11/2024 | [Nicholas LaRacuente](https://sites.google.com/iu.edu/nicholas-laracuente) (IU, Luddy, CS) |
 |            | "TBA"     |
 | ---------- | --------- |
-| 10/18/2024 | [Amr Sabry](https://amr-sabry.luddy.indiana.edu/) |
+| 10/18/2024 | [Amr Sabry](https://amr-sabry.luddy.indiana.edu/)  (IU, Luddy, CS) |
 |            | "TBA"     |
 | ---------- | --------- |
 
