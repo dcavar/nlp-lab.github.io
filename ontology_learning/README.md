@@ -15,6 +15,7 @@ Related material:
 - [Dr. Damir Cavar]
 - [Muhammad S. Abdo](https://www.linkedin.com/in/muhsabrys/)
 - [Billy Dickson](https://www.linkedin.com/in/billy-dickson/)
+- [Andrew Davis](https://www.linkedin.com/in/adavis94/)
 - [Vance Holthenrichs](https://russian.indiana.edu/about/instructors/holthenrichs-van.html)
 - [Soyoung Kim](https://linguistics.indiana.edu/about/graduate-students/kim-soyoung.html)
 - Akriti Kumari
