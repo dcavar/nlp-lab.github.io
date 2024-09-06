@@ -2,7 +2,7 @@
 
 Created: [Damir Cavar], 2023-06-12
 
-Last change: [Damir Cavar], 2024-08-17
+Last change: [Damir Cavar], 2024-09-06
 
 
 **The Quantum NLP Study Group meetings during the Fall 2024 semester are located in Luddy Hall BLIF 0002 every Friday from 4 PM.**
@@ -33,6 +33,9 @@ The topics to discuss and papers to read for the Fall 2024 meetings:
 |            | "TBA"     |
 | ---------- | --------- |
 | 10/18/2024 | [Amr Sabry](https://amr-sabry.luddy.indiana.edu/)  (IU, Luddy, CS) |
+|            | "TBA"     |
+| ---------- | --------- |
+| ...        | [Jerome Busemeyer](https://psych.indiana.edu/directory/faculty/busemeyer-jerome.html) (IU, Psychology, CogSci) |
 |            | "TBA"     |
 | ---------- | --------- |
 
