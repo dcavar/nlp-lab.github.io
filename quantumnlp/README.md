@@ -169,6 +169,34 @@ Relevant literature from Cognitive Science and Psychology, related to language:
 - [Quantinuum](https://www.quantinuum.com/hardware)
 
 
+## Links
+
+- [Center for Quantum Technologies (CQT) - Indiana University, Purdue University, University of Notre Dame](https://www.purdue.edu/cqt/)
+    - [Center for Quantum Technologies (CQT) - NSF Site](https://iucrc.nsf.gov/centers/center-for-quantum-technologies/)
+- [Centre for Quantum Technologies](https://www.quantumlah.org/) ([CQT](https://www.quantumlah.org/))
+- [DARPA Quantum Benchmarking](https://www.darpa.mil/program/quantum-benchmarking) ([QB](https://www.darpa.mil/program/quantum-benchmarking))
+- [DARPA Quantum Benchmarking Initiative](https://www.darpa.mil/work-with-us/quantum-benchmarking-initiative) ([QBI](https://www.darpa.mil/work-with-us/quantum-benchmarking-initiative))
+- [Illinois Quantum &amp; Microelectronics Park](https://www.realcrg.com/project/illinois-quantum-microelectronics-park) ([IQMP](https://www.realcrg.com/project/illinois-quantum-microelectronics-park))
+- [MIT News - Quantum computing](https://news.mit.edu/topic/quantum-computing)
+- [National Quantum Initiative](https://www.quantum.gov/) - [The National Quantum Coordination Office](https://www.quantum.gov/) ([NQCO](https://www.quantum.gov/))
+- [QSEc - Quantum Science and Engineering Center at IU](https://qsec.sitehost.iu.edu/)
+- [Quantum at Oak Ridge National Laboratory](https://www.ornl.gov/quantum) ([Quantum@ORNL](https://www.ornl.gov/quantum))
+- [Quantum Information Science at IU](https://qis.iu.edu/index.html) ([QIS](https://qis.iu.edu/index.html))
+- [QuTE](https://beinvolved.indiana.edu/organization/qute) - [Quantum Technologies for Everyone](https://beinvolved.indiana.edu/organization/qute) student club at IUB
+
+
+## News
+
+- [BBC Quantum Computing](https://www.bbc.com/news/topics/cyz9ex69xwlt)
+- [IEEE Spectrum Quantum Computing](https://spectrum.ieee.org/tag/quantum-computing)
+- [NewScientist Quantum Computing](https://www.newscientist.com/article-topic/quantum-computing/)
+- [Quantum Computing Report by GQI](https://quantumcomputingreport.com/news/)
+- [Quantum Zeitgeist](https://quantumzeitgeist.com/)
+- [Science Daily Quantum Computer News](https://www.sciencedaily.com/news/computers_math/quantum_computers/)
+- [SciTechDaily Quantum Computing](https://scitechdaily.com/tag/quantum-computing/)
+- [The Quantum Insider](https://thequantuminsider.com/)
+- [Wired Quantum Computing](https://www.wired.com/tag/quantum-computing/)
+
 
 
 [Damir Cavar]: http://damir.cavar.me/ "Damir Cavar"
