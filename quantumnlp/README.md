@@ -183,6 +183,7 @@ Relevant literature from Cognitive Science and Psychology, related to language:
 - [Illinois Quantum &amp; Microelectronics Park](https://www.realcrg.com/project/illinois-quantum-microelectronics-park) ([IQMP](https://www.realcrg.com/project/illinois-quantum-microelectronics-park))
 - [MIT News - Quantum computing](https://news.mit.edu/topic/quantum-computing)
 - [National Quantum Initiative](https://www.quantum.gov/) - [The National Quantum Coordination Office](https://www.quantum.gov/) ([NQCO](https://www.quantum.gov/))
+- [Quantum Economic Development Consortium](https://quantumconsortium.org/) ([QED-C](https://quantumconsortium.org/))
 - [QSEc - Quantum Science and Engineering Center at IU](https://qsec.sitehost.iu.edu/)
 - [Quantum at Oak Ridge National Laboratory](https://www.ornl.gov/quantum) ([Quantum@ORNL](https://www.ornl.gov/quantum))
 - [Quantum Information Science at IU](https://qis.iu.edu/index.html) ([QIS](https://qis.iu.edu/index.html))
