@@ -17,15 +17,13 @@ The topics to discuss and papers to read for the Fall 2024 meetings:
 | 08/16/2024 | [Schuld et al. 2014](https://arxiv.org/abs/1409.3097) |
 |            | [Zhang et al. 2023](https://link.springer.com/chapter/10.1007/978-981-99-8145-8_14)  |
 | ---------- | --------- |
-| 08/23/2024 | ...       |
+| 08/23/2024 | regular meeting |
 | ---------- | --------- |
-| 08/30/2024 | ...       |
-| ---------- | --------- |
-| ...        | ...       |
-| ---------- | --------- |
-| ...        | ...       |
+| 08/30/2024 | regular meeting |
 | ---------- | --------- |
 | 09/20/2024 | [IEEE Quantum Week 2024](https://qce.quantum.ieee.org/2024/) |
+| ---------- | --------- |
+| 09/27/2024 | [Dominic Widdows](https://www.puttypeg.net/) on "Advances in Quantum Natural Language Processing, 2022-2024" |
 | ---------- | --------- |
 | ...        | ...       |
 | ---------- | --------- |
