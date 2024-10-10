@@ -63,6 +63,7 @@ Previous projects foci:
 
 ## Team
 
+|||
 | ------- | ------- |
 | [Muhammad S. Abdo](https://www.linkedin.com/in/muhsabrys/) | Luis Abrego |
 | Nada Aggadi | Jose P. Benavides |
@@ -79,6 +80,7 @@ Previous projects foci:
 
 ## Former Team Members
 
+|||
 | ------- | ------- |
 |  Aarnav | Dr. Ali Abdulaziz Aljubailan |
 | Abhishek Babuji | [Oren Baldinger](https://github.com/orenbaldinger) |
