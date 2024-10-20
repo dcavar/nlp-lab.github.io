@@ -1,5 +1,15 @@
 # Antisemitism and Hate-Speech in Social Media
 
+The antisemitism hackathon and datathon 2023 and 2024 are documented here:
+
+- [GitHub repo with notes and code](https://github.com/AnnotationPortal/DatathonandHackathon.github.io)
+
+This repo contains the code examples for the practical Webinar held by [Damir Cavar] (and [Günther Jikeli] and Katharina Soemer).
+
+
+
+## Previous Events
+
 During the summer of 2020, that is during the Covid-19 pandemic and under lockdown, we managed an international Datathon and Hackathon, focusing on antisemitic tweets and the development of corpora and machine learning algorithms to classify and label hate-speech and antisemitic content.
 
 Here are some articles and resources that document this project the the current outcomes:
