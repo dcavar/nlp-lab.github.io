@@ -31,7 +31,11 @@ The topics to discuss and papers to read for the Fall 2024 meetings:
 | ---------- | --------- |
 | 10/18/2024 | [Amr Sabry](https://amr-sabry.luddy.indiana.edu/)  (IU, Luddy, CS) "Programming, the Quantum Way"     |
 | ---------- | --------- |
+| 10/25/2024 | Work meeting, research and literature discussion. |
+| ---------- | --------- |
 | ...        | ...       |
+| ---------- | --------- |
+| 12/05/2024 | [Alessandro Luongo](https://luongo.pro/) ([Center for Quantum Technologies](https://www.quantumlah.org/) ([CQT](https://www.quantumlah.org/)), [National University of Singapore](https://nus.edu.sg/)) "TBA" |
 | ---------- | --------- |
 | 12/06/2024 | [Jerome Busemeyer](https://psych.indiana.edu/directory/faculty/busemeyer-jerome.html) (IU, Psychology, CogSci) |
 |            | "TBA"     |
