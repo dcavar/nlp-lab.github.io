@@ -35,6 +35,10 @@ The topics to discuss and papers to read for the Fall 2024 meetings:
 | ---------- | --------- |
 | ...        | ...       |
 | ---------- | --------- |
+| 11/08/2024 | [Mohsen Heidari Khoozani](https://luddy.indiana.edu/contact/profile/index.html?Mohsen_Heidari) (IU, Luddy, CS) "TBA" |
+| ---------- | --------- |
+| ...        | ...       |
+| ---------- | --------- |
 | 12/05/2024 | [Alessandro Luongo](https://luongo.pro/) ([Center for Quantum Technologies](https://www.quantumlah.org/) ([CQT](https://www.quantumlah.org/)), [National University of Singapore](https://nus.edu.sg/)) "TBA" |
 | ---------- | --------- |
 | 12/06/2024 | [Jerome Busemeyer](https://psych.indiana.edu/directory/faculty/busemeyer-jerome.html) (IU, Psychology, CogSci) |
