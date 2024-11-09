@@ -64,16 +64,17 @@ Previous projects foci:
 
 ## Team
 
-| ------- | ------- |
+| ------| ------- |
 | [Muhammad S. Abdo](https://www.linkedin.com/in/muhsabrys/) | Luis Abrego |
 | Nada Aggadi | Jose P. Benavides |
 | [Dr. Damir Cavar](http://damir.cavar.me/) | [Andrew Davis](https://www.linkedin.com/in/adavis94/) |
 | [Ian Devine](https://www.linkedin.com/in/ian-devine-2002/) | [Billy Dickson](https://www.linkedin.com/in/billy-dickson/) |
 | [Vance Holthenrichs](https://russian.indiana.edu/about/instructors/holthenrichs-van.html) | [Calvin Josenhans](https://halflinghelper.github.io/) |
-| [Soyoung Kim](https://linguistics.indiana.edu/about/graduate-students/kim-soyoung.html) | Akriti Kumari |
-| Khaled Mohammed | [Koushik Reddy Parukola](https://www.linkedin.com/in/koushik-reddy-parukola/) |
-| Emily Reed | Shane A. Sparks |
-| [Dhananjay Srivastava](https://www.linkedin.com/in/dhananjay-srivastava/) | [Dr. Zoran Tiganj](https://homes.luddy.indiana.edu/ztiganj/) |
+| Selim Kim | [Soyoung Kim](https://linguistics.indiana.edu/about/graduate-students/kim-soyoung.html) |
+| Akriti Kumari | Khaled Mohammed |
+| [Koushik Reddy Parukola](https://www.linkedin.com/in/koushik-reddy-parukola/) | Emily Reed |
+| Shane A. Sparks | [Dhananjay Srivastava](https://www.linkedin.com/in/dhananjay-srivastava/) |
+| Amy C. Stafford | [Dr. Zoran Tiganj](https://homes.luddy.indiana.edu/ztiganj/) |
 | Khai Anthony Willard | Chi Zhang |
 | [Rong Zheng](https://psych.indiana.edu/directory/graduate-students/zheng-rong.html) |  |
 
