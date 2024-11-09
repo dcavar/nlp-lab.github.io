@@ -96,7 +96,7 @@ Previous projects foci:
 | [Umang Mehta](https://umangrmehta.github.io/) | [Dr. Anthony Meyer](https://www.linkedin.com/in/antmeyer408/) |
 | [Dr. Ludovic Mompelat](https://www.linkedin.com/in/ludovic-mompelat-8a1960b8/) | [Shreejith Panicker](https://skpanick.github.io/) |
 | [Chaitanya Patil](https://github.com/Chaitz333) | Harshwardhan Raghunath Patil |
-| [Restrepo Ramos, Dr. Falcon Dario](https://www.linkedin.com/in/falcon-restrepo-ramos-657b74203/) | [Animesh Sagar](https://github.com/animeshsagar) |
+| [Dr. Falcon Dario Restrepo Ramos](https://www.linkedin.com/in/falcon-restrepo-ramos-657b74203/) | [Animesh Sagar](https://github.com/animeshsagar) |
 | [Gopal Seshadri](https://github.com/GopalSeshadri) | Surya Prateek Soni |
 | [Ashutosh Tiwari](https://www.linkedin.com/in/ashutosh--tiwari/) | [Dr. Yuna Won](http://www.yunawon.net) |
 | Kimball Wu | Yuchen Yang |
