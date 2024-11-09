@@ -88,7 +88,7 @@ Previous projects foci:
 | [Aarushi Bisht](https://github.com/aarushiibisht) | [Jagpreet Singh Chawla](https://github.com/jagpreetschawla) |
 | Aravind Dendukuri | Shreeja Deshpanbe |
 | [Rushabh Dharia](https://github.com/rushabhdharia) | Josephine Douglas |
-| [Boli Fang](https://github.com/blf11139) | [Matthew Fort](https://www.linkedin.com/in/matthew-fort-07b802236/) |
+| [Dr. Boli Fang](https://github.com/blf11139) | [Matthew Fort](https://www.linkedin.com/in/matthew-fort-07b802236/) |
 | [Maanvitha Gongalla](https://github.com/maanvithag) | [Peace Han](https://github.com/P-eaceHan) |
 | [Murali Kishore Varma Kammili](https://github.com/mkvk) | [Anurag Kumar](https://github.com/anuragkumar95) |
 | Gordon Elliot Lichtstein | [Shujun Liu](https://github.com/liu-shuj/) |
