@@ -44,6 +44,11 @@ The topics to discuss and papers to read for the Fall 2024 meetings:
 | 12/06/2024 | [Jerome Busemeyer](https://psych.indiana.edu/directory/faculty/busemeyer-jerome.html) (IU, Psychology, CogSci) |
 |            | "TBA"     |
 | ---------- | --------- |
+| 12/13/2024 | Reading, Discussion, Implementation: "[Approximate complex amplitude encoding algorithm and its application to data classification problems](https://arxiv.org/abs/2211.13039)" |
+| ---------- | --------- |
+| 12/20/2024 | Reading, Discussion, Implementation: "[Towards Compositional Interpretability for XAI](https://arxiv.org/abs/2211.13039)" |
+| ---------- | --------- |
+
 
 
 ## News
