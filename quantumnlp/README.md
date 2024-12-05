@@ -33,11 +33,11 @@ The topics to discuss and papers to read for the Fall 2024 meetings:
 | ---------- | --------- |
 | 10/25/2024 | Work meeting, research and literature discussion. |
 | ---------- | --------- |
-| ...        | ...       |
+| ...        | Research and Discussion       |
 | ---------- | --------- |
 | 11/08/2024 | [Mohsen Heidari Khoozani](https://luddy.indiana.edu/contact/profile/index.html?Mohsen_Heidari) (IU, Luddy, CS) "TBA" |
 | ---------- | --------- |
-| ...        | ...       |
+| ...        | Research and Discussion       |
 | ---------- | --------- |
 | 12/05/2024 | [Alessandro Luongo](https://luongo.pro/) ([Center for Quantum Technologies](https://www.quantumlah.org/) ([CQT](https://www.quantumlah.org/)), [National University of Singapore](https://nus.edu.sg/)) "Quantum algorithms for spectral sums" |
 | ---------- | --------- |
