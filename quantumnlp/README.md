@@ -39,10 +39,9 @@ The topics to discuss and papers to read for the Fall 2024 meetings:
 | ---------- | --------- |
 | ...        | ...       |
 | ---------- | --------- |
-| 12/05/2024 | [Alessandro Luongo](https://luongo.pro/) ([Center for Quantum Technologies](https://www.quantumlah.org/) ([CQT](https://www.quantumlah.org/)), [National University of Singapore](https://nus.edu.sg/)) "TBA" |
+| 12/05/2024 | [Alessandro Luongo](https://luongo.pro/) ([Center for Quantum Technologies](https://www.quantumlah.org/) ([CQT](https://www.quantumlah.org/)), [National University of Singapore](https://nus.edu.sg/)) "Quantum algorithms for spectral sums" |
 | ---------- | --------- |
-| 12/06/2024 | [Jerome Busemeyer](https://psych.indiana.edu/directory/faculty/busemeyer-jerome.html) (IU, Psychology, CogSci) |
-|            | "TBA"     |
+| 12/06/2024 | [Jerome Busemeyer](https://psych.indiana.edu/directory/faculty/busemeyer-jerome.html) (IU, Psychology, CogSci)  "Quantum information processing modeling of human judgmental heuristics" |
 | ---------- | --------- |
 | 12/13/2024 | Reading, Discussion, Implementation: "[Approximate complex amplitude encoding algorithm and its application to data classification problems](https://arxiv.org/abs/2211.13039)" |
 | ---------- | --------- |
