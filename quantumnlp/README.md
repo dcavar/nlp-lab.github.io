@@ -35,7 +35,7 @@ The topics to discuss and papers to read for the Fall 2024 meetings:
 | ---------- | --------- |
 | ...        | Research and Discussion       |
 | ---------- | --------- |
-| 11/08/2024 | [Mohsen Heidari Khoozani](https://luddy.indiana.edu/contact/profile/index.html?Mohsen_Heidari) (IU, Luddy, CS) "TBA" |
+| 11/08/2024 | [Mohsen Heidari Khoozani](https://luddy.indiana.edu/contact/profile/index.html?Mohsen_Heidari) (IU, Luddy, CS) "Quantum Learning: Foundations and Challenges" |
 | ---------- | --------- |
 | ...        | Research and Discussion       |
 | ---------- | --------- |
