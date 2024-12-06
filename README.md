@@ -18,7 +18,7 @@ The NLP-Lab is located at [Indiana University at Bloomington](https://indiana.ed
 
 
 ## News
-
+- [Midwest Speech and Language Days 2025](https://nlp.nd.edu/msld25/) announced.
 - Muhammad S. Abdo, Yash Hatekar and [Damir Cavar] (2025) AMWAL: Named Entity Recognition for Arabic Financial News. In proceedings of the [FinNLP-FNP-LLMFinLegal 2025](https://sites.google.com/nlg.csie.ntu.edu.tw/finnlp-fnp-llmfinlegal/home) workshop at [COLING 2025](https://coling2025.org/).
 - [Quantum Artificial Intelligence and Natural Language Processing Conference 2025](https://qnlp.ai/) at Indiana University in August 2025.
 - [Webinar on social media content analytics, antisemitism, and hate-speech in the 2024 Datathon and Hackathon](https://isca.indiana.edu/conferences/webinars/2024-webinars/10-20-24_datathon.html) is coming up in October 2024. See also [project website](/antisemitism) and [GitHub repo with notes and code](https://github.com/AnnotationPortal/DatathonandHackathon.github.io)
