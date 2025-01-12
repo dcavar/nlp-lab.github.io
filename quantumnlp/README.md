@@ -1,53 +1,31 @@
-# Quantum Natural Language Processing
+# Quantum Natural Language Processing and AI
 
 Created: [Damir Cavar], 2023-06-12
 
-Last change: [Damir Cavar], 2024-09-06
+Last change: [Damir Cavar], 2025-01-12
 
 
-**The Quantum NLP Study Group meetings during the Fall 2024 semester are located in Luddy Hall BLIF 0002 every Friday from 4 PM.**
+**The Quantum NLP and AI Study Group meetings during the Spring 2025 semester are located in Luddy Hall BLIF 0002 every Wednesday from 5 PM.**
+
+**The campus-wide Quantum and AI meeting is scheduled for Fridays at 4 PM during the Spring 2025 semester. The location will be announced here ASAP**
+
+See the public calendar with all the meeting times and details: [NLP-Lab Event Calendar](https://calendar.google.com/calendar/embed?src=3h9o18o7i82tjmmt5q2j3qgkj8%40group.calendar.google.com&ctz=America%2FNew_York).
 
 
 ## Schedule
 
-The topics to discuss and papers to read for the Fall 2024 meetings:
+The topics to discuss and papers to read for the Spring 2025 meetings:
 
 | **Date**   | **Topic** |
 | ---------- | --------- |
-| 08/16/2024 | [Schuld et al. 2014](https://arxiv.org/abs/1409.3097) |
-|            | [Zhang et al. 2023](https://link.springer.com/chapter/10.1007/978-981-99-8145-8_14)  |
+| 01/15/2025 | regular meeting: Organization and planning |
 | ---------- | --------- |
-| 08/23/2024 | regular meeting |
-| ---------- | --------- |
-| 08/30/2024 | regular meeting |
-| ---------- | --------- |
-| 09/20/2024 | [IEEE Quantum Week 2024](https://qce.quantum.ieee.org/2024/) |
-| ---------- | --------- |
-| 09/27/2024 | [Dominic Widdows](https://www.puttypeg.net/) on "Advances in Quantum Natural Language Processing, 2022-2024" |
-| ---------- | --------- |
-| 10/04/2024 | Research meeting, Planning the Conference Quantum AI and NLP 2025 |
-| ---------- | --------- |
-| 10/11/2024 | [Nicholas LaRacuente](https://sites.google.com/iu.edu/nicholas-laracuente) (IU, Luddy, CS) "Mirages of Complex and Random Quantum States" |
-| ---------- | --------- |
-| 10/18/2024 | [Amr Sabry](https://amr-sabry.luddy.indiana.edu/)  (IU, Luddy, CS) "Programming, the Quantum Way"     |
-| ---------- | --------- |
-| 10/25/2024 | Work meeting, research and literature discussion. |
-| ---------- | --------- |
-| ...        | Research and Discussion       |
-| ---------- | --------- |
-| 11/08/2024 | [Mohsen Heidari Khoozani](https://luddy.indiana.edu/contact/profile/index.html?Mohsen_Heidari) (IU, Luddy, CS) "Quantum Learning: Foundations and Challenges" |
-| ---------- | --------- |
-| ...        | Research and Discussion       |
-| ---------- | --------- |
-| 12/05/2024 | [Alessandro Luongo](https://luongo.pro/) ([Center for Quantum Technologies](https://www.quantumlah.org/) ([CQT](https://www.quantumlah.org/)), [National University of Singapore](https://nus.edu.sg/)) "Quantum algorithms for spectral sums" |
-| ---------- | --------- |
-| 12/06/2024 | [Jerome Busemeyer](https://psych.indiana.edu/directory/faculty/busemeyer-jerome.html) (IU, Psychology, CogSci)  "Quantum information processing modeling of human judgmental heuristics" |
-| ---------- | --------- |
-| 12/13/2024 | Reading, Discussion, Implementation: "[Approximate complex amplitude encoding algorithm and its application to data classification problems](https://arxiv.org/abs/2211.13039)" |
-| ---------- | --------- |
-| 12/20/2024 | Reading, Discussion, Implementation: "[Towards Compositional Interpretability for XAI](https://arxiv.org/abs/2211.13039)" |
+|            |           |
 | ---------- | --------- |
 
+### Previous Meeting Schedules
+
+- [Fall 2024](/quantumnlp/meetingschedule_fall_2024/)
 
 
 ## News
