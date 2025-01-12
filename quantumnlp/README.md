@@ -25,7 +25,7 @@ The topics to discuss and papers to read for the Spring 2025 meetings:
 
 ### Previous Meeting Schedules
 
-- [Fall 2024](/quantumnlp/meetingschedule_fall_2024/)
+- [Fall 2024](/quantumnlp/meetingschedule_fall_2024)
 
 
 ## News
