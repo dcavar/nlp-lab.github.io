@@ -14,7 +14,7 @@ See the public calendar with all the meeting times and details: [NLP-Lab Event C
 
 ## Schedule
 
-The topics to discuss and papers to read for the Spring 2025 meetings:
+The topics to discuss, papers to read, or presentations to listen to during the Spring 2025 meetings:
 
 | **Date**   | **Topic** |
 | ---------- | --------- |
@@ -26,6 +26,7 @@ The topics to discuss and papers to read for the Spring 2025 meetings:
 ### Previous Meeting Schedules
 
 - [Fall 2024](/quantumnlp/meetingschedule_fall_2024)
+
 
 
 ## News

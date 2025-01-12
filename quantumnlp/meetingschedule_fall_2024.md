@@ -4,8 +4,10 @@ Created: [Damir Cavar], 2025-01-12
 
 Last change: [Damir Cavar], 2025-01-12
 
+Back to the [Quantum Study Group](/quantumnlp/)
 
-The topics to discuss and papers to read for the Fall 2024 meetings:
+
+The topics discussed, papers read, and presentations by guest speakers during the Fall 2024 meetings:
 
 | **Date**   | **Topic** |
 | ---------- | --------- |
@@ -42,6 +44,10 @@ The topics to discuss and papers to read for the Fall 2024 meetings:
 | ---------- | --------- |
 | 12/20/2024 | Reading, Discussion, Implementation: "[Towards Compositional Interpretability for XAI](https://arxiv.org/abs/2211.13039)" |
 | ---------- | --------- |
+
+
+Back to the [Quantum Study Group](/quantumnlp/)
+
 
 
 [Damir Cavar]: http://damir.cavar.me/ "Damir Cavar"
