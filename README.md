@@ -18,6 +18,8 @@ The NLP-Lab is located at [Indiana University at Bloomington](https://iu.edu/). 
 
 
 ## News
+
+- - Damir Cavar, Koushik Reddy Parukola, Chi Zhang (2025) Word and Text Similarity Using Classical Word Embeddings in Quantum NLP Systems. Satellite Workshop: [Quantum Machine Learning in Signal Processing and Artificial Intelligence](https://sites.google.com/view/qmlicassp2025/home) at the [2025 IEEE International Conference on Acoustics, Speech, and Signal Processing](https://2025.ieeeicassp.org/). Hyderabad, India.
 - [Midwest Speech and Language Days 2025](https://nlp.nd.edu/msld25/) announced.
 - Muhammad S. Abdo, Yash Hatekar and [Damir Cavar] (2025) AMWAL: Named Entity Recognition for Arabic Financial News. In proceedings of the [FinNLP-FNP-LLMFinLegal 2025](https://sites.google.com/nlg.csie.ntu.edu.tw/finnlp-fnp-llmfinlegal/home) workshop at [COLING 2025](https://coling2025.org/).
 - [Quantum Artificial Intelligence and Natural Language Processing Conference 2025](https://qnlp.ai/) at Indiana University in August 2025.
