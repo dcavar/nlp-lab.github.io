@@ -51,7 +51,7 @@ The topics to discuss, papers to read, or presentations to listen to during the 
 - [Literature](#Literature)
 - [Tools and Technologies](#tools_and_technologies)
 - [Tutorials](#tutorials)
-- [Conferences](#conferences)
+- [Conferences and Events](#conferences)
 - [Jobs and Internships](#jobs_internships)
 
 
@@ -142,8 +142,12 @@ Relevant literature from Cognitive Science and Psychology, related to language:
     - [Xanadu Quantum Codebook](https://codebook.xanadu.ai/)
 
 
-## Conferences <a name="conferences"></a>
+## Conferences and Events <a name="conferences"></a>
 
+- [The Future of Communications in A Quantum Era](https://www.eventbrite.com/e/the-future-of-communications-in-a-quantum-era-tickets-1169534131069) at the WestGate Academy, Odon, Indiana, 02/04/2025
+- [Quantum Artificial Intelligence and Natural Language Processing Conference 2025](https://qnlp.ai/) at Indiana University in August 2025.
+- [Purdue Quantum AI (PQAI)](https://sites.google.com/view/pqai/home), Purdue University, West Lafayette, USA
+- [Quantum Artificial Intelligence &amp; Optimization 2025](https://qaio.org/) workshop at the 17th International Conference on Agents and Artificial Intelligence (ICAART).
 - [Quantum Natural Language Processing (QNLP) 2022](https://qnlp.cambridgequantum.com/conf2022/), Oxford, UK
 - [Quantum Natural Language Processing (QNLP) 2023](https://qnlp.cambridgequantum.com/conf2023/), Gothenburg, Sweden
 - [Quantum Physics and Logic (QPL) 2022](https://www.qplconference.org/) ([proceedings](https://cgi.cse.unsw.edu.au/~eptcs/content.cgi?QPL2022))
