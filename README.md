@@ -68,43 +68,45 @@ Previous projects foci:
 ## Team
 
 | ------| ------- |
-| [Muhammad S. Abdo](https://www.linkedin.com/in/muhsabrys/) | Luis Abrego |
-| Nada Aggadi | Jose P. Benavides |
+| [Muhammad S. Abdo](https://www.linkedin.com/in/muhsabrys/) | Jose P. Benavides |
 | [Dr. Damir Cavar](http://damir.cavar.me/) | [Andrew Davis](https://www.linkedin.com/in/adavis94/) |
-| [Ian Devine](https://www.linkedin.com/in/ian-devine-2002/) | [Billy Dickson](https://www.linkedin.com/in/billy-dickson/) |
-| [Vance Holthenrichs](https://russian.indiana.edu/about/instructors/holthenrichs-van.html) | [Calvin Josenhans](https://halflinghelper.github.io/) |
+| [Billy Dickson](https://www.linkedin.com/in/billy-dickson/) | James Graves |
+| Shusuke Hashimoto | [Vance Holthenrichs](https://russian.indiana.edu/about/instructors/holthenrichs-van.html) |
+| Jiaqi Huang | Armando Hull |
 | Selim Kim | [Soyoung Kim](https://linguistics.indiana.edu/about/graduate-students/kim-soyoung.html) |
-| Akriti Kumari | Khaled Mohammed |
-| [Koushik Reddy Parukola](https://www.linkedin.com/in/koushik-reddy-parukola/) | Emily Reed |
+| Akriti Kumari | Nicholas LaRacuente |
+| Khaled Mohammed | Elias Naske |
+| Ananth Karkala Pai | [Koushik Reddy Parukola](https://www.linkedin.com/in/koushik-reddy-parukola/) |
+| Emily Reed | Victor Shi |
 | Shane A. Sparks | [Dhananjay Srivastava](https://www.linkedin.com/in/dhananjay-srivastava/) |
-| Amy C. Stafford | [Dr. Zoran Tiganj](https://homes.luddy.indiana.edu/ztiganj/) |
-| Khai Anthony Willard | Chi Zhang |
-| [Rong Zheng](https://psych.indiana.edu/directory/graduate-students/zheng-rong.html) |  |
-
+| Amy C. Stafford | Ling Sun |
+| [Dr. Zoran Tiganj](https://homes.luddy.indiana.edu/ztiganj/) | [Rong Zheng](https://psych.indiana.edu/directory/graduate-students/zheng-rong.html) |
 
 ## Former Team Members
 
-| ------- | ------- |
-|  Aarnav | Dr. Ali Abdulaziz Aljubailan |
+| ------| ------- |
+|  Aarnav | Luis Abrego |
+| Nada Aggadi | Dr. Ali Abdulaziz Aljubailan |
 | Abhishek Babuji | [Oren Baldinger](https://github.com/orenbaldinger) |
 | [Tanmayi Balla](https://www.linkedin.com/in/tanmayiballa) | [Rohit Bapat](https://github.com/rohitbapat/) |
 | [Aarushi Bisht](https://github.com/aarushiibisht) | [Jagpreet Singh Chawla](https://github.com/jagpreetschawla) |
 | Aravind Dendukuri | Shreeja Deshpanbe |
-| [Rushabh Dharia](https://github.com/rushabhdharia) | Josephine Douglas |
-| [Dr. Boli Fang](https://github.com/blf11139) | [Matthew Fort](https://www.linkedin.com/in/matthew-fort-07b802236/) |
-| [Maanvitha Gongalla](https://github.com/maanvithag) | [Peace Han](https://github.com/P-eaceHan) |
+| [Ian Devine](https://www.linkedin.com/in/ian-devine-2002/) | [Rushabh Dharia](https://github.com/rushabhdharia) |
+| Josephine Douglas | [Dr. Boli Fang](https://github.com/blf11139) |
+| [Matthew Fort](https://www.linkedin.com/in/matthew-fort-07b802236/) | [Maanvitha Gongalla](https://github.com/maanvithag) |
+| [Peace Han](https://github.com/P-eaceHan) | [Calvin Josenhans](https://halflinghelper.github.io/) |
 | [Murali Kishore Varma Kammili](https://github.com/mkvk) | [Anurag Kumar](https://github.com/anuragkumar95) |
 | Gordon Elliot Lichtstein | [Shujun Liu](https://github.com/liu-shuj/) |
 | [MacIntosh Phillips, John](https://github.com/jackp1377) | Anshul Kumar Mangalapalli |
 | [Umang Mehta](https://umangrmehta.github.io/) | [Dr. Anthony Meyer](https://www.linkedin.com/in/antmeyer408/) |
 | [Dr. Ludovic Mompelat](https://www.linkedin.com/in/ludovic-mompelat-8a1960b8/) | [Shreejith Panicker](https://skpanick.github.io/) |
 | [Chaitanya Patil](https://github.com/Chaitz333) | Harshwardhan Raghunath Patil |
-| [Dr. Falcon Dario Restrepo Ramos](https://www.linkedin.com/in/falcon-restrepo-ramos-657b74203/) | [Animesh Sagar](https://github.com/animeshsagar) |
+| [Restrepo Ramos, Dr. Falcon Dario](https://www.linkedin.com/in/falcon-restrepo-ramos-657b74203/) | [Animesh Sagar](https://github.com/animeshsagar) |
 | [Gopal Seshadri](https://github.com/GopalSeshadri) | Surya Prateek Soni |
-| [Ashutosh Tiwari](https://www.linkedin.com/in/ashutosh--tiwari/) | [Dr. Yuna Won](http://www.yunawon.net) |
-| Kimball Wu | Yuchen Yang |
-| [Yiwen Zhang](https://github.com/yiwenzh29) |  |
-
+| [Ashutosh Tiwari](https://www.linkedin.com/in/ashutosh--tiwari/) | Khai Anthony Willard |
+| [Dr. Yuna Won](http://www.yunawon.net) | Kimball Wu |
+| Yuchen Yang | Chi Zhang |
+| [Yiwen Zhang](https://github.com/yiwenzh29) |  |  |
 
 <!-- <iframe src="https://map.concept3d.com/?id=951#!m/241411" width="100%" height="450" frameBorder="0" scrolling="no" border="0" style="border:0px solid #fff; margin:0; padding:0;"></iframe> -->
 
