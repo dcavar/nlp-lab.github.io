@@ -70,15 +70,15 @@ Previous projects foci:
 | ------| ------- |
 | [Muhammad S. Abdo](https://www.linkedin.com/in/muhsabrys/) | Jose P. Benavides |
 | [Dr. Damir Cavar](http://damir.cavar.me/) | [Andrew Davis](https://www.linkedin.com/in/adavis94/) |
-| [Billy Dickson](https://www.linkedin.com/in/billy-dickson/) | James Graves |
-| Shusuke Hashimoto | [Vance Holthenrichs](https://russian.indiana.edu/about/instructors/holthenrichs-van.html) |
-| Jiaqi Huang | Armando Hull |
-| Selim Kim | [Soyoung Kim](https://linguistics.indiana.edu/about/graduate-students/kim-soyoung.html) |
-| Akriti Kumari | Nicholas LaRacuente |
-| Khaled Mohammed | Elias Naske |
-| Ananth Karkala Pai | [Koushik Reddy Parukola](https://www.linkedin.com/in/koushik-reddy-parukola/) |
-| Emily Reed | Victor Shi |
-| Shane A. Sparks | [Dhananjay Srivastava](https://www.linkedin.com/in/dhananjay-srivastava/) |
+| [Billy Dickson](https://www.linkedin.com/in/billy-dickson/) | [Benjamin Glidden](https://www.linkedin.com/in/benjamin-glidden/) |
+| James Graves | Shusuke Hashimoto |
+| [Vance Holthenrichs](https://russian.indiana.edu/about/instructors/holthenrichs-van.html) | Jiaqi Huang |
+| Armando Hull | Selim Kim |
+| [Soyoung Kim](https://linguistics.indiana.edu/about/graduate-students/kim-soyoung.html) | [Akriti Kumari](https://www.linkedin.com/in/akriti-kumari-321362218/) |
+| [Nicholas LaRacuente](https://www.linkedin.com/in/nicklaracuente/) | Khaled Mohammed |
+| [Elias Naske](https://www.linkedin.com/in/elias-naske/) | Ananth Karkala Pai |
+| [Koushik Reddy Parukola](https://www.linkedin.com/in/koushik-reddy-parukola/) | Emily Reed |
+| Victor Shi | Shane A. Sparks |
 | Amy C. Stafford | Ling Sun |
 | [Dr. Zoran Tiganj](https://homes.luddy.indiana.edu/ztiganj/) | [Rong Zheng](https://psych.indiana.edu/directory/graduate-students/zheng-rong.html) |
 
@@ -103,10 +103,10 @@ Previous projects foci:
 | [Chaitanya Patil](https://github.com/Chaitz333) | Harshwardhan Raghunath Patil |
 | [Restrepo Ramos, Dr. Falcon Dario](https://www.linkedin.com/in/falcon-restrepo-ramos-657b74203/) | [Animesh Sagar](https://github.com/animeshsagar) |
 | [Gopal Seshadri](https://github.com/GopalSeshadri) | Surya Prateek Soni |
-| [Ashutosh Tiwari](https://www.linkedin.com/in/ashutosh--tiwari/) | Khai Anthony Willard |
-| [Dr. Yuna Won](http://www.yunawon.net) | Kimball Wu |
-| Yuchen Yang | Chi Zhang |
-| [Yiwen Zhang](https://github.com/yiwenzh29) |  |  |
+| [Dhananjay Srivastava](https://www.linkedin.com/in/dhananjay-srivastava/) | [Ashutosh Tiwari](https://www.linkedin.com/in/ashutosh--tiwari/) |
+| Khai Anthony Willard | [Dr. Yuna Won](http://www.yunawon.net) |
+| Kimball Wu | Yuchen Yang |
+| Chi Zhang | [Yiwen Zhang](https://github.com/yiwenzh29) |
 
 <!-- <iframe src="https://map.concept3d.com/?id=951#!m/241411" width="100%" height="450" frameBorder="0" scrolling="no" border="0" style="border:0px solid #fff; margin:0; padding:0;"></iframe> -->
 
