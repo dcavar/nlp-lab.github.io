@@ -80,7 +80,8 @@ Previous projects foci:
 | [Koushik Reddy Parukola](https://www.linkedin.com/in/koushik-reddy-parukola/) | Emily Reed |
 | Victor Shi | Shane A. Sparks |
 | Amy C. Stafford | Ling Sun |
-| [Dr. Zoran Tiganj](https://homes.luddy.indiana.edu/ztiganj/) | [Rong Zheng](https://psych.indiana.edu/directory/graduate-students/zheng-rong.html) |
+| Jayapraksh Theyaneshwaran | [Dr. Zoran Tiganj](https://homes.luddy.indiana.edu/ztiganj/) |
+| [Rong Zheng](https://psych.indiana.edu/directory/graduate-students/zheng-rong.html) |  |
 
 ## Former Team Members
 
