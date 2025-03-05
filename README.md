@@ -23,6 +23,12 @@ The topics to discuss, papers to read, or presentations to listen to during the 
 
 | **Date**   | **Topic** |
 | ---------- | --------- |
+| 01/16/2025 | Regular meeting: LLMs, RAGs, and Knowledge Graphs: Medical abstracts to Knowledge Graphs |
+| ---------- | --------- |
+| 01/23/2025 | Regular meeting: LLMs, RAGs, and Knowledge Graphs: Medical abstracts to Knowledge Graphs |
+| ---------- | --------- |
+| 01/30/2025 | Regular meeting: LLMs, RAGs, and Knowledge Graphs: Medical abstracts to Knowledge Graphs |
+| ---------- | --------- |
 | 02/06/2025 | presentation by Dr. [Daniel Miehling](https://www.linkedin.com/in/daniel-miehling-9aa91a337/), Indiana University, on "Hate Speech in Social Media" |
 | ---------- | --------- |
 | 02/13/2025 | Regular meeting: LLMs, RAGs, and Knowledge Graphs: Medical abstracts to Knowledge Graphs |
@@ -44,7 +50,7 @@ The topics to discuss, papers to read, or presentations to listen to during the 
 
 ## News
 
-- - Damir Cavar, Koushik Reddy Parukola, Chi Zhang (2025) Word and Text Similarity Using Classical Word Embeddings in Quantum NLP Systems. Satellite Workshop: [Quantum Machine Learning in Signal Processing and Artificial Intelligence](https://sites.google.com/view/qmlicassp2025/home) at the [2025 IEEE International Conference on Acoustics, Speech, and Signal Processing](https://2025.ieeeicassp.org/). Hyderabad, India.
+- Damir Cavar, Koushik Reddy Parukola, Chi Zhang (2025) Word and Text Similarity Using Classical Word Embeddings in Quantum NLP Systems. Satellite Workshop: [Quantum Machine Learning in Signal Processing and Artificial Intelligence](https://sites.google.com/view/qmlicassp2025/home) at the [2025 IEEE International Conference on Acoustics, Speech, and Signal Processing](https://2025.ieeeicassp.org/). Hyderabad, India.
 - [Midwest Speech and Language Days 2025](https://nlp.nd.edu/msld25/) announced.
 - Muhammad S. Abdo, Yash Hatekar and [Damir Cavar] (2025) AMWAL: Named Entity Recognition for Arabic Financial News. In proceedings of the [FinNLP-FNP-LLMFinLegal 2025](https://sites.google.com/nlg.csie.ntu.edu.tw/finnlp-fnp-llmfinlegal/home) workshop at [COLING 2025](https://coling2025.org/).
 - [Quantum Artificial Intelligence and Natural Language Processing Conference 2025](https://qnlp.ai/) at Indiana University in August 2025.
