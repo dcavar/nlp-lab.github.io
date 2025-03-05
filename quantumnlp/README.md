@@ -16,10 +16,25 @@ The topics to discuss, papers to read, or presentations to listen to during the 
 
 | **Date**   | **Topic** |
 | ---------- | --------- |
-| 03/05/2025 | regular meeting: project and experiments, organization and planning of [QNLP.AI](https://qnlp.ai/) |
+| 01/15/2025 | regular meeting: project and experiments, organization and planning of [QNLP.AI](https://qnlp.ai/) |
+| ---------- | --------- |
+| 01/22/2025 | regular meeting: project and experiments, organization and planning of [QNLP.AI](https://qnlp.ai/) |
+| ---------- | --------- |
+| 01/29/2025 | regular meeting: project and experiments, organization and planning of [QNLP.AI](https://qnlp.ai/) |
+| ---------- | --------- |
+| 02/05/2025 | regular meeting: project and experiments, organization and planning of [QNLP.AI](https://qnlp.ai/) |
+| ---------- | --------- |
+| 02/12/2025 | regular meeting: project and experiments, organization and planning of [QNLP.AI](https://qnlp.ai/) |
+| ---------- | --------- |
+| 02/19/2025 | regular meeting: project and experiments, organization and planning of [QNLP.AI](https://qnlp.ai/) |
+| ---------- | --------- |
+| 02/26/2025 | regular meeting: project and experiments, organization and planning of [QNLP.AI](https://qnlp.ai/) |
+| ---------- | --------- |
+| 03/07/2025 | regular meeting: project and experiments, organization and planning of [QNLP.AI](https://qnlp.ai/) |
 | ---------- | --------- |
 |            |           |
 | ---------- | --------- |
+
 
 ### Previous Meeting Schedules
 
