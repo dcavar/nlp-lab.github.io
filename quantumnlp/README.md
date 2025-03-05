@@ -1,13 +1,11 @@
-# Quantum Natural Language Processing and AI
+# Quantum AI and Natural Language Processing (NLP)
 
 Created: [Damir Cavar], 2023-06-12
 
-Last change: [Damir Cavar], 2025-01-12
+Last change: [Damir Cavar], 2025-03-05
 
 
-**The Quantum NLP and AI Study Group meetings during the Spring 2025 semester are located in Luddy Hall BLIF 0002 every Wednesday from 5 PM.**
-
-**The campus-wide Quantum and AI meeting is scheduled for Fridays at 4 PM during the Spring 2025 semester. The location will be announced here ASAP**
+**The Quantum NLP and AI Study Group meetings during the Spring 2025 semester are located in Luddy Hall BLIF 0002 every Friday from 4 PM.**
 
 See the public calendar with all the meeting times and details: [NLP-Lab Event Calendar](https://calendar.google.com/calendar/embed?src=3h9o18o7i82tjmmt5q2j3qgkj8%40group.calendar.google.com&ctz=America%2FNew_York).
 
@@ -18,7 +16,7 @@ The topics to discuss, papers to read, or presentations to listen to during the 
 
 | **Date**   | **Topic** |
 | ---------- | --------- |
-| 01/15/2025 | regular meeting: Organization and planning |
+| 03/05/2025 | regular meeting: project and experiments, organization and planning of [QNLP.AI](https://qnlp.ai/) |
 | ---------- | --------- |
 |            |           |
 | ---------- | --------- |
