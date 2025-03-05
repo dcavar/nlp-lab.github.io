@@ -23,6 +23,12 @@ The topics to discuss, papers to read, or presentations to listen to during the 
 
 | **Date**   | **Topic** |
 | ---------- | --------- |
+| 02/06/2025 | presentation by Dr. [Daniel Miehling](https://www.linkedin.com/in/daniel-miehling-9aa91a337/), Indiana University, on "Hate Speech in Social Media" |
+| ---------- | --------- |
+| 02/13/2025 | Regular meeting: LLMs, RAGs, and Knowledge Graphs: Medical abstracts to Knowledge Graphs |
+| ---------- | --------- |
+| 02/20/2025 | Regular meeting: LLMs, RAGs, and Knowledge Graphs: Medical abstracts to Knowledge Graphs |
+| ---------- | --------- |
 | 02/27/2025 | presentation by Prof. [Jasminka Dobša](https://www.foi.unizg.hr/en/staff/jasminka.dobsa), University of Zagreb, on "Emotion Detection" |
 | ---------- | --------- |
 | 03/06/2025 | Regular meeting: LLMs, RAGs, and Knowledge Graphs: Medical abstracts to Knowledge Graphs |
