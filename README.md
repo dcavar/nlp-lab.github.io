@@ -67,15 +67,15 @@ The topics to discuss, papers to read, or presentations to listen to during the 
 
 ## Research Foci
 
-During the 2024 academic year, the focus is on:
+During the 2025 academic year, the focus is on:
 
 - [Quantum NLP](/quantumnlp)
-- [Ontology Learning](/ontology_learning)
+- [Ontology Learning](/ontology_learning): Learning higher level semantic properties from raw text and images
+- [Large Language Models (LLM), Retrieval-Augmented Generation (RAG), and Knowledge Graphs: extraction and visualization from relational databases, unstructured text, and images/videos](/kgextraction)
+- Entailment and Reasoning over Knowledge Graphs (and Description Logic/Semantic Web): Using Temporal Graph Neural Networks, Large Language Models, and Knowledge Graphs.
 - [Ellipsis and Empty Element Parsing](/ellipsis)
 - [Discontinuity and Non-local Dependency Processing in Natural Language Discourse](/discontinuities)
 - [Time and Event Annotation and NLP Technologies (TIE-ML)](/timeevents)
-- [Knowledge Graph extraction and visualization from relational databases, unstructured text, and images/videos](/kgextraction)
-- Entailment and Reasoning over Knowledge Graphs (and Description Logic/Semantic Web): Using Temporal Graph Neural Networks, Large Language Models, and Knowledge Graphs.
 
 In all these projects, we work on hands-on implementation of technologies, utilizing programming languages like [Python] and [Rust], and graph or RDF libraries, as well as common graph-database systems like [Apache Jena], [Fluree], [oxigraph], [AllegroGraph], [GraphDB], or [Neo4j].
 
@@ -106,13 +106,12 @@ Previous projects foci:
 | [Vance Holthenrichs](https://russian.indiana.edu/about/instructors/holthenrichs-van.html) | Jiaqi Huang |
 | Armando Hull | Selim Kim |
 | [Soyoung Kim](https://linguistics.indiana.edu/about/graduate-students/kim-soyoung.html) | [Akriti Kumari](https://www.linkedin.com/in/akriti-kumari-321362218/) |
-| [Nicholas LaRacuente](https://www.linkedin.com/in/nicklaracuente/) | Khaled Mohammed |
-| [Elias Naske](https://www.linkedin.com/in/elias-naske/) | Ananth Karkala Pai |
-| [Koushik Reddy Parukola](https://www.linkedin.com/in/koushik-reddy-parukola/) | Emily Reed |
-| Victor Shi | Shane A. Sparks |
-| Amy C. Stafford | Ling Sun |
-| Jayapraksh Theyaneshwaran | [Dr. Zoran Tiganj](https://homes.luddy.indiana.edu/ztiganj/) |
-| [Rong Zheng](https://psych.indiana.edu/directory/graduate-students/zheng-rong.html) |  |
+| [Dr. Nicholas LaRacuente](https://www.linkedin.com/in/nicklaracuente/) | [Elias Naske](https://www.linkedin.com/in/elias-naske/) |
+| Ananth Karkala Pai | [Koushik Reddy Parukola](https://www.linkedin.com/in/koushik-reddy-parukola/) |
+| Emily Reed | Victor Shi |
+| Shane A. Sparks | Amy C. Stafford |
+| Ling Sun | Jayapraksh Theyaneshwaran |
+| [Dr. Zoran Tiganj](https://homes.luddy.indiana.edu/ztiganj/) | [Rong Zheng](https://psych.indiana.edu/directory/graduate-students/zheng-rong.html) |
 
 ## Former Team Members
 
@@ -131,14 +130,15 @@ Previous projects foci:
 | Gordon Elliot Lichtstein | [Shujun Liu](https://github.com/liu-shuj/) |
 | [MacIntosh Phillips, John](https://github.com/jackp1377) | Anshul Kumar Mangalapalli |
 | [Umang Mehta](https://umangrmehta.github.io/) | [Dr. Anthony Meyer](https://www.linkedin.com/in/antmeyer408/) |
-| [Dr. Ludovic Mompelat](https://www.linkedin.com/in/ludovic-mompelat-8a1960b8/) | [Shreejith Panicker](https://skpanick.github.io/) |
-| [Chaitanya Patil](https://github.com/Chaitz333) | Harshwardhan Raghunath Patil |
-| [Restrepo Ramos, Dr. Falcon Dario](https://www.linkedin.com/in/falcon-restrepo-ramos-657b74203/) | [Animesh Sagar](https://github.com/animeshsagar) |
-| [Gopal Seshadri](https://github.com/GopalSeshadri) | Surya Prateek Soni |
-| [Dhananjay Srivastava](https://www.linkedin.com/in/dhananjay-srivastava/) | [Ashutosh Tiwari](https://www.linkedin.com/in/ashutosh--tiwari/) |
-| Khai Anthony Willard | [Dr. Yuna Won](http://www.yunawon.net) |
-| Kimball Wu | Yuchen Yang |
-| Chi Zhang | [Yiwen Zhang](https://github.com/yiwenzh29) |
+| Khaled Mohammed | [Dr. Ludovic Mompelat](https://www.linkedin.com/in/ludovic-mompelat-8a1960b8/) |
+| [Shreejith Panicker](https://skpanick.github.io/) | [Chaitanya Patil](https://github.com/Chaitz333) |
+| Harshwardhan Raghunath Patil | [Restrepo Ramos, Dr. Falcon Dario](https://www.linkedin.com/in/falcon-restrepo-ramos-657b74203/) |
+| [Animesh Sagar](https://github.com/animeshsagar) | [Gopal Seshadri](https://github.com/GopalSeshadri) |
+| Surya Prateek Soni | [Dhananjay Srivastava](https://www.linkedin.com/in/dhananjay-srivastava/) |
+| [Ashutosh Tiwari](https://www.linkedin.com/in/ashutosh--tiwari/) | Khai Anthony Willard |
+| [Dr. Yuna Won](http://www.yunawon.net) | Kimball Wu |
+| Yuchen Yang | Chi Zhang |
+| [Yiwen Zhang](https://github.com/yiwenzh29) |  |
 
 <!-- <iframe src="https://map.concept3d.com/?id=951#!m/241411" width="100%" height="450" frameBorder="0" scrolling="no" border="0" style="border:0px solid #fff; margin:0; padding:0;"></iframe> -->
 
