@@ -39,7 +39,7 @@ The topics to discuss, papers to read, or presentations to listen to during the 
 | ---------- | --------- |
 | 03/06/2025 | Regular meeting: LLMs, RAGs, and Knowledge Graphs: Medical abstracts to Knowledge Graphs |
 | ---------- | --------- |
-| 03/13/2025 | Regular meeting: LLMs, RAGs, and Knowledge Graphs: Medical abstracts to Knowledge Graphs |
+| 03/07/2025 | presentation by Prof. [Sam Alxatib](https://alxatib.commons.gc.cuny.edu/) ([CUNY](https://www.gc.cuny.edu/)) "On *until* and its uses" |
 | ---------- | --------- |
 | 03/20/2025 | No meeting - Spring Break |
 | ---------- | --------- |
