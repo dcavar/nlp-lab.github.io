@@ -2,35 +2,21 @@
 
 Created: [Damir Cavar], 2023-06-12
 
-Last change: [Damir Cavar], 2025-03-05
+Last change: [Damir Cavar], 2025-05-19
 
 
-**The Quantum NLP and AI Study Group meetings during the Spring 2025 semester are located in Luddy Hall BLIF 0002 every Friday from 4 PM.**
+**The Quantum NLP and AI Study Group meetings during the Summer of 2025 are located in Luddy Hall BLIF 0002 every Friday from 4 PM. The times might change to Thursday 5 PM. Stay tuned.**
 
 See the public calendar with all the meeting times and details: [NLP-Lab Event Calendar](https://calendar.google.com/calendar/embed?src=3h9o18o7i82tjmmt5q2j3qgkj8%40group.calendar.google.com&ctz=America%2FNew_York).
 
 
 ## Schedule
 
-The topics to discuss, papers to read, or presentations to listen to during the Spring 2025 meetings:
+The topics to discuss, papers to read, or presentations to listen to during the Summer of 2025:
 
 | **Date**   | **Topic** |
 | ---------- | --------- |
-| 01/15/2025 | regular meeting: project and experiments, organization and planning of [QNLP.AI](https://qnlp.ai/) |
-| ---------- | --------- |
-| 01/22/2025 | regular meeting: project and experiments, organization and planning of [QNLP.AI](https://qnlp.ai/) |
-| ---------- | --------- |
-| 01/29/2025 | regular meeting: project and experiments, organization and planning of [QNLP.AI](https://qnlp.ai/) |
-| ---------- | --------- |
-| 02/05/2025 | regular meeting: project and experiments, organization and planning of [QNLP.AI](https://qnlp.ai/) |
-| ---------- | --------- |
-| 02/12/2025 | regular meeting: project and experiments, organization and planning of [QNLP.AI](https://qnlp.ai/) |
-| ---------- | --------- |
-| 02/19/2025 | regular meeting: project and experiments, organization and planning of [QNLP.AI](https://qnlp.ai/) |
-| ---------- | --------- |
-| 02/26/2025 | regular meeting: project and experiments, organization and planning of [QNLP.AI](https://qnlp.ai/) |
-| ---------- | --------- |
-| 03/07/2025 | regular meeting: project and experiments, organization and planning of [QNLP.AI](https://qnlp.ai/) |
+| 05/21/2025 | regular meeting, project coordinaton on Quantum Embeddings, Hamiltonians, similarity experiments |
 | ---------- | --------- |
 |            |           |
 | ---------- | --------- |
@@ -39,6 +25,7 @@ The topics to discuss, papers to read, or presentations to listen to during the 
 ### Previous Meeting Schedules
 
 - [Fall 2024](/quantumnlp/meetingschedule_fall_2024)
+- [Spring 2025](/quantumnlp/meetingschedule_spring_2025)
 
 
 
