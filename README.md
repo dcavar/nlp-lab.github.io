@@ -25,7 +25,7 @@ The topics to discuss, papers to read, or presentations to listen to during the 
 | ---------- | --------- |
 | 05/21/2025 | Regular meeting: LLMs, RAGs, and Knowledge Graphs: Medical abstracts to Knowledge Graphs, Ontology Learning |
 | ---------- | --------- |
-|  |  |
+|            |           |
 | ---------- | --------- |
 
 ### Previous Meeting Schedules
