@@ -5,7 +5,7 @@ Created: [Damir Cavar], 2023-06-12
 Last change: [Damir Cavar], 2025-05-19
 
 
-**The Quantum NLP and AI Study Group meetings during the Summer of 2025 are located in Luddy Hall BLIF 0002 every Friday from 4 PM. The times might change to Thursday 5 PM. Stay tuned.**
+**The Quantum NLP and AI Study Group meetings during the Summer of 2025 are located in Luddy Hall BLIF 0002 every Thursday from 5 to 6:30 PM.**
 
 See the public calendar with all the meeting times and details: [NLP-Lab Event Calendar](https://calendar.google.com/calendar/embed?src=3h9o18o7i82tjmmt5q2j3qgkj8%40group.calendar.google.com&ctz=America%2FNew_York).
 
