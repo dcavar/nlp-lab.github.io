@@ -98,7 +98,7 @@ Previous projects foci:
 | ------| ------- |
 | [Muhammad S. Abdo](https://www.linkedin.com/in/muhsabrys/) | [Dr. Damir Cavar](http://damir.cavar.me/) |
 | [Andrew Davis](https://www.linkedin.com/in/adavis94/) | [Billy Dickson](https://www.linkedin.com/in/billy-dickson/) |
-| James Graves | [Vance Holthenrichs](https://russian.indiana.edu/about/instructors/holthenrichs-van.html) |
+| James Bryan Graves | [Vance Holthenrichs](https://russian.indiana.edu/about/instructors/holthenrichs-van.html) |
 | Jiaqi Huang | Selim Kim |
 | [Soyoung Kim](https://linguistics.indiana.edu/about/graduate-students/kim-soyoung.html) | [Kumar Koushik, Telaprolu](https://www.linkedin.com/in/telaprolu-kumarkoushik/) |
 | [Dr. Nicholas LaRacuente](https://www.linkedin.com/in/nicklaracuente/) | [Elias Naske](https://www.linkedin.com/in/elias-naske/) |
