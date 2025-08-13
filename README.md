@@ -4,9 +4,9 @@ The Natural Language Processing Lab (NLP-Lab) is focused on theoretical work and
 
 The NLP-Lab is located at [Indiana University at Bloomington](https://iu.edu/). While it is mainly a local group of students and researchers with a strong interest in [NLP] and [AI] here in Indiana, it has ties to colleagues all across the country.
 
-**During the Summer of 2025, we meet in person every week in Luddy Hall (BLIF) 0002, every Wednesday from 5:00 to 6:30 PM. (See Teams and email announcements for more details.)**
+**During the Summer of 2025, we meet in person every week in Luddy Hall (BLIF) 0002, every Wednesday from 5:30 to 7:00 PM. (See Teams and email announcements for more details.)**
 
-**[The Quantum AI and NLP Study Group](https://nlp-lab.org/quantumnlp/) meetings are in Luddy Hall (BLIF) 0002 every Thursday from 5:00 to 6:30 PM.**
+**[The Quantum AI and NLP Study Group](https://nlp-lab.org/quantumnlp/) meetings are in Luddy Hall (BLIF) 0002 every Thursday from 5:30 to 7:00 PM.**
 
 **Please contact [Damir Cavar] if you are interested in joining the NLP-Lab meetings.**
 
@@ -23,20 +23,20 @@ The topics to discuss, papers to read, or presentations to listen to during the 
 
 | **Date**   | **Topic** |
 | ---------- | --------- |
-| 05/21/2025 | Regular meeting: LLMs, RAGs, and Knowledge Graphs: Medical abstracts to Knowledge Graphs, Ontology Learning |
-| ---------- | --------- |
-| ...        |           |
-| ---------- | --------- |
-| 06/02/2025 | LLMs, RAGs, Ontologies, and Knowledge Graphs for Medical Applications and Research |
+| 08/13/2025 | Regular meeting: Drugs and LLMs/KG |
 | ---------- | --------- |
 | ...        |           |
 | ---------- | --------- |
 | ...        |           |
 | ---------- | --------- |
+| ...        |           |
+| ---------- | --------- |
+
 
 ### Previous Meeting Schedules
 
 - [Spring 2025](/meetingschedule_spring_2025)
+- [Summer 2025](/meetingschedule_summer_2025)
 
 
 

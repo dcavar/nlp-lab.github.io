@@ -2,21 +2,27 @@
 
 Created: [Damir Cavar], 2023-06-12
 
-Last change: [Damir Cavar], 2025-05-19
+Last change: [Damir Cavar], 2025-08-13
 
 
-**The Quantum NLP and AI Study Group meetings during the Summer of 2025 are located in Luddy Hall BLIF 0002 every Thursday from 5 to 6:30 PM.**
+**The Quantum NLP and AI Study Group meetings during the Fall of 2025 are located in Luddy Hall BLIF 0002 every Thursday from 5:30 to 7:00 PM.**
 
 See the public calendar with all the meeting times and details: [NLP-Lab Event Calendar](https://calendar.google.com/calendar/embed?src=3h9o18o7i82tjmmt5q2j3qgkj8%40group.calendar.google.com&ctz=America%2FNew_York).
 
 
 ## Schedule
 
-The topics to discuss, papers to read, or presentations to listen to during the Summer of 2025:
+The topics to discuss, papers to read, or presentations to listen to during the Fall of 2025:
 
 | **Date**   | **Topic** |
 | ---------- | --------- |
-| 05/21/2025 | regular meeting, project coordinaton on Quantum Embeddings, Hamiltonians, similarity experiments |
+| 08/14/2025 | Poster and travel organization to [IEEE Quantum Week](https://qce.quantum.ieee.org/2025/) |
+| ---------- | --------- |
+| 08/21/2025 | Complex Embeddings |
+| ---------- | --------- |
+| 08/28/2025 | Complex Embeddings |
+| ---------- | --------- |
+| 09/04/2025 | [IEEE Quantum Week](https://qce.quantum.ieee.org/2025/) |
 | ---------- | --------- |
 |            |           |
 | ---------- | --------- |
@@ -26,6 +32,7 @@ The topics to discuss, papers to read, or presentations to listen to during the 
 
 - [Fall 2024](/quantumnlp/meetingschedule_fall_2024)
 - [Spring 2025](/quantumnlp/meetingschedule_spring_2025)
+- [Summer 2025](/quantumnlp/meetingschedule_summer_2025)
 
 
 ## Content
