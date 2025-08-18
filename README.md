@@ -19,7 +19,7 @@ The NLP-Lab is located at [Indiana University at Bloomington](https://iu.edu/). 
 
 ## Schedule
 
-The topics to discuss, papers to read, or presentations to listen to during the Summer of 2025 meetings:
+The topics to discuss, papers to read, or presentations to listen to during the Fall of 2025 meetings:
 
 | **Date**   | **Topic** |
 | ---------- | --------- |
