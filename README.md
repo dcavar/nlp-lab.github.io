@@ -42,6 +42,8 @@ The topics to discuss, papers to read, or presentations to listen to during the 
 
 ## News
 
+([Old news...](/old_news))
+
 - [Quantum Artificial Intelligence and Natural Language Processing Conference 2025](https://qnlp.ai/) at Indiana University in August 2025.
 - [QED-C Discussion on the Future of Quantum and AI](https://sri.zoomgov.com/webinar/register/9717374933023/WN_7AME7O63SZ6EhYan91HoRg#/registration) (March 12th, 2025) ([LinkedIn post](https://www.linkedin.com/posts/qedc_last-call-to-join-us-on-wednesday-march-activity-7304954073571549184-YCZe?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAv4XMUBX2S08vo53W0sGUSFpw814QpqqBs)) with [Cierra Choucair](https://www.linkedin.com/in/cierra-lunde/), [Alain Chancé](https://www.linkedin.com/in/alainchance/), [Damir Cavar](https://damir.cavar.me/), [Bob Coecke](https://www.linkedin.com/in/bob-coecke-9389627/), [Taha Selim](https://www.linkedin.com/in/tiselim/)
 - [Midwest Speech and Language Days 2025](https://nlp.nd.edu/msld25/) announced.
@@ -51,28 +53,17 @@ The topics to discuss, papers to read, or presentations to listen to during the 
 - Davis, A.S., B. Dickson, D. Cavar, D. Valdez, F.M. Tyers (2025) Advancing Adverse Drug Event Detection in Social Media Through Knowledge Graph and GraphRAG LLM Architectures. [2025 AAHB Annual Scientific Meeting](https://aahb.org/2025-Scientific-Meeting-Overview), San Diego, CA. ([Poster](/publications/AAHB25-ADAVIS-POSTER-FINAL.pdf))
 - Damir Cavar, Koushik Reddy Parukola (2025) Word and Text Similarity Using Classical Word Embeddings in Quantum NLP Systems. Satellite Workshop: [Quantum Machine Learning in Signal Processing and Artificial Intelligence](https://sites.google.com/view/qmlicassp2025/home) at the [2025 IEEE International Conference on Acoustics, Speech, and Signal Processing](https://2025.ieeeicassp.org/). Hyderabad, India.
 - Muhammad S. Abdo, Yash Hatekar and [Damir Cavar] (2025) AMWAL: Named Entity Recognition for Arabic Financial News. In proceedings of the [FinNLP-FNP-LLMFinLegal 2025](https://sites.google.com/nlg.csie.ntu.edu.tw/finnlp-fnp-llmfinlegal/home) workshop at [COLING 2025](https://coling2025.org/).
-- [Webinar on social media content analytics, antisemitism, and hate-speech in the 2024 Datathon and Hackathon](https://isca.indiana.edu/conferences/webinars/2024-webinars/10-20-24_datathon.html) is coming up in October 2024. See also [project website](/antisemitism) and [GitHub repo with notes and code](https://github.com/AnnotationPortal/DatathonandHackathon.github.io)
-- We launched the environment for [Natural Language Qu Kit](https://nlqk.ai/) ([NLQK](https://nlqk.ai/)), a Quantum NLP (QNLP) library - [GitHub repo](https://github.com/dcavar/nlqk), [PyPi project](https://pypi.org/project/nlqk/), [website](https://nlqk.ai/)
-- [Damir Cavar] and Billy Dickson teach a course on [Large Language Models and Knowledge Graphs](https://damir.cavar.me/ESSLLI24_LLM_KG.github.io/) at [ESSLLI 2024](https://2024.esslli.eu/), see also the related research activity during Fall 2024 [Knowledge Graph Extraction](/kgextraction)
-- The NLP-Lab is happy to cosponsor the [2024 Datathon and Machine Learning Competition](/assets/img/DML_2024_Flyer.png) ([pdf](/assets/img/DML_2024_Flyer.pdf)). [Registration](https://go.iu.edu/8pGB) ([https://go.iu.edu/8pGB](https://go.iu.edu/8pGB)) is open till June 20th, 2024.
-- Our [Center for Quantum Technologies](https://www.purdue.edu/cqt/index.php) ([CQT](https://www.purdue.edu/cqt/index.php)) grant for [Quantum NLP](https://nlp-lab.org/quantumnlp/) kick-off is officially this week, from 15th of May 2024 on! Join us to celebrate this at the NLP-Lab meeting on Wednesday 05/15/2024.
-- NLP-Lab poster (2024) on Quantum Natural Language Processing and Machine Learning for VCs at the AI center, May 16th, 2024 at Indiana University Bloomington.
-- NLP-Lab poster (2024) [Quantum Natural Language Processing and Machine Learning](/publications/NLP_Lab_Quantum_Poster_2024.pdf). Luddy-Crane Summit on March 29, 2024 at Indiana University Bloomington.
-- NLP-Lab poster (2024) [Generative AI and Knowledge Representations](/publications/NLP_Lab_LLM_KG_Poster_2024.pdf). Luddy-Crane Summit on March 29, 2024 at Indiana University Bloomington.
-- [Damir Cavar], [Billy Dickson](https://www.linkedin.com/in/billy-dickson/) (2024) *Generative AI and Symbolic Knowledge Representations: Large Language Models, Knowledge, and Reasoning*, (July/August 2024) course to be taught at the [35th European Summer School in Logic, Language and Information](https://2024.esslli.eu/) [ESSLLI 2024](https://2024.esslli.eu/) in Leuven, Belgium.
 
 
 ## Research Foci
 
-During the 2025 academic year, the focus is on:
+During the 2025-2026 academic year, the focus is on:
 
-- [Quantum NLP](/quantumnlp)
+- [Quantum AI and NLP](/quantumnlp)
 - [Ontology Learning](/ontology_learning): Learning higher level semantic properties from raw text and images
-- [Large Language Models (LLM), Retrieval-Augmented Generation (RAG), and Knowledge Graphs: extraction and visualization from relational databases, unstructured text, and images/videos](/kgextraction)
+- [Substance Abuse Knowledge and AI Systems](/substanceabuse): NIDA Drug Ontology, and substance abuse and slang in social media project
+- [Large Language Models (LLM), Retrieval-Augmented Generation (RAG), Ontologies, and Knowledge Graphs for Agentive AI: extraction and visualization from relational databases, unstructured text, and images/videos](/kgextraction)
 - Entailment and Reasoning over Knowledge Graphs (and Description Logic/Semantic Web): Using Temporal Graph Neural Networks, Large Language Models, and Knowledge Graphs.
-- [Ellipsis and Empty Element Parsing](/ellipsis)
-- [Discontinuity and Non-local Dependency Processing in Natural Language Discourse](/discontinuities)
-- [Time and Event Annotation and NLP Technologies (TIE-ML)](/timeevents)
 
 In all these projects, we work on hands-on implementation of technologies, utilizing programming languages like [Python] and [Rust], and graph or RDF libraries, as well as common graph-database systems like [Apache Jena], [Fluree], [oxigraph], [AllegroGraph], [GraphDB], or [Neo4j].
 
@@ -86,6 +77,9 @@ If you are interested in joining our [Rust] tutorials with a focus on using [Rus
 
 Previous projects foci:
 
+- [Ellipsis and Empty Element Parsing](/ellipsis)
+- [Discontinuity and Non-local Dependency Processing in Natural Language Discourse](/discontinuities)
+- [Time and Event Annotation and NLP Technologies (TIE-ML)](/timeevents)
 - [2023 Datathon and Hackathon](https://isca.indiana.edu/publication-research/social-media-project/datathon-2023/index.html) on Antisemitic and hate speech, using NLP and Machine Learning to process social media posts.
 - [Language Resources for Turkic Languages](/turkic) - [Focusing on Azerbaijani](/turkic)
 - Processing of the Mueller Report: corpus analysis, prediction models, Knowledge Graph and Event Graph extraction, time reference and sequencing along the time axis ([GitHub repo](https://github.com/SemiringInc/Mueller-Report-Corpus)). The cleaned-out text corpus with basic annotations is finally available. More data is coming soon.
@@ -162,3 +156,5 @@ Here is [our Event Calendar](https://calendar.google.com/calendar/embed?src=3h9o
 [Machine Learning]: https://en.wikipedia.org/wiki/Machine_learning "Machine Learning"
 [ROS]: https://www.ros.org/ "Robot Operating System"
 [Robot Ooperating System]: https://www.ros.org/ "Robot Operating System"
+[Billy Dickson]: https://www.linkedin.com/in/billy-dickson/ "Billy Dickson"
+
