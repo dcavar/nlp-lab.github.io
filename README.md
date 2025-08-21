@@ -72,14 +72,15 @@ During the 2025-2026 academic year, the focus is on:
 | ------| ------- |
 | [Muhammad S. Abdo](https://www.linkedin.com/in/muhsabrys/) | [Dr. Damir Cavar](http://damir.cavar.me/) |
 | [Andrew Davis](https://www.linkedin.com/in/adavis94/) | [Billy Dickson](https://www.linkedin.com/in/billy-dickson/) |
-| James Bryan Graves | [Vance Holthenrichs](https://russian.indiana.edu/about/instructors/holthenrichs-van.html) |
-| Jiaqi Huang | Selim Kim |
+| [James Bryan Graves](https://jamesbryangraves.com/) | [Vance Holthenrichs](https://russian.indiana.edu/about/instructors/holthenrichs-van.html) |
+| [Jiaqi (Adam) Huang](https://sites.google.com/view/jiaqihuang) | Selim Kim |
 | [Soyoung Kim](https://linguistics.indiana.edu/about/graduate-students/kim-soyoung.html) | [Kumar Koushik, Telaprolu](https://www.linkedin.com/in/telaprolu-kumarkoushik/) |
 | [Dr. Nicholas LaRacuente](https://www.linkedin.com/in/nicklaracuente/) | [Elias Naske](https://www.linkedin.com/in/elias-naske/) |
 | [Ananth Karkala Pai](https://www.linkedin.com/in/ananth-pai-692b241b6/) | [Koushik Reddy Parukola](https://www.linkedin.com/in/koushik-reddy-parukola/) |
-| Shane A. Sparks | Amy C. Stafford |
+| [Shane A. Sparks](https://www.linkedin.com/in/shane-sparks-a37832249/) | Amy C. Stafford |
 | Ling Sun | Jayapraksh Theyaneshwaran |
-| [Dr. Zoran Tiganj](https://homes.luddy.indiana.edu/ztiganj/) | [Rong Zheng](https://psych.indiana.edu/directory/graduate-students/zheng-rong.html) |
+| [Dr. Zoran Tiganj](https://homes.luddy.indiana.edu/ztiganj/) | [Dr. Danny Valdez](https://publichealth.indiana.edu/about/directory/profile.html?user=danvald) |
+| [Rong Zheng](https://psych.indiana.edu/directory/graduate-students/zheng-rong.html) |  |
 
 
 ## Former Team Members
@@ -111,7 +112,6 @@ During the 2025-2026 academic year, the focus is on:
 | Khai Anthony Willard | [Dr. Yuna Won](http://www.yunawon.net) |
 | Kimball Wu | Yuchen Yang |
 | Chi Zhang | [Yiwen Zhang](https://github.com/yiwenzh29) |
-
 
 
 

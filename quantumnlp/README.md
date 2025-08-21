@@ -24,7 +24,11 @@ The topics to discuss, papers to read, or presentations to listen to during the 
 | ---------- | --------- |
 | 09/04/2025 | <span style="color:red;">No meeting!</span> We are at [IEEE Quantum Week](https://qce.quantum.ieee.org/2025/) |
 | ---------- | --------- |
-| 09/11/2025 | Complex Embeddings |
+| 09/11/2025 |  |
+| ---------- | --------- |
+| 09/18/2025 |  |
+| ---------- | --------- |
+| 09/25/2025 |  |
 | ---------- | --------- |
 
 
