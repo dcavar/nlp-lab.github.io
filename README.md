@@ -25,9 +25,9 @@ The topics to discuss, papers to read, or presentations to listen to during the 
 | ---------- | --------- |
 | 08/13/2025 | Regular meeting: Drugs and LLMs/KG |
 | ---------- | --------- |
-| ...        |           |
+| 08/20/2025 | Regular meeting: Drugs and LLMs/KG |
 | ---------- | --------- |
-| ...        |           |
+| 08/27/2025 | Regular meeting: Demo using LLMs, Agentive AI, for the Drugs project |
 | ---------- | --------- |
 | ...        |           |
 | ---------- | --------- |

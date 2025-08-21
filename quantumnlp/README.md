@@ -2,7 +2,7 @@
 
 Created: [Damir Cavar], 2023-06-12
 
-Last change: [Damir Cavar], 2025-08-13
+Last change: [Damir Cavar], 2025-08-21
 
 
 **The Quantum NLP and AI Study Group meetings during the Fall of 2025 are located in Luddy Hall BLIF 0002 every Thursday from 5:30 to 7:00 PM.**
@@ -18,13 +18,13 @@ The topics to discuss, papers to read, or presentations to listen to during the 
 | ---------- | --------- |
 | 08/14/2025 | Poster and travel organization to [IEEE Quantum Week](https://qce.quantum.ieee.org/2025/) |
 | ---------- | --------- |
-| 08/21/2025 | Complex Embeddings |
+| <span style="color:red;">08/21/2025</span>. | <span style="color:red;">No meeting!</span> |
 | ---------- | --------- |
 | 08/28/2025 | Complex Embeddings |
 | ---------- | --------- |
-| 09/04/2025 | [IEEE Quantum Week](https://qce.quantum.ieee.org/2025/) |
+| 09/04/2025 | <span style="color:red;">No meeting!</span> We are at [IEEE Quantum Week](https://qce.quantum.ieee.org/2025/) |
 | ---------- | --------- |
-|            |           |
+| 09/11/2025 | Complex Embeddings |
 | ---------- | --------- |
 
 
@@ -43,7 +43,8 @@ The topics to discuss, papers to read, or presentations to listen to during the 
 
 ## News
 
-- Cavar, D., Koushik Reddy Parukola, James Graves, Shane Sparks (2025) Old Wine in New Bottles: Using Classical Word Embeddings in Gate-Based Quantum NLP Systems. Paper to be presented at the [Quantum AI and NLP Conference 2025](https://qnlp.ai/), Indiana University, August 2025.
+- Cavar, D., James Bryan Graves, Shane A. Sparks and Koushik Reddy Parukola (2025) Hybrid Classical Quantum Embeddings for NLP and AI using Hamiltonians. Short paper and poster presented at the [IEEE Quantum Week 2025](Albuquerque, New Mexico, USA), Albuquerque, New Mexico, USA.
+- Cavar, D., Koushik Reddy Parukola, James Graves, Shane Sparks (2025) Old Wine in New Bottles: Using Classical Word Embeddings in Gate-Based Quantum NLP Systems. Paper to be presented at the [Quantum AI and NLP Conference 2025](https://qnlp.ai/), Indiana University, August 2025. In D. Cavar, V. Aggarwal, S. Chen, J. Busemeyer (eds.) Quantum AI and NLP 2025, Springer.
 - [Quantum Artificial Intelligence and Natural Language Processing Conference 2025](https://qnlp.ai/) at Indiana University in August 2025.
 - [QED-C Discussion and Panel on the Future of Quantum and AI](https://sri.zoomgov.com/webinar/register/9717374933023/WN_7AME7O63SZ6EhYan91HoRg#/registration) (March 12th, 2025) ([LinkedIn post](https://www.linkedin.com/posts/qedc_last-call-to-join-us-on-wednesday-march-activity-7304954073571549184-YCZe?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAv4XMUBX2S08vo53W0sGUSFpw814QpqqBs)) with [Cierra Choucair](https://www.linkedin.com/in/cierra-lunde/), [Alain Chancé](https://www.linkedin.com/in/alainchance/), [Damir Cavar](https://damir.cavar.me/), [Bob Coecke](https://www.linkedin.com/in/bob-coecke-9389627/), [Taha Selim](https://www.linkedin.com/in/tiselim/) (the recording is available on the [QED-C YouTube channel](https://youtu.be/5yBo3Jb71so?feature=shared))
 - Damir Cavar, Koushik Reddy Parukola (2025) Word and Text Similarity Using Classical Word Embeddings in Quantum NLP Systems. Satellite Workshop: [Quantum Machine Learning in Signal Processing and Artificial Intelligence](https://sites.google.com/view/qmlicassp2025/home) at the [2025 IEEE International Conference on Acoustics, Speech, and Signal Processing](https://2025.ieeeicassp.org/). Hyderabad, India.
