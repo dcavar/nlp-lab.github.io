@@ -12,14 +12,14 @@ Last change: [Damir Cavar], 2025-08-21
 
 ## Talks 
 
-- Cavar, D., Koushik Reddy Parukola, James Graves, Shane Sparks (2025) Old Wine in New Bottles: Using Classical Word Embeddings in Gate-Based Quantum NLP Systems. Paper to be presented at the [Quantum AI and NLP Conference 2025](https://qnlp.ai/), Indiana University, August 2025.
-- Cavar, D., Koushik Reddy Parukola, Shane Sparks (2025) Old Wine in New Bottles: Using Classical Word Embeddings in Quantum NLP Systems. Paper to be presented at the [Midwest Speech and Language Days 2025](https://nlp.nd.edu/msld25/), University of Notre Dame, April 2025.
-- Damir Cavar, Koushik Reddy Parukola (2025) Word and Text Similarity Using Classical Word Embeddings in Quantum NLP Systems. Satellite Workshop: [Quantum Machine Learning in Signal Processing and Artificial Intelligence](https://sites.google.com/view/qmlicassp2025/home) at the [2025 IEEE International Conference on Acoustics, Speech, and Signal Processing](https://2025.ieeeicassp.org/). Hyderabad, India.
+- [Cavar, D.](https://damir.cavar.me/), Koushik Reddy Parukola, James Graves, Shane A. Sparks (2025) Old Wine in New Bottles: Using Classical Word Embeddings in Gate-Based Quantum NLP Systems. Paper to be presented at the [Quantum AI and NLP Conference 2025](https://qnlp.ai/), Indiana University, August 2025.
+- Cavar, D., Koushik Reddy Parukola, Shane A. Sparks (2025) Old Wine in New Bottles: Using Classical Word Embeddings in Quantum NLP Systems. Paper to be presented at the [Midwest Speech and Language Days 2025](https://nlp.nd.edu/msld25/), University of Notre Dame, April 2025.
+- [Damir Cavar], Koushik Reddy Parukola (2025) Word and Text Similarity Using Classical Word Embeddings in Quantum NLP Systems. Satellite Workshop: [Quantum Machine Learning in Signal Processing and Artificial Intelligence](https://sites.google.com/view/qmlicassp2025/home) at the [2025 IEEE International Conference on Acoustics, Speech, and Signal Processing](https://2025.ieeeicassp.org/). Hyderabad, India.
 - Chi Zhang, Akriti Kumari, [Damir Cavar] (2024) *[Entangled Meanings: Classification and Ambiguity Resolution in Near–Term QNLP](https://ieeexplore.ieee.org/document/10821233).* Paper and Poster presented at the [IEEE Quantum Week 2024](https://qce.quantum.ieee.org/2024/), Montreal, Canada, September 2024. (full paper, short paper, poster)
 - [Damir Cavar] and Chi Zhang (2024) *Semantic Similarities using Classical Embeddings in Quantum NLP.* Paper and Poster presented at the [IEEE Quantum Week 2024](https://qce.quantum.ieee.org/2024/), Montreal, Canada, September 2024. (paper, poster)
 - Damir Cavar, Chi Zhang, Koushik Reddy Parukola (2024) Quantum Natural Language Processing (QNLP) (2024) Presentation at the [Quantum Day 2024](/Pubs/QuantumDayIUQuTE2024.png) Seminar Series, organized by [Quantum Technologies for Everyone](https://beinvolved.indiana.edu/organization/qute) ([QuTE](https://beinvolved.indiana.edu/organization/qute)) at Indiana University Bloomington, April 14th 2024.
 - *Quantum-Natural Language Processing (NLP) and Machine Learning (ML)* (2024) Presentation at the [CQT - Center for Quantum Technologies](https://www.purdue.edu/cqt/), NSF Industry/University Cooperative Research Center (IUCRC) Year 2, Phase I, Spring 2024 Industry Advisory Board Meeting, April 3-4, 2024, University of Notre Dame, South Bend, IN.
-- [Quantum Natural Language Processing and Machine Learning](/Pubs/NLP_Lab_Quantum_Poster_2024.pdf) (2024)  [NLP-Lab](http://nlp-lab.org/) poster. Luddy-Crane Summit on March 29, 2024 at Indiana University Bloomington.
+- [Quantum Natural Language Processing and Machine Learning](/Pubs/NLP_Lab_Quantum_Poster_2024.pdf) (2024)  [NLP-Lab] poster. Luddy-Crane Summit on March 29, 2024 at Indiana University Bloomington.
 
 
 ## Publications
@@ -36,3 +36,6 @@ Last change: [Damir Cavar], 2025-08-21
 - We launched the environment for [Natural Language Qu Kit](https://nlqk.ai/) ([NLQK](https://nlqk.ai/)), a Quantum NLP (QNLP) library - [GitHub repo](https://github.com/dcavar/nlqk), [PyPi project](https://pypi.org/project/nlqk/), [website](https://nlqk.ai/)
 
 
+[Damir Cavar]: http://damir.cavar.me/ "Damir Cavar"
+[Dr. Damir Cavar]: https://luddy.indiana.edu/contact/profile/?Damir_Cavar "Damir Cavar"
+[NLP-Lab]: http://nlp-lab.org/ "NLP-Lab"
