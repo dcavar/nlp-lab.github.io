@@ -72,14 +72,14 @@ During the 2025-2026 academic year, the focus is on:
 
 | ------| ------- |
 | [Muhammad S. Abdo](https://www.linkedin.com/in/muhsabrys/) | [Dr. Damir Cavar](http://damir.cavar.me/) |
-| Tribhangin Dichpally | [Madhumitha Gannavaram](https://www.linkedin.com/in/madhumithagv/) |
-| [Arnav Jain](https://www.linkedin.com/in/arnav-jain20200327/) | [Ayomide Jeje](https://www.linkedin.com/in/ayomide-jeje-7a4995266/) |
-| [Ronit Jha](https://www.linkedin.com/in/ronitjha05/) | [Sachin Kumar](https://www.linkedin.com/in/sachin1302/) |
-| [Arun Munagala](https://www.linkedin.com/in/arun-munagala-b5b993222/) | [Shruthi Nagappan](https://www.linkedin.com/in/shruthi-nagappan-749029191/) |
-| [Avaanika Nair](https://www.linkedin.com/in/avaanika-nair/) | [Anuj Prakash](https://www.linkedin.com/in/anuj-prakash-48ba881b9/) |
-| [Shane A. Sparks](https://www.linkedin.com/in/shane-sparks-a37832249/) | [Dr. Zoran Tiganj](https://homes.luddy.indiana.edu/ztiganj/) |
-| [Dr. Danny Valdez](https://publichealth.indiana.edu/about/directory/profile.html?user=danvald) | Rao Imam Ali Wasim |
-| [Ye-Ye Xu](https://www.linkedin.com/in/yeye-xu/) |  |
+| [Yanin Charoenpornsawat](https://www.linkedin.com/in/yanin-charoenpornsawat-b574a92b1/) | Tribhangin Dichpally |
+| [Madhumitha Gannavaram](https://www.linkedin.com/in/madhumithagv/) | [Arnav Jain](https://www.linkedin.com/in/arnav-jain20200327/) |
+| [Ayomide Jeje](https://www.linkedin.com/in/ayomide-jeje-7a4995266/) | [Ronit Jha](https://www.linkedin.com/in/ronitjha05/) |
+| [Sachin Kumar](https://www.linkedin.com/in/sachin1302/) | [Arun Munagala](https://www.linkedin.com/in/arun-munagala-b5b993222/) |
+| [Shruthi Nagappan](https://www.linkedin.com/in/shruthi-nagappan-749029191/) | [Avaanika Nair](https://www.linkedin.com/in/avaanika-nair/) |
+| [Anuj Prakash](https://www.linkedin.com/in/anuj-prakash-48ba881b9/) | [Shane A. Sparks](https://www.linkedin.com/in/shane-sparks-a37832249/) |
+| [Dr. Zoran Tiganj](https://homes.luddy.indiana.edu/ztiganj/) | [Dr. Danny Valdez](https://publichealth.indiana.edu/about/directory/profile.html?user=danvald) |
+| Rao Imam Ali Wasim | [Ye-Ye Xu](https://www.linkedin.com/in/yeye-xu/) |
 
 
 ## Former Team Members
