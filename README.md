@@ -1,6 +1,6 @@
 ## Welcome to The NLP Lab Pages
 
-The Natural Language Processing Lab (NLP-Lab) is focused on theoretical work and implementations of [Natural Language Processing] ([NLP]) and [Artificial Intelligence] ([AI]) solutions using hybrid approaches, empiricist, neural, probabilistic, and knowledge-driven, with a particular interest in neuro-symbolic modeling. We are also interested in [Quantum NLP and AI](https://nlp-lab.org/quantumnlp/) and [NLP] combined with Machine Learning ([ML]) solutions for computer vision and multi-modal information processing. Ultimately, we believe we are getting closer to what [Steve Jobs had as a vision in 1985](https://youtu.be/yolkEfuUaGs). Watch [the video on YouTube](https://youtu.be/yolkEfuUaGs).
+The Natural Language Processing Lab (NLP-Lab) is focused on theoretical work and implementations of [Natural Language Processing] ([NLP]) and [Artificial Intelligence] ([AI]) solutions using hybrid approaches, empiricist, neural, probabilistic, and knowledge-driven, with a particular interest in neuro-symbolic modeling. We are also interested in [Quantum NLP and AI](https://nlp-lab.org/quantumnlp/) and [NLP] combined with Machine Learning ([ML]) solutions for computer vision and multi-modal information processing. Ultimately, we believe we are getting closer to what [Steve Jobs had as a vision in 1985](https://youtu.be/yolkEfuUaGs).
 
 
 The NLP-Lab is located at [Indiana University at Bloomington](https://iu.edu/). While it is mainly a local group of students and researchers with a strong interest in [NLP] and [AI] here in Indiana, it has ties to colleagues all across the country.
@@ -61,8 +61,8 @@ The topics to discuss, papers to read, or presentations to listen to during the 
 During the 2025-2026 academic year, the focus is on:
 
 - [Quantum AI and NLP](/quantumnlp)
-- [Ontology Learning](/ontology_learning): Learning higher level semantic properties from raw text and images
 - [Substance Abuse Knowledge and AI Systems](/substanceabuse): NIDA Drug Ontology, and substance abuse and slang in social media project
+- [Ontology Learning](/ontology_learning): Learning higher level semantic properties from raw text and images
 - [Large Language Models (LLM), Retrieval-Augmented Generation (RAG), Ontologies, and Knowledge Graphs for Agentive AI: extraction and visualization from relational databases, unstructured text, and images/videos](/kgextraction)
 - Entailment and Reasoning over Knowledge Graphs (and Description Logic/Semantic Web): Using Temporal Graph Neural Networks, Large Language Models, and Knowledge Graphs.
 
@@ -72,16 +72,14 @@ During the 2025-2026 academic year, the focus is on:
 
 | ------| ------- |
 | [Muhammad S. Abdo](https://www.linkedin.com/in/muhsabrys/) | [Dr. Damir Cavar](http://damir.cavar.me/) |
-| [Andrew Davis](https://www.linkedin.com/in/adavis94/) | [Billy Dickson](https://www.linkedin.com/in/billy-dickson/) |
-| [James Bryan Graves](https://jamesbryangraves.com/) | [Vance Holthenrichs](https://russian.indiana.edu/about/instructors/holthenrichs-van.html) |
-| [Jiaqi (Adam) Huang](https://sites.google.com/view/jiaqihuang) | Selim Kim |
-| [Soyoung Kim](https://linguistics.indiana.edu/about/graduate-students/kim-soyoung.html) | [Kumar Koushik, Telaprolu](https://www.linkedin.com/in/telaprolu-kumarkoushik/) |
-| [Dr. Nicholas LaRacuente](https://www.linkedin.com/in/nicklaracuente/) | [Elias Naske](https://www.linkedin.com/in/elias-naske/) |
-| [Ananth Karkala Pai](https://www.linkedin.com/in/ananth-pai-692b241b6/) | [Koushik Reddy Parukola](https://www.linkedin.com/in/koushik-reddy-parukola/) |
-| [Shane A. Sparks](https://www.linkedin.com/in/shane-sparks-a37832249/) | Amy C. Stafford |
-| Ling Sun | Jayapraksh Theyaneshwaran |
-| [Dr. Zoran Tiganj](https://homes.luddy.indiana.edu/ztiganj/) | [Dr. Danny Valdez](https://publichealth.indiana.edu/about/directory/profile.html?user=danvald) |
-| [Rong Zheng](https://psych.indiana.edu/directory/graduate-students/zheng-rong.html) |  |
+| Tribhangin Dichpally | [Madhumitha Gannavaram](https://www.linkedin.com/in/madhumithagv/) |
+| [Arnav Jain](https://www.linkedin.com/in/arnav-jain20200327/) | [Ayomide Jeje](https://www.linkedin.com/in/ayomide-jeje-7a4995266/) |
+| [Ronit Jha](https://www.linkedin.com/in/ronitjha05/) | [Sachin Kumar](https://www.linkedin.com/in/sachin1302/) |
+| [Arun Munagala](https://www.linkedin.com/in/arun-munagala-b5b993222/) | [Shruthi Nagappan](https://www.linkedin.com/in/shruthi-nagappan-749029191/) |
+| [Avaanika Nair](https://www.linkedin.com/in/avaanika-nair/) | [Anuj Prakash](https://www.linkedin.com/in/anuj-prakash-48ba881b9/) |
+| [Shane A. Sparks](https://www.linkedin.com/in/shane-sparks-a37832249/) | [Dr. Zoran Tiganj](https://homes.luddy.indiana.edu/ztiganj/) |
+| [Dr. Danny Valdez](https://publichealth.indiana.edu/about/directory/profile.html?user=danvald) | Rao Imam Ali Wasim |
+| [Ye-Ye Xu](https://www.linkedin.com/in/yeye-xu/) |  |
 
 
 ## Former Team Members
@@ -92,28 +90,35 @@ During the 2025-2026 academic year, the focus is on:
 | Abhishek Babuji | [Oren Baldinger](https://github.com/orenbaldinger) |
 | [Tanmayi Balla](https://www.linkedin.com/in/tanmayiballa) | [Rohit Bapat](https://github.com/rohitbapat/) |
 | Jose P. Benavides | [Aarushi Bisht](https://github.com/aarushiibisht) |
-| [Jagpreet Singh Chawla](https://github.com/jagpreetschawla) | Aravind Dendukuri |
-| Shreeja Deshpanbe | [Ian Devine](https://www.linkedin.com/in/ian-devine-2002/) |
-| [Rushabh Dharia](https://github.com/rushabhdharia) | Josephine Douglas |
+| [Jagpreet Singh Chawla](https://github.com/jagpreetschawla) | [Andrew Davis](https://www.linkedin.com/in/adavis94/) |
+| Aravind Dendukuri | Shreeja Deshpanbe |
+| [Ian Devine](https://www.linkedin.com/in/ian-devine-2002/) | [Rushabh Dharia](https://github.com/rushabhdharia) |
+| [Billy Dickson](https://www.linkedin.com/in/billy-dickson/) | Josephine Douglas |
 | [Dr. Boli Fang](https://github.com/blf11139) | [Matthew Fort](https://www.linkedin.com/in/matthew-fort-07b802236/) |
 | [Benjamin Glidden](https://www.linkedin.com/in/benjamin-glidden/) | [Maanvitha Gongalla](https://github.com/maanvithag) |
-| [Peace Han](https://github.com/P-eaceHan) | Shusuke Hashimoto |
-| Armando Hull | [Calvin Josenhans](https://halflinghelper.github.io/) |
-| [Murali Kishore Varma Kammili](https://github.com/mkvk) | [Anurag Kumar](https://github.com/anuragkumar95) |
-| [Akriti Kumari](https://www.linkedin.com/in/akriti-kumari-321362218/) | Gordon Elliot Lichtstein |
-| [Shujun Liu](https://github.com/liu-shuj/) | [MacIntosh Phillips, John](https://github.com/jackp1377) |
-| Anshul Kumar Mangalapalli | [Umang Mehta](https://umangrmehta.github.io/) |
-| [Dr. Anthony Meyer](https://www.linkedin.com/in/antmeyer408/) | Khaled Mohammed |
-| [Dr. Ludovic Mompelat](https://www.linkedin.com/in/ludovic-mompelat-8a1960b8/) | [Shreejith Panicker](https://skpanick.github.io/) |
+| [James Bryan Graves](https://jamesbryangraves.com/) | [Peace Han](https://github.com/P-eaceHan) |
+| Shusuke Hashimoto | [Vance Holthenrichs](https://russian.indiana.edu/about/instructors/holthenrichs-van.html) |
+| [Jiaqi (Adam) Huang](https://sites.google.com/view/jiaqihuang) | Armando Hull |
+| [Calvin Josenhans](https://halflinghelper.github.io/) | [Murali Kishore Varma Kammili](https://github.com/mkvk) |
+| Selim Kim | [Soyoung Kim](https://linguistics.indiana.edu/about/graduate-students/kim-soyoung.html) |
+| [Kumar Koushik, Telaprolu](https://www.linkedin.com/in/telaprolu-kumarkoushik/) | [Anurag Kumar](https://github.com/anuragkumar95) |
+| [Akriti Kumari](https://www.linkedin.com/in/akriti-kumari-321362218/) | [Dr. Nicholas LaRacuente](https://www.linkedin.com/in/nicklaracuente/) |
+| Gordon Elliot Lichtstein | [Shujun Liu](https://github.com/liu-shuj/) |
+| [MacIntosh Phillips, John](https://github.com/jackp1377) | Anshul Kumar Mangalapalli |
+| [Umang Mehta](https://umangrmehta.github.io/) | [Dr. Anthony Meyer](https://www.linkedin.com/in/antmeyer408/) |
+| Khaled Mohammed | [Dr. Ludovic Mompelat](https://www.linkedin.com/in/ludovic-mompelat-8a1960b8/) |
+| [Elias Naske](https://www.linkedin.com/in/elias-naske/) | [Ananth Karkala Pai](https://www.linkedin.com/in/ananth-pai-692b241b6/) |
+| [Shreejith Panicker](https://skpanick.github.io/) | [Koushik Reddy Parukola](https://www.linkedin.com/in/koushik-reddy-parukola/) |
 | [Chaitanya Patil](https://github.com/Chaitz333) | Harshwardhan Raghunath Patil |
 | Emily Reed | [Restrepo Ramos, Dr. Falcon Dario](https://www.linkedin.com/in/falcon-restrepo-ramos-657b74203/) |
 | [Animesh Sagar](https://github.com/animeshsagar) | [Gopal Seshadri](https://github.com/GopalSeshadri) |
 | Victor Shi | Surya Prateek Soni |
-| [Dhananjay Srivastava](https://www.linkedin.com/in/dhananjay-srivastava/) | [Ashutosh Tiwari](https://www.linkedin.com/in/ashutosh--tiwari/) |
-| Khai Anthony Willard | [Dr. Yuna Won](http://www.yunawon.net) |
-| Kimball Wu | Yuchen Yang |
-| Chi Zhang | [Yiwen Zhang](https://github.com/yiwenzh29) |
-
+| [Dhananjay Srivastava](https://www.linkedin.com/in/dhananjay-srivastava/) | Amy C. Stafford |
+| Ling Sun | Jayapraksh Theyaneshwaran |
+| [Ashutosh Tiwari](https://www.linkedin.com/in/ashutosh--tiwari/) | Khai Anthony Willard |
+| [Dr. Yuna Won](http://www.yunawon.net) | Kimball Wu |
+| Yuchen Yang | Chi Zhang |
+| [Yiwen Zhang](https://github.com/yiwenzh29) | [Rong Zheng](https://psych.indiana.edu/directory/graduate-students/zheng-rong.html) |
 
 
 Here is [our Event Calendar](https://calendar.google.com/calendar/embed?src=3h9o18o7i82tjmmt5q2j3qgkj8%40group.calendar.google.com&ctz=America%2FNew_York) with all meeting times.
