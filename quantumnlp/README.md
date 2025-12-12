@@ -5,34 +5,26 @@ Created: [Damir Cavar], 2023-06-12
 Last change: [Damir Cavar], 2025-12-12
 
 
-**The Quantum AI and NLP Study Group meetings during the Fall semester of 2025 are located in Luddy Hall BLIF 0002 every Thursday from 5:30 to 7:00 PM.**
+**The Quantum AI and NLP Study Group meetings during the Spring semester of 2026 are located in Luddy Hall BLIF 0002 every Thursday from 5:30 to 7:00 PM.**
 
 See the public calendar with all the meeting times and details: [NLP-Lab Event Calendar](https://calendar.google.com/calendar/embed?src=3h9o18o7i82tjmmt5q2j3qgkj8%40group.calendar.google.com&ctz=America%2FNew_York).
 
 
 ## Schedule
 
-The topics to discuss, papers to read, or presentations to listen to during the Fall of 2025:
+The topics to discuss, papers to read, or presentations to listen to during the Spring of 2026:
 
 | **Date**   | **Topic** |
 | ---------- | --------- |
-| 08/14/2025 | Poster and travel organization to [IEEE Quantum Week](https://qce.quantum.ieee.org/2025/) |
+| Jan. 2026 | Winter Break |
 | ---------- | --------- |
-| <span style="color:red;">08/21/2025</span>. | <span style="color:red;">No meeting!</span> |
+| 01/14/2026 | Classical and Quantum Embeddings - CBIRD Project - Model Training |
 | ---------- | --------- |
-| 08/28/2025 | Complex Embeddings |
+| 01/22/2025 | Classical and Quantum Embeddings - CBIRD Project - Model Training |
 | ---------- | --------- |
-| 09/04/2025 | <span style="color:red;">No meeting!</span> We are at [IEEE Quantum Week](https://qce.quantum.ieee.org/2025/) |
+| 01/29/2025 | Classical and Quantum Embeddings - CBIRD Project - Model Evaluation |
 | ---------- | --------- |
-| 09/11/2025 |  |
-| ---------- | --------- |
-| ...        | Classical and Quantum Embeddings - CBIRD Project |
-| ---------- | --------- |
-| 12/11/2025 | Classical and Quantum Embeddings - CBIRD Project |
-| ---------- | --------- |
-| Break      |           |
-| ---------- | --------- |
-| 01/14/2025 | Classical and Quantum Embeddings - CBIRD Project - Model Training |
+| ... |  |
 | ---------- | --------- |
 
 
@@ -41,6 +33,7 @@ The topics to discuss, papers to read, or presentations to listen to during the 
 - [Fall 2024](/quantumnlp/meetingschedule_fall_2024)
 - [Spring 2025](/quantumnlp/meetingschedule_spring_2025)
 - [Summer 2025](/quantumnlp/meetingschedule_summer_2025)
+- [Fall 2025](/quantumnlp/meetingschedule_fall_2025)
 
 
 ## Content

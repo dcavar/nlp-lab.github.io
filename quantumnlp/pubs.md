@@ -10,6 +10,12 @@ Last change: [Damir Cavar], 2025-08-21
 - [QED-C Discussion and Panel on the Future of Quantum and AI](https://sri.zoomgov.com/webinar/register/9717374933023/WN_7AME7O63SZ6EhYan91HoRg#/registration) (March 12th, 2025) ([LinkedIn post](https://www.linkedin.com/posts/qedc_last-call-to-join-us-on-wednesday-march-activity-7304954073571549184-YCZe?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAv4XMUBX2S08vo53W0sGUSFpw814QpqqBs)) with [Cierra Choucair](https://www.linkedin.com/in/cierra-lunde/), [Alain Chancé](https://www.linkedin.com/in/alainchance/), [Damir Cavar](https://damir.cavar.me/), [Bob Coecke](https://www.linkedin.com/in/bob-coecke-9389627/), [Taha Selim](https://www.linkedin.com/in/tiselim/) (the recording is available on the [QED-C YouTube channel](https://youtu.be/5yBo3Jb71so?feature=shared))
 
 
+## Poster Presentations
+
+- [Quantum Computing for AI and NLP](/publications/Quantum_Computing_For_AI_and_NLP.pdf), presentation at the Luddy School for Informatics, Computing, and Engineering, Indiana University Bloomington, Undergraduate Research Experiential Learning Fall 2025.
+- [Cavar, D.], James Bryan Graves, Shane A. Sparks and Koushik Reddy Parukola (2025) Hybrid Classical Quantum Embeddings for NLP and AI using Hamiltonians. Short paper and poster presented at the [IEEE Quantum Week 2025](Albuquerque, New Mexico, USA), Albuquerque, New Mexico, USA. ([poster](/publications/IEEE_Quantum_Embedding_Poster_Hamiltonian_2025.pdf))
+
+
 ## Talks 
 
 - [Cavar, D.](https://damir.cavar.me/), Koushik Reddy Parukola, James Graves, Shane A. Sparks (2025) Old Wine in New Bottles: Using Classical Word Embeddings in Gate-Based Quantum NLP Systems. Paper to be presented at the [Quantum AI and NLP Conference 2025](https://qnlp.ai/), Indiana University, August 2025.

@@ -5,7 +5,7 @@ The Natural Language Processing Lab (NLP-Lab) is focused on theoretical work and
 
 The NLP-Lab is located at [Indiana University at Bloomington](https://iu.edu/). While it is mainly a local group of students and researchers with a strong interest in [NLP] and [AI] here in Indiana, it has ties to colleagues all across the country.
 
-**During the Fall of 2025, we meet in person every week in Luddy Hall (BLIF) 0002, every Wednesday from 5:30 to 7:00 PM. (See Teams and email announcements for more details.)**
+**During the Spring of 2026, we meet in person every week in Luddy Hall (BLIF) 0002, every Wednesday from 5:30 to 7:00 PM. (See Teams and email announcements for more details.)**
 
 **[The Quantum AI and NLP Study Group](https://nlp-lab.org/quantumnlp/) meetings are in Luddy Hall (BLIF) 0002 every Thursday from 5:30 to 7:00 PM.**
 
@@ -20,23 +20,19 @@ The NLP-Lab is located at [Indiana University at Bloomington](https://iu.edu/). 
 
 ## Schedule
 
-The topics to discuss, papers to read, or presentations to listen to during the Fall of 2025 meetings:
+The topics to discuss, papers to read, or presentations to listen to during the Spring of 2026 meetings:
 
-| **Date**   | **Topic** |
+| **Date**      | **Topic** |
 | ---------- | --------- |
-| 08/13/2025 | Regular meeting: Drugs and LLMs/KG |
-| ---------- | --------- |
-| 08/20/2025 | Regular meeting: Drugs and LLMs/KG |
-| ---------- | --------- |
-| 08/27/2025 | Regular meeting: Demo using LLMs, Agentive AI, for the Drugs project |
-| ---------- | --------- |
-| ...        |           |
-| ---------- | --------- |
-| 12/10/2025 | Regular meeting: Demo using LLMs, Agentive AI, for the Drugs project |
-| ---------- | --------- |
-| Break      |           |
+| 01/01-13/2025 | Break  |
 | ---------- | --------- |
 | 01/14/2025 | Regular meeting: NIDA Drugs AI and Ontology project |
+| ---------- | --------- |
+| 01/21/2025 | Regular meeting: NIDA Drugs AI and Ontology project |
+| ---------- | --------- |
+| 01/28/2025 | Regular meeting: NIDA Drugs AI and Ontology project |
+| ---------- | --------- |
+| ... |  |
 | ---------- | --------- |
 
 
@@ -44,6 +40,7 @@ The topics to discuss, papers to read, or presentations to listen to during the 
 
 - [Spring 2025](/meetingschedule_spring_2025)
 - [Summer 2025](/meetingschedule_summer_2025)
+- [Fall 2025](/meetingschedule_fall_2025)
 
 
 
