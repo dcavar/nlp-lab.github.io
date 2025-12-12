@@ -3,6 +3,8 @@
 
 ## Publications
 
+- [Quantum Computing for AI and NLP](/publications/Quantum_Computing_For_AI_and_NLP.pdf), presentation at the Luddy School for Informatics, Computing, and Engineering, Indiana University Bloomington, Undergraduate Research Experiential Learning Fall 2025.
+- [Substance Abuse Knowledge and AI Systems Poster](/publications/Substance_Abuse_Knowledge_and_AI_Systems_Poster.pdf), presentation at the Luddy School for Informatics, Computing, and Engineering, Indiana University Bloomington, Undergraduate Research Experiential Learning Fall 2025.
 - Davis, A.S., B. Dickson, D. Cavar, D. Valdez, F.M. Tyers (2025) Advancing Adverse Drug Event Detection in Social Media Through Knowledge Graph and GraphRAG LLM Architectures. [2025 AAHB Annual Scientific Meeting](https://aahb.org/2025-Scientific-Meeting-Overview), San Diego, CA. ([Poster](/publications/AAHB25-ADAVIS-POSTER-FINAL.pdf))
 - Damir Cavar, Koushik Reddy Parukola, Chi Zhang (2025) Word and Text Similarity Using Classical Word Embeddings in Quantum NLP Systems. Satellite Workshop: [Quantum Machine Learning in Signal Processing and Artificial Intelligence](https://sites.google.com/view/qmlicassp2025/home) at the [2025 IEEE International Conference on Acoustics, Speech, and Signal Processing](https://2025.ieeeicassp.org/). Hyderabad, India.
 - Muhammad S. Abdo, Yash Hatekar and [Damir Cavar] (2025) AMWAL: Named Entity Recognition for Arabic Financial News. In proceedings of the [FinNLP-FNP-LLMFinLegal 2025](https://sites.google.com/nlg.csie.ntu.edu.tw/finnlp-fnp-llmfinlegal/home) workshop at [COLING 2025](https://coling2025.org/).
