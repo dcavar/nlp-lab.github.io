@@ -7,6 +7,11 @@ permalink: /software/
 
 # Software
 
+## Quantum Tools
+
+- [Natural Language Qu Kit](https://nlqk.ai/) ([NLQK](https://nlqk.ai/)) 
+
+
 ## General Corpus Tools
 
 - [The Hoosier Ellipsis Corpus](https://github.com/dcavar/hoosierellipsiscorpus) see the subfolders for experiments using Logistic Regression, Large Language Models (GPT-4, Claude 3, Llama 3, ...)

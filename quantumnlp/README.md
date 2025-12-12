@@ -2,7 +2,7 @@
 
 Created: [Damir Cavar], 2023-06-12
 
-Last change: [Damir Cavar], 2025-08-21
+Last change: [Damir Cavar], 2025-12-12
 
 
 **The Quantum AI and NLP Study Group meetings during the Fall semester of 2025 are located in Luddy Hall BLIF 0002 every Thursday from 5:30 to 7:00 PM.**
@@ -26,9 +26,13 @@ The topics to discuss, papers to read, or presentations to listen to during the 
 | ---------- | --------- |
 | 09/11/2025 |  |
 | ---------- | --------- |
-| 09/18/2025 |  |
+| ...        | Classical and Quantum Embeddings - CBIRD Project |
 | ---------- | --------- |
-| 09/25/2025 |  |
+| 12/11/2025 | Classical and Quantum Embeddings - CBIRD Project |
+| ---------- | --------- |
+| Break      |           |
+| ---------- | --------- |
+| 01/14/2025 | Classical and Quantum Embeddings - CBIRD Project - Model Training |
 | ---------- | --------- |
 
 

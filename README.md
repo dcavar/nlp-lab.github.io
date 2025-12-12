@@ -32,6 +32,12 @@ The topics to discuss, papers to read, or presentations to listen to during the 
 | ---------- | --------- |
 | ...        |           |
 | ---------- | --------- |
+| 12/10/2025 | Regular meeting: Demo using LLMs, Agentive AI, for the Drugs project |
+| ---------- | --------- |
+| Break      |           |
+| ---------- | --------- |
+| 01/14/2025 | Regular meeting: NIDA Drugs AI and Ontology project |
+| ---------- | --------- |
 
 
 ### Previous Meeting Schedules
@@ -45,6 +51,7 @@ The topics to discuss, papers to read, or presentations to listen to during the 
 
 ([Old news...](/old_news))
 
+- You can meet some of us at the [Artificial Intelligence and Informatics Consortium](https://consortia.indianapolis.iu.edu/informatics//index.html) ([AI2](https://consortia.indianapolis.iu.edu/informatics//index.html)) events at IU Indianapolis. Check out the [event schedule](https://consortia.indianapolis.iu.edu/informatics/events/index.html). If you need a ride from Bloomington to Indy, get in touch with us.
 - [Quantum Computing for AI and NLP](/publications/Quantum_Computing_For_AI_and_NLP.pdf), presentation at the Luddy School for Informatics, Computing, and Engineering, Indiana University Bloomington, Undergraduate Research Experiential Learning Fall 2025.
 - [Substance Abuse Knowledge and AI Systems Poster](/publications/Substance_Abuse_Knowledge_and_AI_Systems_Poster.pdf), presentation at the Luddy School for Informatics, Computing, and Engineering, Indiana University Bloomington, Undergraduate Research Experiential Learning Fall 2025.
 - [Quantum Artificial Intelligence and Natural Language Processing Conference 2025](https://qnlp.ai/) at Indiana University in August 2025.
