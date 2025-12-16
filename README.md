@@ -48,6 +48,7 @@ The topics to discuss, papers to read, or presentations to listen to during the 
 
 ([Old news...](/old_news))
 
+- Presentation on "Optimizing Data Structures for Hybrid Classical and Quantum Computing for AI and NLP" ([Damir Cavar]) and discussion at the [iQafé event on December 18th, 2025](https://www.linkedin.com/posts/iqafe_1800-2100-cet-1900-2200-eet-activity-7406607073603567616-m_ot).
 - You can meet some of us at the [Artificial Intelligence and Informatics Consortium](https://consortia.indianapolis.iu.edu/informatics//index.html) ([AI2](https://consortia.indianapolis.iu.edu/informatics//index.html)) events at IU Indianapolis. Check out the [event schedule](https://consortia.indianapolis.iu.edu/informatics/events/index.html). If you need a ride from Bloomington to Indy, get in touch with us.
 - [Quantum Computing for AI and NLP](/publications/Quantum_Computing_For_AI_and_NLP.pdf), presentation at the Luddy School for Informatics, Computing, and Engineering, Indiana University Bloomington, Undergraduate Research Experiential Learning Fall 2025.
 - [Substance Abuse Knowledge and AI Systems Poster](/publications/Substance_Abuse_Knowledge_and_AI_Systems_Poster.pdf), presentation at the Luddy School for Informatics, Computing, and Engineering, Indiana University Bloomington, Undergraduate Research Experiential Learning Fall 2025.

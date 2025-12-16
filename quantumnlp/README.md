@@ -2,7 +2,7 @@
 
 Created: [Damir Cavar], 2023-06-12
 
-Last change: [Damir Cavar], 2025-12-12
+Last change: [Damir Cavar], 2025-12-16
 
 
 **The Quantum AI and NLP Study Group meetings during the Spring semester of 2026 are located in Luddy Hall BLIF 0002 every Thursday from 5:30 to 7:00 PM.**
@@ -44,6 +44,7 @@ The topics to discuss, papers to read, or presentations to listen to during the 
 
 ## News
 
+- Presentation on "Optimizing Data Structures for Hybrid Classical and Quantum Computing for AI and NLP" and discussion at the [iQafé event on December 18th, 2025](https://www.linkedin.com/posts/iqafe_1800-2100-cet-1900-2200-eet-activity-7406607073603567616-m_ot).
 - [Quantum Computing for AI and NLP](/publications/Quantum_Computing_For_AI_and_NLP.pdf), presentation at the Luddy School for Informatics, Computing, and Engineering, Indiana University Bloomington, Undergraduate Research Experiential Learning Fall 2025.
 - [Cavar, D.], James Bryan Graves, Shane A. Sparks and Koushik Reddy Parukola (2025) Hybrid Classical Quantum Embeddings for NLP and AI using Hamiltonians. Short paper and poster presented at the [IEEE Quantum Week 2025](Albuquerque, New Mexico, USA), Albuquerque, New Mexico, USA. ([poster](/publications/IEEE_Quantum_Embedding_Poster_Hamiltonian_2025.pdf))
 - [Cavar, D.], Koushik Reddy Parukola, James Bryan Graves, Shane A. Sparks (2025) Old Wine in New Bottles: Using Classical Word Embeddings in Gate-Based Quantum NLP Systems. Paper to be presented at the [Quantum AI and NLP Conference 2025](https://qnlp.ai/), Indiana University, August 2025. In [D. Cavar], V. Aggarwal, S. Chen, J. Busemeyer (eds.) Quantum AI and NLP 2025, Springer.
