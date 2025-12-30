@@ -1,4 +1,4 @@
-----
+---
 theme: jekyll-theme-minimal
 title: NLP-Lab Software
 author: Damir Cavar

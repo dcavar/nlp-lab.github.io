@@ -3,7 +3,7 @@
 See for more details:
 
 - [spaCy]
-- Python spaCu-JSON-NLP Module
+- Python spaCy-JSON-NLP Module
 - [GitHub Repo](https://github.com/dcavar/spaCy-JSON-NLP)
 
 

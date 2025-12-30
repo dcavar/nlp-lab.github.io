@@ -2,7 +2,7 @@
 
 (C) 2022 by [Damir Cavar], [NLP-Lab]
 
-There are many reasons why we favor [Rust] for some implementations and components, in particular when it comes to Natural Language Processing (NLP) and Artificial Intelligence (AI) applications. We might eleborate on that in some future documents.
+There are many reasons why we favor [Rust] for some implementations and components, in particular when it comes to Natural Language Processing (NLP) and Artificial Intelligence (AI) applications. We might elaborate on that in some future documents.
 
 Here are some links to relevant [Rust] pages:
 

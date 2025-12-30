@@ -22,18 +22,13 @@ The NLP-Lab is located at [Indiana University at Bloomington](https://iu.edu/). 
 
 The topics to discuss, papers to read, or presentations to listen to during the Spring of 2026 meetings:
 
-| **Date**      | **Topic** |
-| ---------- | --------- |
-| 01/01-13/2025 | Break  |
-| ---------- | --------- |
-| 01/14/2025 | Regular meeting: NIDA Drugs AI and Ontology project |
-| ---------- | --------- |
-| 01/21/2025 | Regular meeting: NIDA Drugs AI and Ontology project |
-| ---------- | --------- |
-| 01/28/2025 | Regular meeting: NIDA Drugs AI and Ontology project |
-| ---------- | --------- |
-| ... |  |
-| ---------- | --------- |
+| **Date** | **Topic** |
+| -------- | --------- |
+| 01/01-13/2026 | Break |
+| 01/14/2026 | Regular meeting: NIDA Drugs AI and Ontology project |
+| 01/21/2026 | Regular meeting: NIDA Drugs AI and Ontology project |
+| 01/28/2026 | Regular meeting: NIDA Drugs AI and Ontology project |
+| ... | |
 
 
 ### Previous Meeting Schedules
@@ -77,7 +72,8 @@ During the 2025-2026 academic year, the focus is on:
 
 ## Team
 
-| ------| ------- |
+|  |  |
+| ------ | ------- |
 | [Muhammad S. Abdo](https://www.linkedin.com/in/muhsabrys/) | [Dr. Damir Cavar](http://damir.cavar.me/) |
 | [Yanin Charoenpornsawat](https://www.linkedin.com/in/yanin-charoenpornsawat-b574a92b1/) | Tribhangin Dichpally |
 | [Madhumitha Gannavaram](https://www.linkedin.com/in/madhumithagv/) | [Arnav Jain](https://www.linkedin.com/in/arnav-jain20200327/) |
@@ -91,8 +87,9 @@ During the 2025-2026 academic year, the focus is on:
 
 ## Former Team Members
 
-| ------| ------- |
-|  Aarnav | Luis Abrego |
+|  |  |
+| ------ | ------- |
+| Aarnav | Luis Abrego |
 | Nada Aggadi | Dr. Ali Abdulaziz Aljubailan |
 | Abhishek Babuji | [Oren Baldinger](https://github.com/orenbaldinger) |
 | [Tanmayi Balla](https://www.linkedin.com/in/tanmayiballa) | [Rohit Bapat](https://github.com/rohitbapat/) |
@@ -148,6 +145,6 @@ Here is [our Event Calendar](https://calendar.google.com/calendar/embed?src=3h9o
 [ML]: https://en.wikipedia.org/wiki/Machine_learning "Machine Learning"
 [Machine Learning]: https://en.wikipedia.org/wiki/Machine_learning "Machine Learning"
 [ROS]: https://www.ros.org/ "Robot Operating System"
-[Robot Ooperating System]: https://www.ros.org/ "Robot Operating System"
+[Robot Operating System]: https://www.ros.org/ "Robot Operating System"
 [Billy Dickson]: https://www.linkedin.com/in/billy-dickson/ "Billy Dickson"
 

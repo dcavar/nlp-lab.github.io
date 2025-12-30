@@ -1,6 +1,6 @@
 ---
 theme: jekyll-theme-minimal
-title: NLP-Lab Software
+title: NLP-Lab Projects
 author: Damir Cavar
 permalink: /projects/
 ---
@@ -43,7 +43,7 @@ Our proposed annotation standard for time, events, and temporal relations (seque
 
 ## Knowledge Graphs
 
-The main Knowedge Graph related project that we are engaged in currently is:
+The main Knowledge Graph related project that we are engaged in currently is:
 
 - Unstructured Information to High-quality Knowledge Graph Mapping
 - Mapping of Relational Databases to High-quality Knowledge Graphs using R2RML and RML, as well as JRML
