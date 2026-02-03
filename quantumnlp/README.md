@@ -20,6 +20,7 @@ The topics to discuss, papers to read, or presentations to listen to during the 
 | 01/14/2026 | Classical and Quantum Embeddings - CBIRD Project - Model Training |
 | 01/22/2026 | Classical and Quantum Embeddings - CBIRD Project - Model Training |
 | 01/29/2026 | Classical and Quantum Embeddings - CBIRD Project - Model Evaluation |
+| 02/05/2026 | Classical and Quantum Embeddings - CBIRD Project - Data preparation and model training |
 | ... | |
 
 
@@ -39,6 +40,7 @@ The topics to discuss, papers to read, or presentations to listen to during the 
 
 ## News
 
+- The Complex Bidirectional Integration for Representation Dynamics (CBIRD) is a Language Model trained to be a fully hybrid classical/quantum model, which can be used on CPU/GPU and QPU systems without encoding loss, usable as a state-of-the-art text diffusion model, as a BERT-style bidirectional encoder-only model, etc. - code and model coming soon.
 - Presentation on "Optimizing Data Structures for Hybrid Classical and Quantum Computing for AI and NLP" ([Damir Cavar]) and discussion at the [iQafé event on December 18th, 2025](https://www.linkedin.com/posts/iqafe_1800-2100-cet-1900-2200-eet-activity-7406607073603567616-m_ot).
 - [Quantum Computing for AI and NLP](/publications/Quantum_Computing_For_AI_and_NLP.pdf), presentation at the Luddy School for Informatics, Computing, and Engineering, Indiana University Bloomington, Undergraduate Research Experiential Learning Fall 2025.
 - [Cavar, D.], James Bryan Graves, Shane A. Sparks and Koushik Reddy Parukola (2025) Hybrid Classical Quantum Embeddings for NLP and AI using Hamiltonians. Short paper and poster presented at the [IEEE Quantum Week 2025](Albuquerque, New Mexico, USA), Albuquerque, New Mexico, USA. ([poster](/publications/IEEE_Quantum_Embedding_Poster_Hamiltonian_2025.pdf))
