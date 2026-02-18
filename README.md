@@ -124,7 +124,12 @@ During the 2025-2026 academic year, the focus is on:
 | [Dr. Ludovic Mompelat](https://www.linkedin.com/in/ludovic-mompelat-8a1960b8/) | [Elias Naske](https://www.linkedin.com/in/elias-naske/) |
 | [Ananth Karkala Pai](https://www.linkedin.com/in/ananth-pai-692b241b6/) | [Shreejith Panicker](https://skpanick.github.io/) |
 | [Koushik Reddy Parukola](https://www.linkedin.com/in/koushik-reddy-parukola/) | [Chaitanya Patil](https://github.com/Chaitz333) |
-...
+| Harshwardhan Raghunath Patil | Emily Reed |
+| [Restrepo Ramos, Dr. Falcon Dario](https://www.linkedin.com/in/falcon-restrepo-ramos-657b74203/) | [Animesh Sagar](https://github.com/animeshsagar) |
+| [Gopal Seshadri](https://github.com/GopalSeshadri) | Victor Shi |
+| Surya Prateek Soni | [Dhananjay Srivastava](https://www.linkedin.com/in/dhananjay-srivastava/) |
+| Ling Sun | Jayapraksh Theyaneshwaran |
+| [Ashutosh Tiwari](https://www.linkedin.com/in/ashutosh--tiwari/) | Rao Imam Ali Wasim |
 | Khai Anthony Willard | [Dr. Yuna Won](http://www.yunawon.net) |
 | Kimball Wu | Yuchen Yang |
 | Chi Zhang | [Yiwen Zhang](https://github.com/yiwenzh29) |
