@@ -85,13 +85,14 @@ During the 2025-2026 academic year, the focus is on:
 | [Muhammad S. Abdo](https://www.linkedin.com/in/muhsabrys/) | [Khurrum Ali](https://www.linkedin.com/in/khurrum-ali-5ba6b81b9/?originalSubdomain=in) |
 | [Jose P. Benavides](https://josbenav.github.io/) | [Dr. Damir Cavar](http://damir.cavar.me/) |
 | [Yanin Charoenpornsawat](https://www.linkedin.com/in/yanin-charoenpornsawat-b574a92b1/) | Soren DeHaan |
-| Tribhangin Dichpally | [Madhumitha Gannavaram](https://www.linkedin.com/in/madhumithagv/) |
-| [Arnav Jain](https://www.linkedin.com/in/arnav-jain20200327/) | [Ayomide Jeje](https://www.linkedin.com/in/ayomide-jeje-7a4995266/) |
-| [Ronit Jha](https://www.linkedin.com/in/ronitjha05/) | [Sachin Kumar](https://www.linkedin.com/in/sachin1302/) |
-| Sam Gray Miller | [Arun Munagala](https://www.linkedin.com/in/arun-munagala-b5b993222/) |
-| [Shruthi Nagappan](https://www.linkedin.com/in/shruthi-nagappan-749029191/) | [Avaanika Nair](https://www.linkedin.com/in/avaanika-nair/) |
-| [Anuj Prakash](https://www.linkedin.com/in/anuj-prakash-48ba881b9/) | [Naishal Shah](https://www.linkedin.com/in/naishal-shah-94b005181/) |
-| [Shane A. Sparks](https://www.linkedin.com/in/shane-sparks-a37832249/) | [Pete William Sullivan](https://www.linkedin.com/in/pete-sullivan-402b0b25a/) |
+| [Aishwarya Balasaheb Dhaigude](https://www.linkedin.com/in/aishwaryadhaigude/) | Tribhangin Dichpally |
+| [Madhumitha Gannavaram](https://www.linkedin.com/in/madhumithagv/) | [Arnav Jain](https://www.linkedin.com/in/arnav-jain20200327/) |
+| [Ayomide Jeje](https://www.linkedin.com/in/ayomide-jeje-7a4995266/) | [Ronit Jha](https://www.linkedin.com/in/ronitjha05/) |
+| [Sachin Kumar](https://www.linkedin.com/in/sachin1302/) | Sam Gray Miller |
+| [Arun Munagala](https://www.linkedin.com/in/arun-munagala-b5b993222/) | [Shruthi Nagappan](https://www.linkedin.com/in/shruthi-nagappan-749029191/) |
+| [Avaanika Nair](https://www.linkedin.com/in/avaanika-nair/) | [Anuj Prakash](https://www.linkedin.com/in/anuj-prakash-48ba881b9/) |
+| [Naishal Shah](https://www.linkedin.com/in/naishal-shah-94b005181/) | [Shane A. Sparks](https://www.linkedin.com/in/shane-sparks-a37832249/) |
+| Amy C. Stafford | [Pete William Sullivan](https://www.linkedin.com/in/pete-sullivan-402b0b25a/) |
 | [Dr. Zoran Tiganj](https://homes.luddy.indiana.edu/ztiganj/) | [Dr. Danny Valdez](https://publichealth.indiana.edu/about/directory/profile.html?user=danvald) |
 | [Ye-Ye Xu](https://www.linkedin.com/in/yeye-xu/) |  |
 
@@ -123,16 +124,11 @@ During the 2025-2026 academic year, the focus is on:
 | [Dr. Ludovic Mompelat](https://www.linkedin.com/in/ludovic-mompelat-8a1960b8/) | [Elias Naske](https://www.linkedin.com/in/elias-naske/) |
 | [Ananth Karkala Pai](https://www.linkedin.com/in/ananth-pai-692b241b6/) | [Shreejith Panicker](https://skpanick.github.io/) |
 | [Koushik Reddy Parukola](https://www.linkedin.com/in/koushik-reddy-parukola/) | [Chaitanya Patil](https://github.com/Chaitz333) |
-| Harshwardhan Raghunath Patil | Emily Reed |
-| [Restrepo Ramos, Dr. Falcon Dario](https://www.linkedin.com/in/falcon-restrepo-ramos-657b74203/) | [Animesh Sagar](https://github.com/animeshsagar) |
-| [Gopal Seshadri](https://github.com/GopalSeshadri) | Victor Shi |
-| Surya Prateek Soni | [Dhananjay Srivastava](https://www.linkedin.com/in/dhananjay-srivastava/) |
-| Amy C. Stafford | Ling Sun |
-| Jayapraksh Theyaneshwaran | [Ashutosh Tiwari](https://www.linkedin.com/in/ashutosh--tiwari/) |
-| Rao Imam Ali Wasim | Khai Anthony Willard |
-| [Dr. Yuna Won](http://www.yunawon.net) | Kimball Wu |
-| Yuchen Yang | Chi Zhang |
-| [Yiwen Zhang](https://github.com/yiwenzh29) | [Rong Zheng](https://psych.indiana.edu/directory/graduate-students/zheng-rong.html) |
+...
+| Khai Anthony Willard | [Dr. Yuna Won](http://www.yunawon.net) |
+| Kimball Wu | Yuchen Yang |
+| Chi Zhang | [Yiwen Zhang](https://github.com/yiwenzh29) |
+| [Rong Zheng](https://psych.indiana.edu/directory/graduate-students/zheng-rong.html) |  |
 
 
 Here is [our Event Calendar](https://calendar.google.com/calendar/embed?src=3h9o18o7i82tjmmt5q2j3qgkj8%40group.calendar.google.com&ctz=America%2FNew_York) with all meeting times.
