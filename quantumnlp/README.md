@@ -21,6 +21,8 @@ The topics to discuss, papers to read, or presentations to listen to during the 
 | 01/22/2026 | Classical and Quantum Embeddings - CBIRD Project - Model Training |
 | 01/29/2026 | Classical and Quantum Embeddings - CBIRD Project - Model Evaluation |
 | 02/05/2026 | Classical and Quantum Embeddings - CBIRD Project - Data preparation and model training |
+| 02/11/2026 | Classical and Quantum Embeddings - CBIRD Project - Data preparation and model training |
+| 02/18/2026 | Classical and Quantum Embeddings - CBIRD Project - Data preparation and model training; [Quantum AI and NLP 2026](https://qnlp.ai/) Conference Preparation |
 | ... | |
 
 
