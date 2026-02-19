@@ -1,4 +1,4 @@
-# Project CBIRD - Complex Bidirectional Integration for Representation Dynamics
+# Project CBIRD - Complex Bidirectional Inducer for Representation Dynamics
 
 
 Created: [Damir Cavar], 2026-02-17
