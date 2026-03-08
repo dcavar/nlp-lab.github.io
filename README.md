@@ -9,9 +9,9 @@ There are two independent group meetings: the NLP-Lab discussing general NLP and
 
 **NLP-Lab Meetings: During the Spring of 2026, we meet in person every week in Luddy Hall (BLIF) 0002, every Wednesday from 5:30 to 7:00 PM. (See Teams and email announcements for more details.)**
 
-**[The Quantum AI and NLP Study Group](https://nlp-lab.org/quantumnlp/) meetings are in Luddy Hall (BLIF) 0002 every Thursday from 5:30 to 7:00 PM.**
+**[The Quantum AI Study Group](https://nlp-lab.org/quantumnlp/) meetings are in Luddy Hall (BLIF) 0002 every Thursday from 5:30 to 7:00 PM.**
 
-**[The Quantum AI and NLP Study Group Talks](https://nlp-lab.org/quantumnlp/) are typically scheduled for Fridays at 4 PM in Luddy Hall (BLIF) 0002 or online.**
+**[The Quantum AI Study Group Talks](https://nlp-lab.org/quantumnlp/) are typically scheduled for Fridays at 4 PM in Luddy Hall (BLIF) 0002 or online.**
 
 **Please contact [Damir Cavar] if you are interested in joining the NLP-Lab meetings.**
 
@@ -35,6 +35,9 @@ The topics to discuss, papers to read, or presentations to listen to during the 
 | 02/04/2026 | Regular meeting: paper submission preparation and meeting, Dove Recovery House project, Alzheimer's and Cancer KGs and Agentive models |
 | 02/11/2026 | Regular meeting: paper submission preparation and meeting, Dove Recovery House project, Alzheimer's and Cancer KGs and Agentive models |
 | 02/18/2026 | Regular meeting: Dove Recovery House project, NIDA Drugs AI and Ontology project |
+| 02/25/2026 | Regular meeting: Dove Recovery House project, NIDA Drugs AI and Ontology project |
+| 03/04/2026 | Regular meeting: Dove Recovery House project, NIDA Drugs AI and Ontology project - papers, data collection |
+| 03/11/2026 | Regular meeting: Dove Recovery House project, NIDA Drugs AI and Ontology project |
 | ... | |
 
 
