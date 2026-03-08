@@ -1,9 +1,9 @@
 ## Welcome to The NLP Lab Pages
 
-The Natural Language Processing Lab (NLP-Lab) is focused on theoretical work and implementations of [Natural Language Processing] ([NLP]) and [Artificial Intelligence] ([AI]) solutions using hybrid approaches, empiricist, neural, probabilistic, and knowledge-driven, with a particular interest in neuro-symbolic modeling. We are also interested in [Quantum NLP and AI](https://nlp-lab.org/quantumnlp/) and [NLP] combined with Machine Learning ([ML]) solutions for computer vision and multi-modal information processing. Ultimately, we believe we are getting closer to what [Steve Jobs had as a vision in 1985](https://youtu.be/yolkEfuUaGs).
+The Natural Language Processing Lab (NLP-Lab) is focused on theoretical work and implementations of [Artificial Intelligence] ([AI]) and [Natural Language Processing] ([NLP]) solutions using hybrid approaches, empiricist, neural, probabilistic, and knowledge-driven, with a particular interest in neuro-symbolic modeling. We are also interested in [Quantum NLP and AI](https://nlp-lab.org/quantumnlp/) and [NLP] combined with Machine Learning ([ML]) solutions for computer vision and multi-modal information processing. Ultimately, we believe we are getting closer to what [Steve Jobs had as a vision in 1985](https://youtu.be/yolkEfuUaGs).
 
 
-The NLP-Lab is located at [Indiana University at Bloomington](https://iu.edu/). While it is mainly a local group of students and researchers with a strong interest in [NLP] and [AI] here in Indiana, it has ties to colleagues all across the country.
+The NLP-Lab is located at [Indiana University at Bloomington](https://iu.edu/). While it is mainly a local group of students and researchers with a strong interest in [AI] and [NLP] here in Indiana, it has ties to colleagues all across the country.
 
 There are two independent group meetings: the NLP-Lab discussing general NLP and AI topics, and the Quantum AI and NLP Study Group. In addition, we organize occational talks related to Quantum AI and NLP.
 
@@ -38,6 +38,7 @@ The topics to discuss, papers to read, or presentations to listen to during the 
 | 02/25/2026 | Regular meeting: Dove Recovery House project, NIDA Drugs AI and Ontology project |
 | 03/04/2026 | Regular meeting: Dove Recovery House project, NIDA Drugs AI and Ontology project - papers, data collection |
 | 03/11/2026 | Regular meeting: Dove Recovery House project, NIDA Drugs AI and Ontology project |
+| 03/18/2026 | Spring break - no meeting |
 | ... | |
 
 
@@ -53,7 +54,9 @@ The topics to discuss, papers to read, or presentations to listen to during the 
 
 ([Old news...](/old_news))
 
-- [Quantum AI and NLP Conference 2026](https://qnlp.ai/) (still old website, it will be updated soon) will be August 14th - 16th on the IUI campus in Indianapolis! Stay tuned for updates!
+- Cavar, D. "*The Rise of Agentic AI and How It Will Change Our World*," March 20, 2026 at the Artificial Intelligence for Legal Professionals Conference, Center for International and Comparative Law, Indiana University Robert H. McKinney School of Law.
+- Cavar, D. "*Hybrid Classical/Quantum Data Structures And Experiments For New AI Architectures*," March 25, 2026, Research Technologies Speaker Series, Cyberinfrastructure Building, Indiana University.
+- [Quantum AI Conference 2026](https://qnlp.ai/) (still old website, it will be updated soon) will be August 14th - 16th on the IUI campus in Indianapolis! Stay tuned for updates!
 - The Complex Bidirectional Inducer for Representation Dynamics (CBIRD) is a Language Model trained to be a fully hybrid classical/quantum model, which can be used on CPU/GPU and QPU systems without encoding loss, usable as a state-of-the-art text diffusion model, as a BERT-style bidirectional encoder-only model, etc. - code and model coming soon.
 - Presentation on "Optimizing Data Structures for Hybrid Classical and Quantum Computing for AI and NLP" ([Damir Cavar]) and discussion at the [iQafé event on December 18th, 2025](https://www.linkedin.com/posts/iqafe_1800-2100-cet-1900-2200-eet-activity-7406607073603567616-m_ot).
 - You can meet some of us at the [Artificial Intelligence and Informatics Consortium](https://consortia.indianapolis.iu.edu/informatics//index.html) ([AI2](https://consortia.indianapolis.iu.edu/informatics//index.html)) events at IU Indianapolis. Check out the [event schedule](https://consortia.indianapolis.iu.edu/informatics/events/index.html). If you need a ride from Bloomington to Indy, get in touch with us.

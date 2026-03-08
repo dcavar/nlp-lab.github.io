@@ -8,7 +8,7 @@ permalink: /projects/
 # Projects
 
 
-## Quantum AI and NLP
+## Quantum AI
 
 - [Project page](/quantumnlp)
 

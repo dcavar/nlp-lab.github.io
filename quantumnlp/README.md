@@ -26,6 +26,7 @@ The topics to discuss, papers to read, or presentations to listen to during the 
 | 02/26/2026 | Classical and Quantum Embeddings - CBIRD Project - Data preparation and model training |
 | 03/05/2026 | Classical and Quantum Embeddings - CBIRD Project - Data preparation and model training |
 | 03/12/2026 | Math and C++ code for CBIRD Project |
+| 03/19/2026 | Spring break - no meeting |
 | ... | |
 
 
@@ -45,6 +46,7 @@ The topics to discuss, papers to read, or presentations to listen to during the 
 
 ## News
 
+- Cavar, D. "*Hybrid Classical/Quantum Data Structures And Experiments For New AI Architectures*," March 25, 2026, Research Technologies Speaker Series, Cyberinfrastructure Building, Indiana University.
 - [Quantum AI Conference 2026](https://qnlp.ai/) (still old website, it will be updated soon) will be August 14th - 16th on the IUI campus in Indianapolis! Stay tuned for updates!
 - The Complex Bidirectional Inducer for Representation Dynamics (CBIRD) is a Language Model trained to be a fully hybrid classical/quantum model, which can be used on CPU/GPU and QPU systems without encoding loss, usable as a state-of-the-art text diffusion model, as a BERT-style bidirectional encoder-only model, etc. - code and model coming soon.
 - Presentation on "Optimizing Data Structures for Hybrid Classical and Quantum Computing for AI and NLP" ([Damir Cavar]) and discussion at the [iQafé event on December 18th, 2025](https://www.linkedin.com/posts/iqafe_1800-2100-cet-1900-2200-eet-activity-7406607073603567616-m_ot).

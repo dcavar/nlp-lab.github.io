@@ -3,6 +3,7 @@
 
 ## Publications
 
+- Muhammad S. Abdo, [Damir Cavar], Billy Dickson, Attia Youseif (2025) *Ellipsis in Arabic: Using Machine Learning to Detect and Predict Elided Words*. Pages 240-263 in: Reem Khamis and Mira Goral (eds.) Selected Papers from the 37th Annual Symposium on Arabic Linguistics, [Published online 27 February 2026](https://benjamins.com/catalog/arli.00013.abd), John Benjamins.
 - [Quantum Computing for AI and NLP](/publications/Quantum_Computing_For_AI_and_NLP.pdf), presentation at the Luddy School for Informatics, Computing, and Engineering, Indiana University Bloomington, Undergraduate Research Experiential Learning Fall 2025.
 - [Substance Abuse Knowledge and AI Systems Poster](/publications/Substance_Abuse_Knowledge_and_AI_Systems_Poster.pdf), presentation at the Luddy School for Informatics, Computing, and Engineering, Indiana University Bloomington, Undergraduate Research Experiential Learning Fall 2025.
 - Davis, A.S., B. Dickson, D. Cavar, D. Valdez, F.M. Tyers (2025) Advancing Adverse Drug Event Detection in Social Media Through Knowledge Graph and GraphRAG LLM Architectures. [2025 AAHB Annual Scientific Meeting](https://aahb.org/2025-Scientific-Meeting-Overview), San Diego, CA. ([Poster](/publications/AAHB25-ADAVIS-POSTER-FINAL.pdf))
@@ -20,6 +21,8 @@
 
 ## Presentations
 
+- Cavar, D. "*The Rise of Agentic AI and How It Will Change Our World*," March 20, 2026 at the Artificial Intelligence for Legal Professionals Conference, Center for International and Comparative Law, Indiana University Robert H. McKinney School of Law.
+- Cavar, D. "*Hybrid Classical/Quantum Data Structures And Experiments For New AI Architectures*," March 25, 2026, Research Technologies Speaker Series, Cyberinfrastructure Building, Indiana University.
 - Cavar, D., Koushik Reddy Parukola, Shane Sparks (2025) Old Wine in New Bottles: Using Classical Word Embeddings in Quantum NLP Systems. Paper to be presented at the [Midwest Speech and Language Days 2025](https://nlp.nd.edu/msld25/), University of Notre Dame, April 2025.
 - A. Karkala Pai, D. Cavar (2025) A Voice-based Detection of Parkinson's Disease: Feature Selection and Classification Results. Paper to be presented at the [Midwest Speech and Language Days 2025](https://nlp.nd.edu/msld25/), University of Notre Dame, April 2025.
 - Wang, R., R. Shrivastava, T. Sun, S. Lakshmi Anusha Chebolu, M. Kodandapani Naidu, T. Jayaprakash, J. Decatur, D. Cavar (2025) Improving LLM Reasoning Through Ontology-driven Knowledge Graphs: A Comparative Study of Generating Ontologies for Medical RAGs. Poster to be presented at the [Midwest Speech and Language Days 2025](https://nlp.nd.edu/msld25/), University of Notre Dame, April 2025.
