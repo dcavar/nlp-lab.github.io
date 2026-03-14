@@ -7,7 +7,7 @@ Last change: [Damir Cavar], 2025-12-16
 
 **The Quantum AI Study Group meetings during the Spring semester of 2026 are located in Luddy Hall BLIF 0002 every Thursday from 5:30 to 7:00 PM.**
 
-See the public calendar with all the meeting times and details: [NLP-Lab Event Calendar](https://calendar.google.com/calendar/embed?src=3h9o18o7i82tjmmt5q2j3qgkj8%40group.calendar.google.com&ctz=America%2FNew_York).
+See the public calendar with all the meeting times and details: [NLP-Lab and Quantum Study Group Event Calendar](https://calendar.google.com/calendar/embed?src=3h9o18o7i82tjmmt5q2j3qgkj8%40group.calendar.google.com&ctz=America%2FNew_York).
 
 
 ## Schedule
@@ -26,6 +26,7 @@ The topics to discuss, papers to read, or presentations to listen to during the 
 | 02/26/2026 | Classical and Quantum Embeddings - CBIRD Project - Data preparation and model training |
 | 03/05/2026 | Classical and Quantum Embeddings - CBIRD Project - Data preparation and model training |
 | 03/12/2026 | Math and C++ code for CBIRD Project |
+| 03/14/2026 | Pi-Day and Quantum Day = Lab Party! Cookout meeting and best dish competition! |
 | 03/19/2026 | Spring break - no meeting |
 | ... | |
 
