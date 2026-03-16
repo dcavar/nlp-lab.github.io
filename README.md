@@ -40,6 +40,7 @@ The topics to discuss, papers to read, or presentations to listen to during the 
 | 03/11/2026 | Regular meeting: Dove Recovery House project, NIDA Drugs AI and Ontology project |
 | 03/14/2026 | Pi-Day and Quantum Day = Lab Party! Cookout meeting and best dish competition! |
 | 03/18/2026 | Spring break - no meeting |
+| 03/25/2026 | Regular meeting: Dove Recovery House project, NIDA Drugs AI and Ontology project |
 | ... | |
 
 
