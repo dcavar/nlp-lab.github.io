@@ -2,7 +2,7 @@
 
 Created: [Damir Cavar], 2023-06-12
 
-Last change: [Damir Cavar], 2026-03-16
+Last change: [Damir Cavar], 2026-03-31
 
 
 **The Quantum AI Study Group meetings during the Spring semester of 2026 are located in Luddy Hall BLIF 0002 every Thursday from 5:30 to 7:00 PM.**
@@ -29,6 +29,8 @@ The topics to discuss, papers to read, or presentations to listen to during the 
 | 03/14/2026 | Pi-Day and Quantum Day = Lab Party! Cookout meeting and best dish competition! |
 | 03/19/2026 | Spring break - no meeting |
 | 03/26/2026 | Classical and Quantum Embeddings - CBIRD Project - Data preparation and model training |
+| 04/01/2026 | CQT meeting at Notre Dame presenting CBIRD Project - Damir Cavar and Pete Sullivan |
+| 04/02/2026 | Running CBIRD training - corpus and data format discussion |
 | ... | |
 
 
