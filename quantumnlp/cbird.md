@@ -15,8 +15,9 @@ CBIRD is a hybrid complex-valued language model based on the core BERT architect
 - Create complex-valued neural architectures (and advanced libraries that replace the limits of PyTorch and similar libraries)
 - Reducing model size, needed data, and training effort while improving expressivity of AI models
   - a 1 trillion parameter model as a quantum state requires less than 40 qubits in our architecture
-- Lower inference costs
-- Benchmark complex-valued hybrid models for applications in
+- Lower inference costs using quantum computing
+- Benchmarking of quantum computers in general, and complex-valued hybrid models for applications in particular
+- Evaluation of hybrid classical-quantum AI models for:
   - Medical applications
   - Robotics and control
 
