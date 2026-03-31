@@ -17,20 +17,20 @@ The topics to discuss, papers to read, or presentations to listen to during the 
 | **Date** | **Topic** |
 | -------- | --------- |
 | Jan. 2026 | Winter Break |
-| 01/14/2026 | Classical and Quantum Embeddings - CBIRD Project - Model Training |
-| 01/22/2026 | Classical and Quantum Embeddings - CBIRD Project - Model Training |
-| 01/29/2026 | Classical and Quantum Embeddings - CBIRD Project - Model Evaluation |
-| 02/05/2026 | Classical and Quantum Embeddings - CBIRD Project - Data preparation and model training |
-| 02/12/2026 | Classical and Quantum Embeddings - CBIRD Project - Data preparation and model training |
-| 02/19/2026 | Classical and Quantum Embeddings - CBIRD Project - Data preparation and model training; [Quantum AI 2026](https://qnlp.ai/) Conference Preparation |
-| 02/26/2026 | Classical and Quantum Embeddings - CBIRD Project - Data preparation and model training |
-| 03/05/2026 | Classical and Quantum Embeddings - CBIRD Project - Data preparation and model training |
-| 03/12/2026 | Math and C++ code for CBIRD Project |
+| 01/14/2026 | Classical and Quantum Embeddings - [CBIRD](https://nlp-lab.org/quantumnlp/cbird) Project - Model Training |
+| 01/22/2026 | Classical and Quantum Embeddings - [CBIRD](https://nlp-lab.org/quantumnlp/cbird) Project - Model Training |
+| 01/29/2026 | Classical and Quantum Embeddings - [CBIRD](https://nlp-lab.org/quantumnlp/cbird) Project - Model Evaluation |
+| 02/05/2026 | Classical and Quantum Embeddings - [CBIRD](https://nlp-lab.org/quantumnlp/cbird) Project - Data preparation and model training |
+| 02/12/2026 | Classical and Quantum Embeddings - [CBIRD](https://nlp-lab.org/quantumnlp/cbird) Project - Data preparation and model training |
+| 02/19/2026 | Classical and Quantum Embeddings - [CBIRD](https://nlp-lab.org/quantumnlp/cbird) Project - Data preparation and model training; [Quantum AI 2026](https://qnlp.ai/) Conference Preparation |
+| 02/26/2026 | Classical and Quantum Embeddings - [CBIRD](https://nlp-lab.org/quantumnlp/cbird) Project - Data preparation and model training |
+| 03/05/2026 | Classical and Quantum Embeddings - [CBIRD](https://nlp-lab.org/quantumnlp/cbird) Project - Data preparation and model training |
+| 03/12/2026 | Math and C++ code for [CBIRD](https://nlp-lab.org/quantumnlp/cbird) Project |
 | 03/14/2026 | Pi-Day and Quantum Day = Lab Party! Cookout meeting and best dish competition! |
 | 03/19/2026 | Spring break - no meeting |
-| 03/26/2026 | Classical and Quantum Embeddings - CBIRD Project - Data preparation and model training |
-| 04/01/2026 | CQT meeting at Notre Dame presenting CBIRD Project - Damir Cavar and Pete Sullivan |
-| 04/02/2026 | Running CBIRD training - corpus and data format discussion |
+| 03/26/2026 | Classical and Quantum Embeddings - [CBIRD](https://nlp-lab.org/quantumnlp/cbird) Project - Data preparation and model training |
+| 04/01/2026 | [CQT](https://www.purdue.edu/cqt/) meeting at Notre Dame presenting [CBIRD](https://nlp-lab.org/quantumnlp/cbird) Project - Damir Cavar and Pete Sullivan |
+| 04/02/2026 | Running [CBIRD](https://nlp-lab.org/quantumnlp/cbird) training - corpus and data format discussion |
 | ... | |
 
 
@@ -50,6 +50,7 @@ The topics to discuss, papers to read, or presentations to listen to during the 
 
 ## News
 
+- Cavar, D. et al. (2026) Hybrid Classical-Quantum Language and World Models for AI - [CBIRD](https://nlp-lab.org/quantumnlp/cbird). Poster presentation at the [Center for Quantum Technologies](https://www.purdue.edu/cqt/) ([CQT])(https://www.purdue.edu/cqt/) Meeting 2026 at Notre Dame, 1st of April, 2026.
 - Cavar, D. "*Hybrid Classical/Quantum Data Structures And Experiments For New AI Architectures*," March 25, 2026, Research Technologies Speaker Series, Cyberinfrastructure Building, Indiana University.
 - [Quantum AI Conference 2026](https://qnlp.ai/) (still old website, it will be updated soon) will be August 14th - 16th on the IUI campus in Indianapolis! Stay tuned for updates!
 - The Complex Bidirectional Inducer for Representation Dynamics (CBIRD) is a Language Model trained to be a fully hybrid classical/quantum model, which can be used on CPU/GPU and QPU systems without encoding loss, usable as a state-of-the-art text diffusion model, as a BERT-style bidirectional encoder-only model, etc. - code and model coming soon.
