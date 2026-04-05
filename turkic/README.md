@@ -3,7 +3,7 @@
 
 ## Azerbaijani
 
-For Azerbaijani we generated vocabulary sets and we are working on:
+For Azerbaijani, we have generated vocabulary sets and are working on:
 
 - text corpora
 - treebanks

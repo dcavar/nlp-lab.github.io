@@ -1,6 +1,6 @@
 # Knowledge Graphs from Data, Unstructured Text, and Images
 
-This is the topic for Fall 2024 -- Fall 2025.
+This was the focus from Fall 2024 through Fall 2025.
 
 
 **Information Sources:**

@@ -2,7 +2,7 @@
 
 (C) 2022 by [Damir Cavar], [NLP-Lab]
 
-There are many reasons why we favor [Rust] for some implementations and components, in particular when it comes to Natural Language Processing (NLP) and Artificial Intelligence (AI) applications. We might elaborate on that in some future documents.
+There are many reasons why we favor [Rust] for some implementations and components, in particular when it comes to Natural Language Processing (NLP) and Artificial Intelligence (AI) applications. We plan to elaborate on this in future documentation.
 
 Here are some links to relevant [Rust] pages:
 
@@ -12,7 +12,7 @@ Here are some links to relevant [Rust] pages:
 - [Oxigraph](https://github.com/oxigraph/) - Rust-based RDF and SPARQL enabled graph database
 
 
-Our local work in progress focusing on NLP and AI tools and environments for Rust:
+Our ongoing work on NLP and AI tools for Rust:
 
 - [Rust tutorial notebooks](https://github.com/dcavar/rust-tutorial-notebooks) - work in progress
 

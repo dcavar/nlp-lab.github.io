@@ -30,7 +30,7 @@ Last change: [Damir Cavar], 2026-03-31
 
 ## Publications
 
-- Cavar, D., James Bryan Graves, Shane A. Sparks and Koushik Reddy Parukola (2025) Hybrid Classical Quantum Embeddings for NLP and AI using Hamiltonians. Short paper and poster presented at the [IEEE Quantum Week 2025](Albuquerque, New Mexico, USA), Albuquerque, New Mexico, USA.
+- Cavar, D., James Bryan Graves, Shane A. Sparks and Koushik Reddy Parukola (2025) Hybrid Classical Quantum Embeddings for NLP and AI using Hamiltonians. Short paper and poster presented at the [IEEE Quantum Week 2025](https://qce.quantum.ieee.org/2025/), Albuquerque, New Mexico, USA.
 - Cavar, D., Koushik Reddy Parukola, James Bryan Graves, Shane Sparks (2025) Old Wine in New Bottles: Using Classical Word Embeddings in Gate-Based Quantum NLP Systems. Paper to be presented at the [Quantum AI and NLP Conference 2025](https://qnlp.ai/), Indiana University, August 2025. In D. Cavar, V. Aggarwal, S. Chen, J. Busemeyer (eds.) Quantum AI and NLP 2025, Springer.
 - Damir Cavar, Koushik Reddy Parukola (2025) [Word and Text Similarity Using Classical Word Embeddings in Quantum NLP Systems](https://ieeexplore.ieee.org/document/11010999). Satellite Workshop: [Quantum Machine Learning in Signal Processing and Artificial Intelligence](https://sites.google.com/view/qmlicassp2025/home) at the [2025 IEEE International Conference on Acoustics, Speech, and Signal Processing](https://2025.ieeeicassp.org/). Hyderabad, India.
 - Chi Zhang, Akriti Kumari, [Damir Cavar] (2024) *[Entangled Meanings: Classification and Ambiguity Resolution in Near–Term QNLP](https://ieeexplore.ieee.org/document/10821233).* Paper and Poster presented at the [IEEE Quantum Week 2024](https://qce.quantum.ieee.org/2024/), Montreal, Canada, September 2024. ([full paper](https://ieeexplore.ieee.org/document/10821233), short paper, poster)
@@ -39,7 +39,7 @@ Last change: [Damir Cavar], 2026-03-31
 
 ## Software
 
-- We launched the environment for [Natural Language Qu Kit](https://nlqk.ai/) ([NLQK](https://nlqk.ai/)), a Quantum NLP (QNLP) library - [GitHub repo](https://github.com/dcavar/nlqk), [PyPi project](https://pypi.org/project/nlqk/), [website](https://nlqk.ai/)
+- We launched the [Natural Language Qu Kit](https://nlqk.ai/) ([NLQK](https://nlqk.ai/)), a Quantum NLP (QNLP) library - [GitHub repo](https://github.com/dcavar/nlqk), [PyPi project](https://pypi.org/project/nlqk/), [website](https://nlqk.ai/)
 
 
 [Damir Cavar]: http://damir.cavar.me/ "Damir Cavar"

@@ -18,7 +18,7 @@ Our goals are ambitious:
 
 - to develop a data set that provides enough corpus material to sufficiently document and represent the various manifestations of [ellipsis], and to provide enough data for the engineering of [NLP] solutions
 - to engineer [NLP] components (parsers and language models) that can reconstruct the omitted words and that can provide theoretically adequate and computationally useful [syntactic] parse tree ([Phrase Structure Tree] and [Dependency Tree]) for constructions containing [ellipsis]
-- all this we want to cover for English, Ukrainian, Russian, Chinese, Japanese, Korean, Spanish, German...
+- We aim to cover all of these for English, Ukrainian, Russian, Chinese, Japanese, Korean, Spanish, German, and more.
 
 The corpus format is documented here: [The Hoosier Ellipsis Corpus - Data Format](/ellipsis/data_format)
 
@@ -68,7 +68,7 @@ The main corpus code and data links can be found at:
 
 - [Damir Cavar], [Ludovic V. Mompelat], [Muhammad S. Abdo] (2024) The Typology of Ellipsis: A Corpus for Linguistic Analysis and Machine Learning Applications. Paper to be presented at the [ACL Special Interest Group on Typology](https://sigtyp.github.io/) ([SIGTYP](https://sigtyp.github.io/)) 2024, colocated with the [18th Conference of the European Chapter of the Association for Computational Linguistics](https://2024.eacl.org/), St Julian's, Malta. (full paper)
 
-This presentation is about ellipsis constructions in Arabic and three types of experiments using Logistic Regression, BERT-type of classifiers and guessers, and [GPT-4](https://chat.openai.com/) ([ChatGPT](https://chat.openai.com/)) Large Language Models (LLM) to guess whether sentences contain ellipsis, where the ellipsis is located, and what the elided words are:
+This presentation is about ellipsis constructions in Arabic and three types of experiments using Logistic Regression, BERT-type classifiers and predictors, and [GPT-4](https://chat.openai.com/) ([ChatGPT](https://chat.openai.com/)) Large Language Models (LLM) to guess whether sentences contain ellipsis, where the ellipsis is located, and what the elided words are:
 
 - [Damir Cavar], [Muhammad S. Abdo], and [Billy Dickson] (2024) Ellipsis in Arabic: Using Machine Learning to Detect and Predict Elided Words. Paper presented at the [Arabic Linguistic Society](https://arabic-linguistics-society.uwm.edu/annual-symposia-on-arabic-linguistics/guidelines-for-writing-abstracts/) ([ASAL](https://arabic-linguistics-society.uwm.edu/annual-symposia-on-arabic-linguistics/guidelines-for-writing-abstracts/)) 37 Conference, February 2024, New York City. ([slides](/publications/Ellipsis_IU.pdf))
 
