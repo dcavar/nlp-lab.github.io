@@ -1,11 +1,11 @@
 ## Welcome to The NLP Lab Pages
 
-The Natural Language Processing Lab (NLP-Lab) is focused on theoretical work and implementations of [Artificial Intelligence] ([AI]) and [Natural Language Processing] ([NLP]) solutions using hybrid approaches, empiricist, neural, probabilistic, and knowledge-driven, with a particular interest in neuro-symbolic modeling. We are also interested in [Quantum NLP and AI](https://nlp-lab.org/quantumnlp/) and [NLP] combined with Machine Learning ([ML]) solutions for computer vision and multi-modal information processing. This is related to [Steve Jobs' vision in 1985](https://youtu.be/yolkEfuUaGs).
+The Natural Language Processing Lab (NLP-Lab) is focused on theoretical work and implementations of [Artificial Intelligence] ([AI]) and [Natural Language Processing] ([NLP]) solutions using hybrid empiricist, neural, probabilistic, and knowledge-driven approaches, with a particular interest in neuro-symbolic modeling. We are also interested in [Quantum NLP and AI](https://nlp-lab.org/quantumnlp/) and [NLP] combined with Machine Learning ([ML]) solutions for computer vision and multi-modal information processing — an ambition closely aligned with [Steve Jobs' vision in 1985](https://youtu.be/yolkEfuUaGs).
 
 
-The NLP-Lab is located at [Indiana University at Bloomington](https://iu.edu/). While it is mainly a local group of students and researchers with a strong interest in [AI] and [NLP] here in Indiana, it has ties to colleagues all across the country.
+The NLP-Lab is located at [Indiana University at Bloomington](https://iu.edu/). While it is mainly a local group of students and researchers with a strong interest in [AI] and [NLP] here in Indiana, it maintains connections with colleagues across the country.
 
-There are two independent group meetings: the NLP-Lab discussing general AI and NLP topics, and the Quantum AI Study Group. In addition, we organize occational talks related to Quantum AI.
+There are two independent group meetings: the NLP-Lab, which discusses general AI and NLP topics, and the Quantum AI Study Group. In addition, we organize occasional talks related to Quantum AI.
 
 **NLP-Lab Meetings: During the Spring of 2026, we meet in person every week in Luddy Hall (BLIF) 0002, every Wednesday from 5:30 to 7:00 PM. (See Teams and email announcements for more details.)**
 
@@ -59,8 +59,8 @@ The topics to discuss, papers to read, or presentations to listen to during the 
 
 - Cavar, D. "*The Rise of Agentic AI and How It Will Change Our World*," March 20, 2026 at the Artificial Intelligence for Legal Professionals Conference, Center for International and Comparative Law, Indiana University Robert H. McKinney School of Law.
 - Cavar, D. "*Hybrid Classical/Quantum Data Structures And Experiments For New AI Architectures*," March 25, 2026, Research Technologies Speaker Series, Cyberinfrastructure Building, Indiana University.
-- [Quantum AI Conference 2026](https://qnlp.ai/) (still old website, it will be updated soon) will be August 14th - 16th on the IUI campus in Indianapolis! Stay tuned for updates!
-- The Complex Bidirectional Inducer for Representation Dynamics (CBIRD) is a Language Model trained to be a fully hybrid classical/quantum model, which can be used on CPU/GPU and QPU systems without encoding loss, usable as a state-of-the-art text diffusion model, as a BERT-style bidirectional encoder-only model, etc. - code and model coming soon.
+- [Quantum AI Conference 2026](https://qnlp.ai/) (website currently being updated) will be August 14th–16th on the IUI campus in Indianapolis! Stay tuned for updates!
+- The Complex Bidirectional Inducer for Representation Dynamics (CBIRD) is a Language Model trained to be a fully hybrid classical/quantum model, which can be used on CPU/GPU and QPU systems without encoding loss. It is usable as a state-of-the-art text diffusion model, a BERT-style bidirectional encoder-only model, and more — code and model coming soon.
 - Presentation on "Optimizing Data Structures for Hybrid Classical and Quantum Computing for AI and NLP" ([Damir Cavar]) and discussion at the [iQafé event on December 18th, 2025](https://www.linkedin.com/posts/iqafe_1800-2100-cet-1900-2200-eet-activity-7406607073603567616-m_ot).
 - You can meet some of us at the [Artificial Intelligence and Informatics Consortium](https://consortia.indianapolis.iu.edu/informatics//index.html) ([AI2](https://consortia.indianapolis.iu.edu/informatics//index.html)) events at IU Indianapolis. Check out the [event schedule](https://consortia.indianapolis.iu.edu/informatics/events/index.html). If you need a ride from Bloomington to Indy, get in touch with us.
 - [Quantum Computing for AI and NLP](/publications/Quantum_Computing_For_AI_and_NLP.pdf), presentation at the Luddy School for Informatics, Computing, and Engineering, Indiana University Bloomington, Undergraduate Research Experiential Learning Fall 2025.
@@ -83,7 +83,7 @@ During the 2025-2026 academic year, the focus is on:
 - [Quantum AI and NLP](/quantumnlp)
 - [Substance Abuse Knowledge and AI Systems](/substanceabuse): NIDA Drug Ontology, and substance abuse and slang in social media project
 - [Ontology Learning](/ontology_learning): Learning higher level semantic properties from raw text and images
-- [Large Language Models (LLM), Retrieval-Augmented Generation (RAG), Ontologies, and Knowledge Graphs for Agentive AI: extraction and visualization from relational databases, unstructured text, and images/videos](/kgextraction)
+- [Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), Ontologies, and Knowledge Graphs for Agentive AI: extraction and visualization from relational databases, unstructured text, and images/videos](/kgextraction)
 - Entailment and Reasoning over Knowledge Graphs (and Description Logic/Semantic Web): Using Temporal Graph Neural Networks, Large Language Models, and Knowledge Graphs.
 
 
@@ -115,7 +115,7 @@ During the 2025-2026 academic year, the focus is on:
 | [Tanmayi Balla](https://www.linkedin.com/in/tanmayiballa) | [Rohit Bapat](https://github.com/rohitbapat/) |
 | [Aarushi Bisht](https://github.com/aarushiibisht) | [Jagpreet Singh Chawla](https://github.com/jagpreetschawla) |
 | [Andrew Davis](https://www.linkedin.com/in/adavis94/) | Aravind Dendukuri |
-| Shreeja Deshpanbe | [Ian Devine](https://www.linkedin.com/in/ian-devine-2002/) |
+| Shreeja Deshpande | [Ian Devine](https://www.linkedin.com/in/ian-devine-2002/) |
 | [Rushabh Dharia](https://github.com/rushabhdharia) | [Billy Dickson](https://www.linkedin.com/in/billy-dickson/) |
 | Josephine Douglas | [Dr. Boli Fang](https://github.com/blf11139) |
 | [Matthew Fort](https://www.linkedin.com/in/matthew-fort-07b802236/) | [Benjamin Glidden](https://www.linkedin.com/in/benjamin-glidden/) |
@@ -137,7 +137,7 @@ During the 2025-2026 academic year, the focus is on:
 | [Restrepo Ramos, Dr. Falcon Dario](https://www.linkedin.com/in/falcon-restrepo-ramos-657b74203/) | [Animesh Sagar](https://github.com/animeshsagar) |
 | [Gopal Seshadri](https://github.com/GopalSeshadri) | Victor Shi |
 | Surya Prateek Soni | [Dhananjay Srivastava](https://www.linkedin.com/in/dhananjay-srivastava/) |
-| Ling Sun | Jayapraksh Theyaneshwaran |
+| Ling Sun | Jayaprakash Theyaneshwaran |
 | [Ashutosh Tiwari](https://www.linkedin.com/in/ashutosh--tiwari/) | Rao Imam Ali Wasim |
 | Khai Anthony Willard | [Dr. Yuna Won](http://www.yunawon.net) |
 | Kimball Wu | Yuchen Yang |

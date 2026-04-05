@@ -5,7 +5,7 @@ Created: [Damir Cavar], 2023-06-12
 Last change: [Damir Cavar], 2026-03-31
 
 
-**The Quantum AI Study Group meetings during the Spring semester of 2026 are located in Luddy Hall BLIF 0002 every Thursday from 5:30 to 7:00 PM.**
+**The Quantum AI Study Group meetings during the Spring semester of 2026 are held in Luddy Hall BLIF 0002 every Thursday from 5:30 to 7:00 PM.**
 
 See the public calendar with all the meeting times and details: [NLP-Lab and Quantum Study Group Event Calendar](https://calendar.google.com/calendar/embed?src=3h9o18o7i82tjmmt5q2j3qgkj8%40group.calendar.google.com&ctz=America%2FNew_York).
 
@@ -52,8 +52,8 @@ The topics to discuss, papers to read, or presentations to listen to during the 
 
 - Cavar, D. et al. (2026) Hybrid Classical-Quantum Language and World Models for AI - [CBIRD](https://nlp-lab.org/quantumnlp/cbird). Poster presentation at the [Center for Quantum Technologies](https://www.purdue.edu/cqt/) ([CQT](https://www.purdue.edu/cqt/)) Meeting 2026 at [Notre Dame](https://www.nd.edu/), 1st of April, 2026.
 - Cavar, D. "*Hybrid Classical/Quantum Data Structures And Experiments For New AI Architectures*," March 25, 2026, Research Technologies Speaker Series, Cyberinfrastructure Building, Indiana University.
-- [Quantum AI Conference 2026](https://qnlp.ai/) (still old website, it will be updated soon) will be August 14th - 16th on the IUI campus in Indianapolis! Stay tuned for updates!
-- The Complex Bidirectional Inducer for Representation Dynamics (CBIRD) is a Language Model trained to be a fully hybrid classical/quantum model, which can be used on CPU/GPU and QPU systems without encoding loss, usable as a state-of-the-art text diffusion model, as a BERT-style bidirectional encoder-only model, etc. - code and model coming soon.
+- [Quantum AI Conference 2026](https://qnlp.ai/) (website currently being updated) will be August 14th–16th on the IUI campus in Indianapolis! Stay tuned for updates!
+- The Complex Bidirectional Inducer for Representation Dynamics (CBIRD) is a Language Model trained to be a fully hybrid classical/quantum model, which can be used on CPU/GPU and QPU systems without encoding loss. It is usable as a state-of-the-art text diffusion model, a BERT-style bidirectional encoder-only model, and more — code and model coming soon.
 - Presentation on "Optimizing Data Structures for Hybrid Classical and Quantum Computing for AI and NLP" ([Damir Cavar]) and discussion at the [iQafé event on December 18th, 2025](https://www.linkedin.com/posts/iqafe_1800-2100-cet-1900-2200-eet-activity-7406607073603567616-m_ot).
 - [Quantum Computing for AI and NLP](/publications/Quantum_Computing_For_AI_and_NLP.pdf), presentation at the Luddy School for Informatics, Computing, and Engineering, Indiana University Bloomington, Undergraduate Research Experiential Learning Fall 2025.
 - [Cavar, D.], James Bryan Graves, Shane A. Sparks and Koushik Reddy Parukola (2025) Hybrid Classical Quantum Embeddings for NLP and AI using Hamiltonians. Short paper and poster presented at the [IEEE Quantum Week 2025](https://qce.quantum.ieee.org/2025/), Albuquerque, New Mexico, USA. ([poster](/publications/IEEE_Quantum_Embedding_Poster_Hamiltonian_2025.pdf))
@@ -62,7 +62,7 @@ The topics to discuss, papers to read, or presentations to listen to during the 
 - [QED-C Discussion and Panel on the Future of Quantum and AI](https://sri.zoomgov.com/webinar/register/9717374933023/WN_7AME7O63SZ6EhYan91HoRg#/registration) (March 12th, 2025) ([LinkedIn post](https://www.linkedin.com/posts/qedc_last-call-to-join-us-on-wednesday-march-activity-7304954073571549184-YCZe?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAv4XMUBX2S08vo53W0sGUSFpw814QpqqBs)) with [Cierra Choucair](https://www.linkedin.com/in/cierra-lunde/), [Alain Chancé](https://www.linkedin.com/in/alainchance/), [Damir Cavar](https://damir.cavar.me/), [Bob Coecke](https://www.linkedin.com/in/bob-coecke-9389627/), [Taha Selim](https://www.linkedin.com/in/tiselim/) (the recording is available on the [QED-C YouTube channel](https://youtu.be/5yBo3Jb71so?feature=shared))
 - Damir Cavar, Koushik Reddy Parukola (2025) Word and Text Similarity Using Classical Word Embeddings in Quantum NLP Systems. Satellite Workshop: [Quantum Machine Learning in Signal Processing and Artificial Intelligence](https://sites.google.com/view/qmlicassp2025/home) at the [2025 IEEE International Conference on Acoustics, Speech, and Signal Processing](https://2025.ieeeicassp.org/). Hyderabad, India.
 - [Quantum Artificial Intelligence &amp; Optimization 2025](https://qaio.org/) workshop at the 17th International Conference on Agents and Artificial Intelligence (ICAART).
-- We launched the environment for [Natural Language Qu Kit](https://nlqk.ai/) ([NLQK](https://nlqk.ai/)), a Quantum NLP (QNLP) library - [GitHub repo](https://github.com/dcavar/nlqk), [PyPi project](https://pypi.org/project/nlqk/), [website](https://nlqk.ai/)
+- We launched the [Natural Language Qu Kit](https://nlqk.ai/) ([NLQK](https://nlqk.ai/)), a Quantum NLP (QNLP) library - [GitHub repo](https://github.com/dcavar/nlqk), [PyPi project](https://pypi.org/project/nlqk/), [website](https://nlqk.ai/)
 
 
 ## Events
@@ -85,11 +85,11 @@ The topics to discuss, papers to read, or presentations to listen to during the 
 
 ## Introduction <a name="Introduction"></a>
 
-The Quantum NLP project in the NLP Lab is currently a study group focusing on the most recent papers in Quantum NLP. Our goal is to familiarize everybody with the different tools and environments for QNLP and work on interesting questions related to Quantum and language-related computation or cognitive aspects of language processing and quantum models.
+The Quantum NLP project in the NLP Lab is currently a study group focusing on the most recent papers in Quantum NLP. Our goal is to familiarize participants with the different tools and environments for QNLP and work on interesting questions related to Quantum and language-related computation or cognitive aspects of language processing and quantum models.
 
 The study group meets independently of the NLP Lab weekly meeting at [IU-B](https://www.indiana.edu/). If you want to join this meeting, contact [Damir Cavar] directly.
 
-See also the recent [IU News article](https://news.iu.edu/live/news/37695-iu-led-research-project-aims-to-improve) with some details on that.
+See also the recent [IU News article](https://news.iu.edu/live/news/37695-iu-led-research-project-aims-to-improve) for further details.
 
 - The [Quantum NLP/ML GitHub repo](https://github.com/dcavar/q).
 
@@ -121,7 +121,7 @@ At [Indiana University](https://www.indiana.edu/):
 
 ### Papers:
 
-The papers we were reading are:
+Papers we have read include:
 
 - Laakkonen, Konstantinos, and Coecke (2024) [Quantum Algorithms for Compositional Text Processing](https://arxiv.org/abs/2408.06061).
 - Zhang et al. (2023) [Applications of Quantum Embedding in Computer Vision](https://link.springer.com/chapter/10.1007/978-981-99-8145-8_14) (focus on Quantum Embeddings)
@@ -149,7 +149,7 @@ The papers we were reading are:
 -  Bob Coecke and Aleks Kissinger (2017) [Picturing Quantum Processes: A First Course in Quantum Theory and Diagrammatic Reasoning](https://www.cambridge.org/core/books/picturing-quantum-processes/1119568B3101F3A685BE832FEEC53E52), Cambridge University Press.
 
 
-Relevant literature from Cognitive Science and Psychology, related to language:
+Relevant literature from Cognitive Science and Psychology:
 
 - Jerome R. Busemeyer and Peter D. Bruza (2012) *[Quantum Models of Cognition and Decision](https://www.cambridge.org/core/books/quantum-models-of-cognition-and-decision/75909428F710F7C6AF7D580CB83443AC)*. Cambridge University Press. (FYI: the second edition is coming out soon and it has a special chapter on Large Language Models!)
 
@@ -192,7 +192,7 @@ Relevant literature from Cognitive Science and Psychology, related to language:
 
 ## Cloud Services for Quantum Computation <a name="cloud_services"></a>
 
-- [Amazon Bracket](https://aws.amazon.com/braket/)
+- [Amazon Braket](https://aws.amazon.com/braket/)
 - [IBM Quantum](https://www.ibm.com/quantum)
 - [Intel Quantum](https://www.intel.com/content/www/us/en/research/quantum-computing.html)
 - [Microsoft Azure Quantum cloud service](https://azure.microsoft.com/en-us/products/quantum/)
