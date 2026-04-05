@@ -83,7 +83,7 @@ During the summer of 2020 we engaged in an international Datathon and Hackathon 
 - [Project Page](/antisemitism)
 
 
-## Previous projects foci:
+## Previous research topics:
 
 - [Ellipsis and Empty Element Parsing](/ellipsis)
 - [Discontinuity and Non-local Dependency Processing in Natural Language Discourse](/discontinuities)

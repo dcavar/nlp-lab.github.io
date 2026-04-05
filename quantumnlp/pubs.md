@@ -13,7 +13,7 @@ Last change: [Damir Cavar], 2026-03-31
 ## Poster Presentations
 
 - [Quantum Computing for AI and NLP](/publications/Quantum_Computing_For_AI_and_NLP.pdf), presentation at the Luddy School for Informatics, Computing, and Engineering, Indiana University Bloomington, Undergraduate Research Experiential Learning Fall 2025.
-- [Cavar, D.], James Bryan Graves, Shane A. Sparks and Koushik Reddy Parukola (2025) Hybrid Classical Quantum Embeddings for NLP and AI using Hamiltonians. Short paper and poster presented at the [IEEE Quantum Week 2025](Albuquerque, New Mexico, USA), Albuquerque, New Mexico, USA. ([poster](/publications/IEEE_Quantum_Embedding_Poster_Hamiltonian_2025.pdf))
+- [Cavar, D.], James Bryan Graves, Shane A. Sparks and Koushik Reddy Parukola (2025) Hybrid Classical Quantum Embeddings for NLP and AI using Hamiltonians. Short paper and poster presented at the [IEEE Quantum Week 2025](https://qce.quantum.ieee.org/2025/), Albuquerque, New Mexico, USA. ([poster](/publications/IEEE_Quantum_Embedding_Poster_Hamiltonian_2025.pdf))
 
 
 ## Talks 

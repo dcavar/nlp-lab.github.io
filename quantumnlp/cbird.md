@@ -25,7 +25,7 @@ CBIRD is a hybrid complex-valued language model based on the core BERT architect
 
 ## Presentations
 
-- [Damir Cavar], Shane Sparks, Soren DeHaan, Ronit Jha, Ayomide Jeje, Yanin Charoenpomsawat, Sam Gray Miller (2026) Hybrid Classical-Quantum Language and World Models for AI - CBIRD. Poster presentation at the [Center for Quantum Technologies](https://www.purdue.edu/cqt/) ([CQT])(https://www.purdue.edu/cqt/) Meeting 2026 at Notre Dame, 1st of April, 2026.
+- [Damir Cavar], Shane Sparks, Soren DeHaan, Ronit Jha, Ayomide Jeje, Yanin Charoenpomsawat, Sam Gray Miller (2026) Hybrid Classical-Quantum Language and World Models for AI - CBIRD. Poster presentation at the [Center for Quantum Technologies](https://www.purdue.edu/cqt/) ([CQT](https://www.purdue.edu/cqt/)) Meeting 2026 at Notre Dame, 1st of April, 2026.
 
 
 

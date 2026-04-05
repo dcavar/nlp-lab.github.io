@@ -12,7 +12,7 @@ This repo contains the code examples for the practical Webinar held by [Damir Ca
 
 During the summer of 2020, that is during the Covid-19 pandemic and under lockdown, we managed an international Datathon and Hackathon, focusing on antisemitic tweets and the development of corpora and machine learning algorithms to classify and label hate-speech and antisemitic content.
 
-Here are some articles and resources that document this project the the current outcomes:
+Here are some articles and resources that document this project the current outcomes:
 
 - [Antisemitism Datathon and Hackathon event challenges students to grow socially and technologically](https://news.iu.edu/stories/2020/07/iub/24-antisemitism-workshop-twitter-competition-hackathon-datathon.html)
 - [Antisemitism on Social Media Datathon and Hackathon](https://isca.indiana.edu/news-events/Antisemitism-on-Social-Media-Workshops-in-May-2020.html)
@@ -28,7 +28,7 @@ The [award ceremony](https://isca.indiana.edu/news-events/Awards-Ceremony.-Datat
 
 ## Publications
 
-- [Günther Jikeli], [Damir Cavar], Weejeong Jeong, Daniel Miehling, Pauravi Wagh, Denizhan Pak (2022) *Toward an AI Definition of Antisemitism?* Pages 193-212 in M. Hübscher and S. von Mering (eds.) *Antisemitism on Social Media*. Routlage, New York.
+- [Günther Jikeli], [Damir Cavar], Weejeong Jeong, Daniel Miehling, Pauravi Wagh, Denizhan Pak (2022) *Toward an AI Definition of Antisemitism?* Pages 193-212 in M. Hübscher and S. von Mering (eds.) *Antisemitism on Social Media*. Routladge, New York.
 
 - [Annotating Antisemitic Online Content: Towards an  Applicable Definition of Antisemitism](https://arxiv.org/ftp/arxiv/papers/1910/1910.01214.pdf) (2019) [Günther Jikeli], [Damir Cavar], Daniel Miehling.
 
