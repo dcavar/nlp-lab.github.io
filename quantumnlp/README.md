@@ -50,6 +50,9 @@ The topics to discuss, papers to read, or presentations to listen to during the 
 
 ## News
 
+- Cavar, D., Peter Sullivan, Shane Sparks, Sam Gray Miller, Ronit Jha, Ayomide Jeje, Yanin Charoenpornsawat​ (2026) Training Language Models and Embeddings for Hybrid Classical/Quantum Computing​. Poster presented at the [Midwest Speech and Language Days](https://nlp.cs.illinois.edu/msld.html) at the [University of Illinois in Urbana-Champaign](https://illinois.edu/).
+- Cavar, D., Shane Sparks, Soren DeHaan, Ronit Jha, Ayomide Jeje, Yanin Charoenpomsawat, Sam Gray Miller (2026) Hybrid Classical-Quantum Language and World Models for AI - [CBIRD](https://nlp-lab.org/quantumnlp/cbird), Poster presentation at the [Center for Quantum Technologies](https://www.purdue.edu/cqt/) ([CQT](https://www.purdue.edu/cqt/)) Meeting 2026 at [Notre Dame](https://www.nd.edu/), 1st of April, 2026.
+- Cavar, D. "*From Vectors to Qubits: Rethinking AI Models for the Hybrid Classical–Quantum Era*," invited keynote lecture, September 16-18, 2026 at the [37th Central European Conference on Information and Intelligent Systems](https://ceciis.foi.hr/) ([CECIIS 2026](https://ceciis.foi.hr/)), Varaždin, Croatia.
 - Cavar, D. et al. (2026) Hybrid Classical-Quantum Language and World Models for AI - [CBIRD](https://nlp-lab.org/quantumnlp/cbird). Poster presentation at the [Center for Quantum Technologies](https://www.purdue.edu/cqt/) ([CQT](https://www.purdue.edu/cqt/)) Meeting 2026 at [Notre Dame](https://www.nd.edu/), 1st of April, 2026.
 - Cavar, D. "*Hybrid Classical/Quantum Data Structures And Experiments For New AI Architectures*," March 25, 2026, Research Technologies Speaker Series, Cyberinfrastructure Building, Indiana University.
 - [Quantum AI Conference 2026](https://qnlp.ai/) (website currently being updated) will be August 14th–16th on the IUI campus in Indianapolis! Stay tuned for updates!
