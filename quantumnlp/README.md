@@ -2,7 +2,7 @@
 
 Created: [Damir Cavar], 2023-06-12
 
-Last change: [Damir Cavar], 2026-03-31
+Last change: [Damir Cavar], 2026-04-19
 
 
 **The Quantum AI Study Group meetings during the Spring semester of 2026 are held in Luddy Hall BLIF 0002 every Thursday from 5:30 to 7:00 PM.**
