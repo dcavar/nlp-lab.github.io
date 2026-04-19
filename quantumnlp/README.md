@@ -31,6 +31,9 @@ The topics to discuss, papers to read, or presentations to listen to during the 
 | 03/26/2026 | Classical and Quantum Embeddings - [CBIRD](https://nlp-lab.org/quantumnlp/cbird) Project - Data preparation and model training |
 | 04/01/2026 | [CQT](https://www.purdue.edu/cqt/) meeting at Notre Dame presenting [CBIRD](https://nlp-lab.org/quantumnlp/cbird) Project - Damir Cavar and Pete Sullivan |
 | 04/02/2026 | Running [CBIRD](https://nlp-lab.org/quantumnlp/cbird) training - corpus and data format discussion |
+| 04/09/2026 | Running [CBIRD](https://nlp-lab.org/quantumnlp/cbird) training - corpus and data format discussion |
+| 04/16/2026 | Running [CBIRD](https://nlp-lab.org/quantumnlp/cbird) training - corpus and data format discussion |
+| 04/23/2026 | Running [CBIRD](https://nlp-lab.org/quantumnlp/cbird) training - corpus and data format discussion, Qiskit 2.0 Certificate preparation and presentations |
 | ... | |
 
 

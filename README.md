@@ -42,6 +42,8 @@ The topics to discuss, papers to read, or presentations to listen to during the 
 | 03/18/2026 | Spring break - no meeting |
 | 03/25/2026 | Regular meeting: Dove Recovery House project, NIDA Drugs AI and Ontology project |
 | 04/01/2026 | Regular meeting: Dove Recovery House project, NIDA Drugs AI and Ontology project - Damir at [CQT](https://www.purdue.edu/cqt/) meeting at [Notre Dame](https://www.nd.edu/) presenting |
+| 04/15/2026 | Team presenting 5 posters at the [Midwest Speech and Language Days](https://nlp.cs.illinois.edu/msld.html) |
+| 04/22/2026 | Regular meeting: Dove Recovery House project, NIDA Drugs AI and Ontology project - preparing report and data for the Dove Recovery House Project |
 | ... | |
 
 
