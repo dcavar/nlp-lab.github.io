@@ -7,11 +7,11 @@ The NLP-Lab is located at [Indiana University at Bloomington](https://iu.edu/). 
 
 There are two independent group meetings: the NLP-Lab, which discusses general AI and NLP topics, and the Quantum AI Study Group. In addition, we organize occasional talks related to Quantum AI.
 
-**NLP-Lab Meetings: During the Spring of 2026, we meet in person every week in Luddy Hall (BLIF) 0002, every Wednesday from 5:30 to 7:00 PM. (See Teams and email announcements for more details.)**
+**NLP-Lab Meetings: During the Spring of 2026, we meet in person every week in Luddy Hall (BL IF) 0002, every Wednesday from 5:30 to 7:00 PM. (See Teams and email announcements for more details.)**
 
-**[The Quantum AI Study Group](https://nlp-lab.org/quantumnlp/) meetings are in Luddy Hall (BLIF) 0002 every Thursday from 5:30 to 7:00 PM.**
+**[The Quantum AI Study Group](https://nlp-lab.org/quantumnlp/) meetings are in Luddy Hall (BL IF) 0002 every Thursday from 5:30 to 7:00 PM.**
 
-**[The Quantum AI Study Group Talks](https://nlp-lab.org/quantumnlp/) are typically scheduled for Fridays at 4 PM in Luddy Hall (BLIF) 0002 or online.**
+**[The Quantum AI Study Group Talks](https://nlp-lab.org/quantumnlp/) are typically scheduled for Fridays at 4 PM in Luddy Hall (BL IF) 0002 or online.**
 
 **Please contact [Damir Cavar] if you are interested in joining the NLP-Lab meetings.**
 
@@ -28,7 +28,7 @@ The topics to discuss, papers to read, or presentations to listen to during the 
 
 | **Date** | **Topic** |
 | -------- | --------- |
-| 01/01-13/2026 | Break |
+| 01/01/2026 - 01/13/2026 | Break |
 | 01/14/2026 | Regular meeting: NIDA Drugs AI and Ontology project |
 | 01/21/2026 | Regular meeting: NIDA Drugs AI and Ontology project |
 | 01/28/2026 | Regular meeting: NIDA Drugs AI and Ontology project |
@@ -42,6 +42,7 @@ The topics to discuss, papers to read, or presentations to listen to during the 
 | 03/18/2026 | Spring break - no meeting |
 | 03/25/2026 | Regular meeting: Dove Recovery House project, NIDA Drugs AI and Ontology project |
 | 04/01/2026 | Regular meeting: Dove Recovery House project, NIDA Drugs AI and Ontology project - Damir at [CQT](https://www.purdue.edu/cqt/) meeting at [Notre Dame](https://www.nd.edu/) presenting |
+| 04/08/2026 | Preparing posters for the [Midwest Speech and Language Days](https://nlp.cs.illinois.edu/msld.html) |
 | 04/15/2026 | Team presenting 5 posters at the [Midwest Speech and Language Days](https://nlp.cs.illinois.edu/msld.html) |
 | 04/22/2026 | Regular meeting: Dove Recovery House project, NIDA Drugs AI and Ontology project - preparing report and data for the Dove Recovery House Project |
 | ... | |
@@ -59,10 +60,10 @@ The topics to discuss, papers to read, or presentations to listen to during the 
 
 ([Old news...](/old_news))
 
-- Cavar, D., Peter Sullivan, Shane Sparks, Sam Gray Miller, Ronit Jha, Ayomide Jeje, Yanin Charoenpornsawat​ (2026) Training Language Models and Embeddings for Hybrid Classical/Quantum Computing​. Poster presented at the [Midwest Speech and Language Days](https://nlp.cs.illinois.edu/msld.html) at the [University of Illinois in Urbana-Champaign](https://illinois.edu/).
+- Cavar, D., Peter Sullivan, Shane Sparks, Sam Gray Miller, Ronit Jha, Ayomide Jeje, Yanin Charoenpomsawat (2026) Training Language Models and Embeddings for Hybrid Classical/Quantum Computing. Poster presented at the [Midwest Speech and Language Days](https://nlp.cs.illinois.edu/msld.html) at the [University of Illinois in Urbana-Champaign](https://illinois.edu/).
 - Cavar, D., Naishal Nehal Shah (2026) LLM OntologyRAG - Extending a Food-Agent with a Description Logic Knowledge Representation. Poster presented at the [Midwest Speech and Language Days](https://nlp.cs.illinois.edu/msld.html) at the [University of Illinois in Urbana-Champaign](https://illinois.edu/).
-- Cavar, D., Shruthi Nagappan, Kumar Koushik Telaprolu, Amy Stafford, Maria A. Parker, Danny Valdez​ (2026) Detecting Emerging Drug Slang and Code Language in Social Media Posts​.  Poster presented at the [Midwest Speech and Language Days](https://nlp.cs.illinois.edu/msld.html) at the [University of Illinois in Urbana-Champaign](https://illinois.edu/).
-- Abdo, Muhammad S., Damir Cavar​ (2026) Ontology-Grounded Knowledge Graph Construction for Alzheimer's Research. Poster presented at the [Midwest Speech and Language Days](https://nlp.cs.illinois.edu/msld.html) at the [University of Illinois in Urbana-Champaign](https://illinois.edu/).
+- Cavar, D., Shruthi Nagappan, Kumar Koushik Telaprolu, Amy Stafford, Maria A. Parker, Danny Valdez (2026) Detecting Emerging Drug Slang and Code Language in Social Media Posts.  Poster presented at the [Midwest Speech and Language Days](https://nlp.cs.illinois.edu/msld.html) at the [University of Illinois in Urbana-Champaign](https://illinois.edu/).
+- Abdo, Muhammad S., Damir Cavar (2026) Ontology-Grounded Knowledge Graph Construction for Alzheimer's Research. Poster presented at the [Midwest Speech and Language Days](https://nlp.cs.illinois.edu/msld.html) at the [University of Illinois in Urbana-Champaign](https://illinois.edu/).
 - Cavar, D., Shane Sparks, Soren DeHaan, Ronit Jha, Ayomide Jeje, Yanin Charoenpomsawat, Sam Gray Miller (2026) Hybrid Classical-Quantum Language and World Models for AI - [CBIRD](https://nlp-lab.org/quantumnlp/cbird), Poster presentation at the [Center for Quantum Technologies](https://www.purdue.edu/cqt/) ([CQT](https://www.purdue.edu/cqt/)) Meeting 2026 at [Notre Dame](https://www.nd.edu/), 1st of April, 2026.
 - Cavar, D. "*From Vectors to Qubits: Rethinking AI Models for the Hybrid Classical–Quantum Era*," invited keynote lecture, September 16-18, 2026 at the [37th Central European Conference on Information and Intelligent Systems](https://ceciis.foi.hr/) ([CECIIS 2026](https://ceciis.foi.hr/)), Varaždin, Croatia.
 - Cavar, D. "*The Rise of Agentic AI and How It Will Change Our World*," March 20, 2026 at the Artificial Intelligence for Legal Professionals Conference, Center for International and Comparative Law, Indiana University Robert H. McKinney School of Law.
@@ -70,7 +71,7 @@ The topics to discuss, papers to read, or presentations to listen to during the 
 - [Quantum AI Conference 2026](https://qnlp.ai/) (website currently being updated) will be August 14th–16th on the IUI campus in Indianapolis! Stay tuned for updates!
 - The Complex Bidirectional Inducer for Representation Dynamics (CBIRD) is a Language Model trained to be a fully hybrid classical/quantum model, which can be used on CPU/GPU and QPU systems without encoding loss. It is usable as a state-of-the-art text diffusion model, a BERT-style bidirectional encoder-only model, and more — code and model coming soon.
 - Presentation on "Optimizing Data Structures for Hybrid Classical and Quantum Computing for AI and NLP" ([Damir Cavar]) and discussion at the [iQafé event on December 18th, 2025](https://www.linkedin.com/posts/iqafe_1800-2100-cet-1900-2200-eet-activity-7406607073603567616-m_ot).
-- You can meet some of us at the [Artificial Intelligence and Informatics Consortium](https://consortia.indianapolis.iu.edu/informatics//index.html) ([AI2](https://consortia.indianapolis.iu.edu/informatics//index.html)) events at IU Indianapolis. Check out the [event schedule](https://consortia.indianapolis.iu.edu/informatics/events/index.html). If you need a ride from Bloomington to Indy, get in touch with us.
+- You can meet some of us at the [Artificial Intelligence and Informatics Consortium](https://consortia.indianapolis.iu.edu/informatics/index.html) ([AI2](https://consortia.indianapolis.iu.edu/informatics//index.html)) events at IU Indianapolis. Check out the [event schedule](https://consortia.indianapolis.iu.edu/informatics/events/index.html). If you need a ride from Bloomington to Indy, get in touch with us.
 - [Quantum Computing for AI and NLP](/publications/Quantum_Computing_For_AI_and_NLP.pdf), presentation at the Luddy School for Informatics, Computing, and Engineering, Indiana University Bloomington, Undergraduate Research Experiential Learning Fall 2025.
 - [Substance Abuse Knowledge and AI Systems Poster](/publications/Substance_Abuse_Knowledge_and_AI_Systems_Poster.pdf), presentation at the Luddy School for Informatics, Computing, and Engineering, Indiana University Bloomington, Undergraduate Research Experiential Learning Fall 2025.
 - [Quantum Artificial Intelligence and Natural Language Processing Conference 2025](https://qnlp.ai/) at Indiana University in August 2025.
