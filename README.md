@@ -1,11 +1,11 @@
-## Welcome to The NLP Lab Pages
+## Welcome to The AI &amp; NLP Lab Pages
 
-The Natural Language Processing Lab (NLP-Lab) is focused on theoretical work and implementations of [Artificial Intelligence] ([AI]) and [Natural Language Processing] ([NLP]) solutions using hybrid empiricist, neural, probabilistic, and knowledge-driven approaches, with a particular interest in neuro-symbolic modeling. We are also interested in [Quantum NLP and AI](https://nlp-lab.org/quantumnlp/) and [NLP] combined with Machine Learning ([ML]) solutions for computer vision and multi-modal information processing — an ambition closely aligned with [Steve Jobs' vision in 1985](https://youtu.be/yolkEfuUaGs).
+The AI &amp; Natural Language Processing Lab (NLP-Lab) is focused on theoretical work and implementations of [Artificial Intelligence] ([AI]) and [Natural Language Processing] ([NLP]) solutions using hybrid empiricist, neural, probabilistic, and knowledge-driven approaches, with a particular interest in neuro-symbolic modeling. We are also interested in [Quantum NLP and AI](https://nlp-lab.org/quantumnlp/) and [NLP] combined with Machine Learning ([ML]) solutions for computer vision and multi-modal information processing — an ambition closely aligned with [Steve Jobs' vision in 1985](https://youtu.be/yolkEfuUaGs).
 
 
 The NLP-Lab is located at [Indiana University at Bloomington](https://iu.edu/). While it is mainly a local group of students and researchers with a strong interest in [AI] and [NLP] here in Indiana, it maintains connections with colleagues across the country.
 
-There are two independent group meetings: the NLP-Lab, which discusses general AI and NLP topics, and the Quantum AI Study Group. In addition, we organize occasional talks related to Quantum AI.
+There are two independent group meetings: the NLP-Lab, which discusses general AI and NLP topics, and the [Quantum AI Study Group](https://nlp-lab.org/quantumnlp/). In addition, we organize occasional talks related to Quantum AI.
 
 **NLP-Lab Meetings: During the Spring of 2026, we meet in person every week in Luddy Hall (BL IF) 0002, every Wednesday from 5:30 to 7:00 PM. (See Teams and email announcements for more details.)**
 
