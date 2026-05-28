@@ -1,6 +1,6 @@
 ## Welcome to The AI &amp; NLP Lab Pages
 
-The AI &amp; Natural Language Processing Lab (NLP-Lab) is focused on theoretical work and implementations of [Artificial Intelligence] ([AI]) and [Natural Language Processing] ([NLP]) solutions using hybrid empiricist, neural, probabilistic, and knowledge-driven approaches, with a particular interest in neuro-symbolic modeling. We are also interested in [Quantum NLP and AI](https://nlp-lab.org/quantumnlp/) and [NLP] combined with Machine Learning ([ML]) solutions for computer vision and multi-modal information processing — an ambition closely aligned with [Steve Jobs' vision in 1985](https://youtu.be/yolkEfuUaGs).
+The AI &amp; Natural Language Processing Lab (NLP-Lab) is focused on theoretical work and implementations of [Artificial Intelligence] ([AI]) and [Natural Language Processing] ([NLP]) solutions using hybrid empiricist, neural, probabilistic, and knowledge-driven approaches, with a particular interest in neuro-symbolic modeling. We are also interested in [Quantum AI](https://nlp-lab.org/quantumnlp/) and [NLP] combined with Machine Learning ([ML]) solutions for computer vision and multi-modal information processing — an ambition closely aligned with [Steve Jobs' vision in 1985](https://youtu.be/yolkEfuUaGs).
 
 
 The AI&amp;NLP-Lab is located at [Indiana University at Bloomington](https://iu.edu/). While it is mainly a local group of students and researchers with a strong interest in [AI] and [NLP] here in Indiana, it maintains connections with colleagues across the country.
