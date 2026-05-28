@@ -3,17 +3,17 @@
 The AI &amp; Natural Language Processing Lab (NLP-Lab) is focused on theoretical work and implementations of [Artificial Intelligence] ([AI]) and [Natural Language Processing] ([NLP]) solutions using hybrid empiricist, neural, probabilistic, and knowledge-driven approaches, with a particular interest in neuro-symbolic modeling. We are also interested in [Quantum NLP and AI](https://nlp-lab.org/quantumnlp/) and [NLP] combined with Machine Learning ([ML]) solutions for computer vision and multi-modal information processing — an ambition closely aligned with [Steve Jobs' vision in 1985](https://youtu.be/yolkEfuUaGs).
 
 
-The NLP-Lab is located at [Indiana University at Bloomington](https://iu.edu/). While it is mainly a local group of students and researchers with a strong interest in [AI] and [NLP] here in Indiana, it maintains connections with colleagues across the country.
+The AI&amp;NLP-Lab is located at [Indiana University at Bloomington](https://iu.edu/). While it is mainly a local group of students and researchers with a strong interest in [AI] and [NLP] here in Indiana, it maintains connections with colleagues across the country.
 
 There are two independent group meetings: the NLP-Lab, which discusses general AI and NLP topics, and the [Quantum AI Study Group](https://nlp-lab.org/quantumnlp/). In addition, we organize occasional talks related to Quantum AI.
 
-**NLP-Lab Meetings: During the Spring of 2026, we meet in person every week in Luddy Hall (BL IF) 0002, every Wednesday from 5:30 to 7:00 PM. (See Teams and email announcements for more details.)**
+**AI and NLP Lab Meetings: During the Summer of 2026, we meet in person every week in Luddy Hall (BL IF) 0002, every Wednesday from 4:00 to 5:30 PM. (See Teams and email announcements for more details.)**
 
-**[The Quantum AI Study Group](https://nlp-lab.org/quantumnlp/) meetings are in Luddy Hall (BL IF) 0002 every Thursday from 5:30 to 7:00 PM.**
+**[The Quantum AI Study Group](https://nlp-lab.org/quantumnlp/) meetings are in Luddy Hall (BL IF) 0002 every Tuesday from 4:00 to 5:30 PM.**
 
 **[The Quantum AI Study Group Talks](https://nlp-lab.org/quantumnlp/) are typically scheduled for Fridays at 4 PM in Luddy Hall (BL IF) 0002 or online.**
 
-**Please contact [Damir Cavar] if you are interested in joining the NLP-Lab meetings.**
+**Please contact [Damir Cavar] if you are interested in joining the AI&amp;NLP-Lab meetings.**
 
 
 - [Publications](/publications)
@@ -24,27 +24,12 @@ There are two independent group meetings: the NLP-Lab, which discusses general A
 
 ## Schedule
 
-The topics to discuss, papers to read, or presentations to listen to during the Spring of 2026 meetings:
+The topics to discuss, papers to read, or presentations to listen to during the Summer of 2026 meetings:
 
 | **Date** | **Topic** |
 | -------- | --------- |
-| 01/01/2026 - 01/13/2026 | Break |
-| 01/14/2026 | Regular meeting: NIDA Drugs AI and Ontology project |
-| 01/21/2026 | Regular meeting: NIDA Drugs AI and Ontology project |
-| 01/28/2026 | Regular meeting: NIDA Drugs AI and Ontology project |
-| 02/04/2026 | Regular meeting: paper submission preparation and meeting, Dove Recovery House project, Alzheimer's and Cancer KGs and Agentive models |
-| 02/11/2026 | Regular meeting: paper submission preparation and meeting, Dove Recovery House project, Alzheimer's and Cancer KGs and Agentive models |
-| 02/18/2026 | Regular meeting: Dove Recovery House project, NIDA Drugs AI and Ontology project |
-| 02/25/2026 | Regular meeting: Dove Recovery House project, NIDA Drugs AI and Ontology project |
-| 03/04/2026 | Regular meeting: Dove Recovery House project, NIDA Drugs AI and Ontology project - papers, data collection |
-| 03/11/2026 | Regular meeting: Dove Recovery House project, NIDA Drugs AI and Ontology project |
-| 03/14/2026 | Pi-Day and Quantum Day = Lab Party! Cookout meeting and best dish competition! |
-| 03/18/2026 | Spring break - no meeting |
-| 03/25/2026 | Regular meeting: Dove Recovery House project, NIDA Drugs AI and Ontology project |
-| 04/01/2026 | Regular meeting: Dove Recovery House project, NIDA Drugs AI and Ontology project - Damir at [CQT](https://www.purdue.edu/cqt/) meeting at [Notre Dame](https://www.nd.edu/) presenting |
-| 04/08/2026 | Preparing posters for the [Midwest Speech and Language Days](https://nlp.cs.illinois.edu/msld.html) |
-| 04/15/2026 | Team presenting 5 posters at the [Midwest Speech and Language Days](https://nlp.cs.illinois.edu/msld.html) |
-| 04/22/2026 | Regular meeting: Dove Recovery House project, NIDA Drugs AI and Ontology project - preparing report and data for the Dove Recovery House Project |
+| 05/27/2026 | Regular meeting: NIDA Drugs AI and Ontology project, Dove Recovery House final material and report |
+| 06/03/2026 | Regular meeting: NIDA Drugs AI and Ontology project |
 | ... | |
 
 
@@ -53,6 +38,7 @@ The topics to discuss, papers to read, or presentations to listen to during the 
 - [Spring 2025](/meetingschedule_spring_2025)
 - [Summer 2025](/meetingschedule_summer_2025)
 - [Fall 2025](/meetingschedule_fall_2025)
+- [Spring 2026](/meetingschedule_spring_2026)
 
 
 
@@ -60,6 +46,9 @@ The topics to discuss, papers to read, or presentations to listen to during the 
 
 ([Old news...](/old_news))
 
+- Cavar, D., Daniel Quigley, Sam Gray Miller (2026) Quantum Computing with AI Embeddings and Training of Hybrid
+Classical/Quantum AI Models (MLMs and LLMs). Tutorial at the [2026 IEEE 2nd International Conference
+on Quantum Artificial Intelligence](https://attend.ieee.org/qai-2026/) ([QAI](https://attend.ieee.org/qai-2026/)) in Nottingham, UK.
 - Cavar, D. "*From Vectors to Qubits: Rethinking AI Models for the Hybrid Classical–Quantum Era*," [invited keynote lecture](https://ceciis.foi.hr/news/ceciis-2026-keynote-speakers-announced), September 16-18, 2026 at the [37th Central European Conference on Information and Intelligent Systems](https://ceciis.foi.hr/) ([CECIIS 2026](https://ceciis.foi.hr/)), Varaždin, Croatia.
 - Cavar, D., Peter Sullivan, Shane Sparks, Sam Gray Miller, Ronit Jha, Ayomide Jeje, Yanin Charoenpomsawat (2026) [Training Language Models and Embeddings for Hybrid Classical/Quantum Computing](/publications/MSLD_2026_CBIRD_Poster1.pdf). Poster presented at the [Midwest Speech and Language Days](https://nlp.cs.illinois.edu/msld.html) at the [University of Illinois in Urbana-Champaign](https://illinois.edu/).
 - Cavar, D., Naishal Nehal Shah (2026) LLM OntologyRAG - Extending a Food-Agent with a Description Logic Knowledge Representation. Poster presented at the [Midwest Speech and Language Days](https://nlp.cs.illinois.edu/msld.html) at the [University of Illinois in Urbana-Champaign](https://illinois.edu/).

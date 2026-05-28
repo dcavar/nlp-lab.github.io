@@ -4,7 +4,7 @@ Created: [Damir Cavar], 2025-01-12
 
 Last change: [Damir Cavar], 2025-01-12
 
-Back to the [Quantum Study Group](/quantumnlp/)
+Back to the [Quantum AI Study Group](/quantumnlp/)
 
 
 The topics discussed, papers read, and presentations by guest speakers during the Fall 2024 meetings:

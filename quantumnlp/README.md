@@ -2,39 +2,26 @@
 
 Created: [Damir Cavar], 2023-06-12
 
-Last change: [Damir Cavar], 2026-04-19
+Last change: [Damir Cavar], 2026-05-28
 
 
-**The Quantum AI Study Group meetings during the Spring semester of 2026 are held in Luddy Hall BL IF 0002 every Thursday from 5:30 to 7:00 PM.**
+**The Quantum AI Study Group meetings during the Summer of 2026 are held in Luddy Hall BL IF 0002 every Tuesday from 4:00 to 5:30 PM.**
 
-See the public calendar with all the meeting times and details: [AI &amp; NLP-Lab and Quantum Study Group Event Calendar](https://calendar.google.com/calendar/embed?src=3h9o18o7i82tjmmt5q2j3qgkj8%40group.calendar.google.com&ctz=America%2FNew_York).
+See the public calendar with all the meeting times and details: [AI &amp; NLP-Lab and Quantum AI Study Group Event Calendar](https://calendar.google.com/calendar/embed?src=3h9o18o7i82tjmmt5q2j3qgkj8%40group.calendar.google.com&ctz=America%2FNew_York).
 
 
 ## Schedule
 
-The topics to discuss, papers to read, or presentations to listen to during the Spring of 2026:
+The topics to discuss, papers to read, or presentations to listen to during the Summer of 2026:
 
 | **Date** | **Topic** |
 | -------- | --------- |
-| Jan. 2026 | Winter Break |
-| 01/15/2026 | Classical and Quantum Embeddings - [CBIRD](https://nlp-lab.org/quantumnlp/cbird) Project - Model Training |
-| 01/22/2026 | Classical and Quantum Embeddings - [CBIRD](https://nlp-lab.org/quantumnlp/cbird) Project - Model Training |
-| 01/29/2026 | Classical and Quantum Embeddings - [CBIRD](https://nlp-lab.org/quantumnlp/cbird) Project - Model Evaluation |
-| 02/05/2026 | Classical and Quantum Embeddings - [CBIRD](https://nlp-lab.org/quantumnlp/cbird) Project - Data preparation and model training |
-| 02/12/2026 | Classical and Quantum Embeddings - [CBIRD](https://nlp-lab.org/quantumnlp/cbird) Project - Data preparation and model training |
-| 02/19/2026 | Classical and Quantum Embeddings - [CBIRD](https://nlp-lab.org/quantumnlp/cbird) Project - Data preparation and model training; [Quantum AI 2026](https://qnlp.ai/) Conference Preparation |
-| 02/26/2026 | Classical and Quantum Embeddings - [CBIRD](https://nlp-lab.org/quantumnlp/cbird) Project - Data preparation and model training |
-| 03/05/2026 | Classical and Quantum Embeddings - [CBIRD](https://nlp-lab.org/quantumnlp/cbird) Project - Data preparation and model training |
-| 03/12/2026 | Math and C++ code for [CBIRD](https://nlp-lab.org/quantumnlp/cbird) Project |
-| 03/14/2026 | Pi-Day and Quantum Day = Lab Party! Cookout meeting and best dish competition! |
-| 03/19/2026 | Spring break - no meeting |
-| 03/26/2026 | Classical and Quantum Embeddings - [CBIRD](https://nlp-lab.org/quantumnlp/cbird) Project - Data preparation and model training |
-| 04/01/2026 | [CQT](https://www.purdue.edu/cqt/) meeting at Notre Dame presenting [CBIRD](https://nlp-lab.org/quantumnlp/cbird) Project - Damir Cavar and Pete Sullivan |
-| 04/02/2026 | Running [CBIRD](https://nlp-lab.org/quantumnlp/cbird) training - corpus and data format discussion |
-| 04/09/2026 | Running [CBIRD](https://nlp-lab.org/quantumnlp/cbird) training - corpus and data format discussion |
-| 04/16/2026 | Running [CBIRD](https://nlp-lab.org/quantumnlp/cbird) training - corpus and data format discussion |
-| 04/23/2026 | Running [CBIRD](https://nlp-lab.org/quantumnlp/cbird) training - corpus and data format discussion, Qiskit 2.0 Certificate preparation and presentations |
+| 05/26/2026 | Classical and Quantum Embeddings - [CBIRD](https://nlp-lab.org/quantumnlp/cbird) Project - Model Training |
+| 06/02/2026 | Classical and Quantum Embeddings - [CBIRD](https://nlp-lab.org/quantumnlp/cbird) Project - Model Training finally with results... |
+| 06/09/2026 | Classical and Quantum Embeddings - [CBIRD](https://nlp-lab.org/quantumnlp/cbird) Project - Model Training finally with results... |
+| 06/16/2026 | Classical and Quantum Embeddings - [CBIRD](https://nlp-lab.org/quantumnlp/cbird) Project - Model Training finally with results... |
 | ... | |
+
 
 
 ### Previous Meeting Schedules
@@ -43,6 +30,7 @@ The topics to discuss, papers to read, or presentations to listen to during the 
 - [Spring 2025](/quantumnlp/meetingschedule_spring_2025)
 - [Summer 2025](/quantumnlp/meetingschedule_summer_2025)
 - [Fall 2025](/quantumnlp/meetingschedule_fall_2025)
+- [Spring 2026](/quantumnlp/meetingschedule_spring_2026)
 
 
 ## TOC
@@ -70,6 +58,9 @@ The topics to discuss, papers to read, or presentations to listen to during the 
 
 ## News <a name="News"></a>
 
+- Cavar, D., Daniel Quigley, Sam Gray Miller (2026) Quantum Computing with AI Embeddings and Training of Hybrid
+Classical/Quantum AI Models (MLMs and LLMs). Tutorial at the [2026 IEEE 2nd International Conference
+on Quantum Artificial Intelligence](https://attend.ieee.org/qai-2026/) ([QAI](https://attend.ieee.org/qai-2026/)) in Nottingham, UK.
 - Cavar, D., Peter Sullivan, Shane Sparks, Sam Gray Miller, Ronit Jha, Ayomide Jeje, Yanin Charoenpomsawat (2026) [Training Language Models and Embeddings for Hybrid Classical/Quantum Computing](/publications/MSLD_2026_CBIRD_Poster1.pdf). Poster presented at the [Midwest Speech and Language Days](https://nlp.cs.illinois.edu/msld.html) at the [University of Illinois in Urbana-Champaign](https://illinois.edu/).
 - Cavar, D., Shane Sparks, Soren DeHaan, Ronit Jha, Ayomide Jeje, Yanin Charoenpomsawat, Sam Gray Miller (2026) Hybrid Classical-Quantum Language and World Models for AI - [CBIRD](https://nlp-lab.org/quantumnlp/cbird), Poster presentation at the [Center for Quantum Technologies](https://www.purdue.edu/cqt/) ([CQT](https://www.purdue.edu/cqt/)) Meeting 2026 at [Notre Dame](https://www.nd.edu/), 1st of April, 2026.
 - Cavar, D. "*From Vectors to Qubits: Rethinking AI Models for the Hybrid Classical–Quantum Era*," invited keynote lecture, September 16-18, 2026 at the [37th Central European Conference on Information and Intelligent Systems](https://ceciis.foi.hr/) ([CECIIS 2026](https://ceciis.foi.hr/)), Varaždin, Croatia.

@@ -4,7 +4,7 @@ Created: [Damir Cavar], 2025-05-19
 
 Last change: [Damir Cavar], 2025-05-19
 
-Back to the [NLP-Lab](/)
+Back to the [AI&amp;NLP-Lab](/)
 
 
 The topics to discuss, papers to read, or presentations to listen to during the Summer of 2025 meetings:
@@ -38,6 +38,6 @@ The topics to discuss, papers to read, or presentations to listen to during the 
 
 
 
-Back to the [NLP-Lab](/)
+Back to the [AI&amp;NLP-Lab](/)
 
 [Damir Cavar]: http://damir.cavar.me/ "Damir Cavar"
