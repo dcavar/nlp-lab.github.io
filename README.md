@@ -46,6 +46,7 @@ The topics to discuss, papers to read, or presentations to listen to during the 
 
 ([Old news...](/old_news))
 
+- The [Dove Recovery House - Indiana Site Selection Analysis](https://hdl.handle.net/2022/34943) Data Science project material is available online (Substance use, Women-centered care, Access to care, Jasper, Dubois County, Indiana, Rural Engagement)
 - Cavar, D., Daniel Quigley, Sam Gray Miller (2026) Quantum Computing with AI Embeddings and Training of Hybrid
 Classical/Quantum AI Models (MLMs and LLMs). Tutorial at the [2026 IEEE 2nd International Conference
 on Quantum Artificial Intelligence](https://attend.ieee.org/qai-2026/) ([QAI](https://attend.ieee.org/qai-2026/)) in Nottingham, UK.

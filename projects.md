@@ -20,6 +20,7 @@ permalink: /projects/
 
 ## Substance Abuse Knowledge and AI Systems
 
+- [Dove Recovery House - Indiana Site Selection Analysis](https://hdl.handle.net/2022/34943) (Data Science project), Dove Recovery House, Substance use, Women-centered care, Access to care, Jasper, Dubois County, Indiana, Rural Engagement
 - [Substance Abuse Knowledge and AI Systems](/substanceabuse) — a joint project with Danny Valdez (Public Health, IU): NIDA Drug Ontology, and substance abuse and slang in social media.
 
 
