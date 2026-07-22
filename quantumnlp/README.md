@@ -2,7 +2,7 @@
 
 Created: [Damir Cavar], 2023-06-12
 
-Last change: [Damir Cavar], 2026-05-28
+Last change: [Damir Cavar], 2026-07-22
 
 
 **The Quantum AI Study Group meetings during the Summer of 2026 are held in Luddy Hall BL IF 0002 every Tuesday from 4:00 to 5:30 PM.**
@@ -195,7 +195,7 @@ Relevant literature from Cognitive Science and Psychology:
 
 ## Jobs and Internships <a name="jobs_internships"></a>
 
-- ...
+- [QED-C Quantum Jobs Page](https://quantumconsortium.org/quantum-jobs/)
 
 
 ## Cloud Services for Quantum Computation <a name="cloud_services"></a>
@@ -210,6 +210,7 @@ Relevant literature from Cognitive Science and Psychology:
 ## Government Links
 
 - [European Quantum Act](https://www.european-quantum-act.com/)
+- [Executive Order 14365: Ensuring a National Policy Framework for Artificial Intelligence](https://www.whitehouse.gov/presidential-actions/2025/12/eliminating-state-law-obstruction-of-national-artificial-intelligence-policy/)
 - [Executive Order 14413: Ushering in the next frontier of Quantum Innovation](https://www.whitehouse.gov/presidential-actions/2026/06/ushering-in-the-next-frontier-of-quantum-innovation/)
 
 
