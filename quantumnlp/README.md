@@ -20,6 +20,12 @@ The topics to discuss, papers to read, or presentations to listen to during the 
 | 06/02/2026 | Classical and Quantum Embeddings - [CBIRD](https://nlp-lab.org/quantumnlp/cbird) Project - Model Training finally with results... |
 | 06/09/2026 | Classical and Quantum Embeddings - [CBIRD](https://nlp-lab.org/quantumnlp/cbird) Project - Model Training finally with results... |
 | 06/16/2026 | Classical and Quantum Embeddings - [CBIRD](https://nlp-lab.org/quantumnlp/cbird) Project - Model Training finally with results... |
+| 06/23/2026 | Classical and Quantum Embeddings - [CBIRD](https://nlp-lab.org/quantumnlp/cbird) Project - Model Training finally with results... |
+| 06/30/2026 | Classical and Quantum Embeddings - [CBIRD](https://nlp-lab.org/quantumnlp/cbird) Project - Model Training finally with results... |
+| 07/07/2026 | [CBIRD](https://nlp-lab.org/quantumnlp/cbird) Project - Model Training finally with results... |
+| 07/14/2026 | [CBIRD](https://nlp-lab.org/quantumnlp/cbird) Project - Model Training, CBIRD is learning! |
+| 07/21/2026 | No meeting! |
+| 07/28/2026 | [CBIRD](https://nlp-lab.org/quantumnlp/cbird) test? - [Quantum AI 2026 Conference Preparation](https://qnlp.ai/) |
 | ... | |
 
 
@@ -58,9 +64,7 @@ The topics to discuss, papers to read, or presentations to listen to during the 
 
 ## News <a name="News"></a>
 
-- Cavar, D., Daniel Quigley, Sam Gray Miller (2026) Quantum Computing with AI Embeddings and Training of Hybrid
-Classical/Quantum AI Models (MLMs and LLMs). Tutorial at the [2026 IEEE 2nd International Conference
-on Quantum Artificial Intelligence](https://attend.ieee.org/qai-2026/) ([QAI](https://attend.ieee.org/qai-2026/)) in Nottingham, UK.
+- Cavar, D., Daniel Quigley, Sam Gray Miller (2026) Quantum Computing with AI Embeddings and Training of Hybrid Classical/Quantum AI Models (MLMs and LLMs). Tutorial at the [2026 IEEE 2nd International Conference on Quantum Artificial Intelligence](https://attend.ieee.org/qai-2026/) ([QAI](https://attend.ieee.org/qai-2026/)) in Nottingham, UK.
 - Cavar, D., Peter Sullivan, Shane Sparks, Sam Gray Miller, Ronit Jha, Ayomide Jeje, Yanin Charoenpomsawat (2026) [Training Language Models and Embeddings for Hybrid Classical/Quantum Computing](/publications/MSLD_2026_CBIRD_Poster1.pdf). Poster presented at the [Midwest Speech and Language Days](https://nlp.cs.illinois.edu/msld.html) at the [University of Illinois in Urbana-Champaign](https://illinois.edu/).
 - Cavar, D., Shane Sparks, Soren DeHaan, Ronit Jha, Ayomide Jeje, Yanin Charoenpomsawat, Sam Gray Miller (2026) Hybrid Classical-Quantum Language and World Models for AI - [CBIRD](https://nlp-lab.org/quantumnlp/cbird), Poster presentation at the [Center for Quantum Technologies](https://www.purdue.edu/cqt/) ([CQT](https://www.purdue.edu/cqt/)) Meeting 2026 at [Notre Dame](https://www.nd.edu/), 1st of April, 2026.
 - Cavar, D. "*From Vectors to Qubits: Rethinking AI Models for the Hybrid Classical–Quantum Era*," invited keynote lecture, September 16-18, 2026 at the [37th Central European Conference on Information and Intelligent Systems](https://ceciis.foi.hr/) ([CECIIS 2026](https://ceciis.foi.hr/)), Varaždin, Croatia.
@@ -80,6 +84,7 @@ on Quantum Artificial Intelligence](https://attend.ieee.org/qai-2026/) ([QAI](ht
 
 ## Events <a name="Events"></a>
 
+- Join us at the [Quantum AI 2026 Conference Preparation](https://qnlp.ai/) this August, 2026!
 - There was a [news article about the Quantum NLP Study Group](https://news.iu.edu/live/news/37695-iu-led-research-project-aims-to-improve)
 - [Quantum Day 2024](/quantumnlp/QuantumDayIUQuTE2024.png), April 14th, 2024, 11 AM - 3 PM, Swain West 007
 - [CQT - Center for Quantum Technologies](https://www.purdue.edu/cqt/), NSF Industry/University Cooperative Research Center (IUCRC) Year 2, Phase I, Spring 2024 Industry Advisory Board Meeting, April 3-4, 2024, University of Notre Dame, South Bend, IN
@@ -87,13 +92,13 @@ on Quantum Artificial Intelligence](https://attend.ieee.org/qai-2026/) ([QAI](ht
 
 ## Introduction <a name="Introduction"></a>
 
-The Quantum NLP project in the NLP Lab is currently a study group focusing on the most recent papers in Quantum NLP. Our goal is to familiarize participants with the different tools and environments for QNLP and work on interesting questions related to Quantum and language-related computation or cognitive aspects of language processing and quantum models.
+The Quantum AI in the AI &amp; NLP Lab is currently a study group focusing on the most recent papers in Quantum AI. Our goal is to familiarize participants with the different tools and environments for QAI and work on interesting questions related to Quantum and AI related computation or cognitive aspects of AI, NLP, and quantum models.
 
-The study group meets independently of the NLP Lab weekly meeting at [IU-B](https://www.indiana.edu/). If you want to join this meeting, contact [Damir Cavar] directly.
+The study group meets independently of the AI &amp; NLP Lab weekly meeting at [IU-B](https://www.indiana.edu/). If you want to join this meeting, contact [Damir Cavar] directly.
 
 See also the recent [IU News article](https://news.iu.edu/live/news/37695-iu-led-research-project-aims-to-improve) for further details.
 
-- The [Quantum NLP/ML GitHub repo](https://github.com/dcavar/q).
+- The [Quantum AI/NLP/ML GitHub repo](https://github.com/dcavar/q).
 
 At [Indiana University](https://www.indiana.edu/):
 
@@ -158,11 +163,12 @@ Relevant literature from Cognitive Science and Psychology:
 
 ## Tools and Technologies <a name="tools_and_technologies"></a>
 
+- [Qiskit] - Open-Source Quantum Development
+- [Wolfram Quantum Framework] - omputation framework for quantum circuits and other finite-dimensional quantum systems, Wolfram Language
 - [lambeq], Python library for experimental Quantum Natural Language Processing (QNLP)
 - [tket], a quantum SDK
     - [pytket], a quantum computing toolkit and optimizing compiler by Quantinuum
     - [pytket-extensions], extension modules for [pytket]
-- [Qiskit] - Open-Source Quantum Development
 
 
 ## Tutorials <a name="tutorials"></a>
@@ -189,7 +195,7 @@ Relevant literature from Cognitive Science and Psychology:
 
 ## Jobs and Internships <a name="jobs_internships"></a>
 
-- [Quantinuum Quantum NLP positions](https://jobs.eu.lever.co/quantinuum)
+- ...
 
 
 ## Cloud Services for Quantum Computation <a name="cloud_services"></a>
@@ -201,6 +207,13 @@ Relevant literature from Cognitive Science and Psychology:
 - [Quantinuum](https://www.quantinuum.com/hardware)
 
 
+## Government Links
+
+- [European Quantum Act](https://www.european-quantum-act.com/)
+- [Executive Order 14413: Ushering in the next frontier of Quantum Innovation](https://www.whitehouse.gov/presidential-actions/2026/06/ushering-in-the-next-frontier-of-quantum-innovation/)
+
+
+
 ## Links <a name="links"></a>
 
 - [Center for Quantum Technologies (CQT) - Indiana University, Purdue University, University of Notre Dame](https://www.purdue.edu/cqt/)
@@ -209,6 +222,7 @@ Relevant literature from Cognitive Science and Psychology:
 - [DARPA Quantum Benchmarking](https://www.darpa.mil/program/quantum-benchmarking) ([QB](https://www.darpa.mil/program/quantum-benchmarking))
 - [DARPA Quantum Benchmarking Initiative](https://www.darpa.mil/work-with-us/quantum-benchmarking-initiative) ([QBI](https://www.darpa.mil/work-with-us/quantum-benchmarking-initiative))
 - [Illinois Quantum &amp; Microelectronics Park](https://www.realcrg.com/project/illinois-quantum-microelectronics-park) ([IQMP](https://www.realcrg.com/project/illinois-quantum-microelectronics-park))
+- [Midwest Quantum Collaboratory](https://www.midwestquantum.org/)
 - [MIT News - Quantum computing](https://news.mit.edu/topic/quantum-computing)
 - [National Quantum Initiative](https://www.quantum.gov/) - [The National Quantum Coordination Office](https://www.quantum.gov/) ([NQCO](https://www.quantum.gov/))
 - [Quantum Economic Development Consortium](https://quantumconsortium.org/) ([QED-C](https://quantumconsortium.org/))
@@ -240,3 +254,4 @@ Relevant literature from Cognitive Science and Psychology:
 [pytket-extensions]: https://github.com/CQCL/pytket-extensions "pytket extension modules"
 [Qiskit]: https://qiskit.org/ "Qiskit"
 [lambeq]: https://cqcl.github.io/lambeq/ "Lambeq"
+[Wolfram Quantum Framework]: https://www.wolfram.com/quantum-computation-framework/ "Wolfram Quantum Framework"
