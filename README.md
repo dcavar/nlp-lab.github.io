@@ -1,19 +1,19 @@
 ## Welcome to The AI &amp; NLP Lab Pages
 
-The AI &amp; Natural Language Processing Lab (NLP-Lab) is focused on theoretical work and implementations of [Artificial Intelligence] ([AI]) and [Natural Language Processing] ([NLP]) solutions using hybrid empiricist, neural, probabilistic, and knowledge-driven approaches, with a particular interest in neuro-symbolic modeling. We are also interested in [Quantum AI](https://nlp-lab.org/quantumnlp/) and [NLP] combined with Machine Learning ([ML]) solutions for computer vision and multi-modal information processing — an ambition closely aligned with [Steve Jobs' vision in 1985](https://youtu.be/yolkEfuUaGs).
+The AI &amp; Natural Language Processing Lab (AI &amp; NLP Lab) is focused on theoretical work and implementations of [Artificial Intelligence] ([AI]) and [Natural Language Processing] ([NLP]) solutions using hybrid empiricist, neural, probabilistic, and knowledge-driven approaches, with a particular interest in neuro-symbolic modeling. We are also interested in [Quantum AI](https://nlp-lab.org/quantumnlp/) and [NLP] combined with Machine Learning ([ML]) solutions for computer vision and multi-modal information processing — an ambition closely aligned with [Steve Jobs' vision in 1985](https://youtu.be/yolkEfuUaGs).
 
 
-The AI&amp;NLP-Lab is located at [Indiana University at Bloomington](https://iu.edu/). While it is mainly a local group of students and researchers with a strong interest in [AI] and [NLP] here in Indiana, it maintains connections with colleagues across the country.
+The AI &amp; NLP Lab is located at [Indiana University at Bloomington](https://iu.edu/). While it is mainly a local group of students and researchers with a strong interest in [AI] and [NLP] here in Indiana, it maintains connections with colleagues across the country.
 
-There are two independent group meetings: the NLP-Lab, which discusses general AI and NLP topics, and the [Quantum AI Study Group](https://nlp-lab.org/quantumnlp/). In addition, we organize occasional talks related to Quantum AI.
+There are two independent group meetings: the AI &amp; NLP Lab, which discusses general AI and NLP topics, and the [Quantum AI Study Group](https://nlp-lab.org/quantumnlp/). In addition, we organize occasional talks related to Quantum AI.
 
-**AI and NLP Lab Meetings: During the Summer of 2026, we meet in person every week in Luddy Hall (BL IF) 0002, every Wednesday from 4:00 to 5:30 PM. (See Teams and email announcements for more details.)**
+**AI &amp; NLP Lab Meetings: During the Summer of 2026, we meet in person every week in Luddy Hall (BL IF) 0002, every Wednesday from 4:00 to 5:30 PM. (See Teams and email announcements for more details.)**
 
 **[The Quantum AI Study Group](https://nlp-lab.org/quantumnlp/) meetings are in Luddy Hall (BL IF) 0002 every Tuesday from 4:00 to 5:30 PM.**
 
 **[The Quantum AI Study Group Talks](https://nlp-lab.org/quantumnlp/) are typically scheduled for Fridays at 4 PM in Luddy Hall (BL IF) 0002 or online.**
 
-**Please contact [Damir Cavar] if you are interested in joining the AI&amp;NLP-Lab meetings.**
+**Please contact [Damir Cavar] if you are interested in joining the AI &amp; NLP Lab meetings.**
 
 
 - [Publications](/publications)

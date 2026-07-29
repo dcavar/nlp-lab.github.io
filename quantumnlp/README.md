@@ -7,7 +7,7 @@ Last change: [Damir Cavar], 2026-07-22
 
 **The Quantum AI Study Group meetings during the Summer of 2026 are held in Luddy Hall BL IF 0002 every Tuesday from 4:00 to 5:30 PM.**
 
-See the public calendar with all the meeting times and details: [AI &amp; NLP-Lab and Quantum AI Study Group Event Calendar](https://calendar.google.com/calendar/embed?src=3h9o18o7i82tjmmt5q2j3qgkj8%40group.calendar.google.com&ctz=America%2FNew_York).
+See the public calendar with all the meeting times and details: [AI &amp; NLP Lab and Quantum AI Study Group Event Calendar](https://calendar.google.com/calendar/embed?src=3h9o18o7i82tjmmt5q2j3qgkj8%40group.calendar.google.com&ctz=America%2FNew_York).
 
 
 ## Schedule
@@ -151,7 +151,7 @@ Papers we have read include:
 - Nielsen, Michael A., and Isaac L. Chuang. [Quantum Computation and Quantum Information](https://www.cambridge.org/highereducation/books/quantum-computation-and-quantum-information/01E10196D0A682A6AEFFEA52D53BE9AE#overview): 10th Anniversary Edition. Cambridge: Cambridge University Press, 2010. 
 - Luongo, Alessandro (2023) [Quantum algorithms for data analysis](https://quantumalgorithms.org/).
 - Hughes, Ciaran, et al. (2021) [Quantum Computing for the Quantum Curious](https://archive.org/details/oapen-20.500.12657-48236). Springer. Open Access, free download.
-
+- James K. Freericks (2026) [Quantum Mechanics Done Right: The Shortest Path from Novice to Researcher](https://link.springer.com/book/10.1007/978-3-031-87845-9). Springer Cham.
 - Bob Coecke and Stefano Gogioso (2023) [Quantum in Pictures: A New Way to Understand the Quantum World](https://www.quantinuum.com/news/quantum-in-pictures), Quantinuum.
 - Bob Coecke and Aleks Kissinger (2017) [Picturing Quantum Processes: A First Course in Quantum Theory and Diagrammatic Reasoning](https://www.cambridge.org/core/books/picturing-quantum-processes/1119568B3101F3A685BE832FEEC53E52), Cambridge University Press.
 

@@ -1,6 +1,6 @@
 ---
 theme: jekyll-theme-minimal
-title: NLP-Lab Software
+title: AI &amp; NLP Lab Software
 author: Damir Cavar
 permalink: /software/
 ---
@@ -45,5 +45,5 @@ permalink: /software/
 
 ## Rust Tools and Resources
 
-- [NLP-Lab Rust info and links](/rust/)
+- [AI &amp; NLP Lab Rust info and links](/rust/)
 

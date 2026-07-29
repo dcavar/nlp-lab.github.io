@@ -1,6 +1,6 @@
-## NLP-Lab Rust Info and Links
+## AI &amp; NLP Lab Rust Info and Links
 
-(C) 2022 by [Damir Cavar], [NLP-Lab]
+(C) 2022 by [Damir Cavar], [AI &amp; NLP Lab]
 
 There are many reasons why we favor [Rust] for some implementations and components, in particular when it comes to Natural Language Processing (NLP) and Artificial Intelligence (AI) applications. We plan to elaborate on this in future documentation.
 
@@ -22,7 +22,7 @@ If you are interested in joining our [Rust] tutorials with a focus on using [Rus
 
 
 [Damir Cavar]: http://damir.cavar.me/ "Damir Cavar"
-[NLP-Lab]: http://nlp-lab.org/ "NLP-Lab.org"
+[AI &amp; NLP Lab]: http://nlp-lab.org/ "AI &amp; NLP Lab"
 [NLP-Lab.org]: http://nlp-lab.org/ "NLP-Lab.org"
 [Python]: https://www.python.org/ "Python"
 [Rust]: https://www.rust-lang.org/ "Rust Language"

@@ -4,7 +4,7 @@ Created: [Damir Cavar], 2025-12-12
 
 Last change: [Damir Cavar], 2025-12-12
 
-Back to the [AI&amp;NLP-Lab](/)
+Back to the [AI &amp; NLP Lab](/)
 
 Meeting location: Luddy Hall 0002
 
@@ -51,6 +51,6 @@ The topics to discuss, papers to read, or presentations to listen to during the 
 
 
 
-Back to the [AI&amp;NLP-Lab](/)
+Back to the [AI &amp; NLP Lab](/)
 
 [Damir Cavar]: http://damir.cavar.me/ "Damir Cavar"

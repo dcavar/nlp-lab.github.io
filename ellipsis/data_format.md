@@ -80,7 +80,7 @@ Example 2:
 
 
 
-(C) 2023-2024 by [Damir Cavar], NLP-Lab
+(C) 2023-2024 by [Damir Cavar], AI &amp; NLP Lab
 
 
 [Damir Cavar]: http://damir.cavar.me/ "Damir Cavar"

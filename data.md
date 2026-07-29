@@ -1,6 +1,6 @@
 ---
 theme: jekyll-theme-minimal
-title: NLP-Lab Data
+title: AI &amp; NLP Lab Data
 author: Damir Cavar
 permalink: /data/
 ---

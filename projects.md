@@ -1,6 +1,6 @@
 ---
 theme: jekyll-theme-minimal
-title: NLP-Lab Projects
+title: AI &amp; NLP Lab Projects
 author: Damir Cavar
 permalink: /projects/
 ---
@@ -100,8 +100,8 @@ In all these projects, we work on hands-on implementation of technologies, utili
 
 See for example:
 
-- [NLP-Lab's Rust material](/rust)
-- [NLP-Lab's Python material](/software)
+- [AI &amp; NLP Lab's Rust material](/rust)
+- [AI &amp; NLP Lab's Python material](/software)
 
 If you are interested in joining our [Rust] tutorials with a focus on using [Rust] for [NLP] and [AI] or in Robotics environments (with the [Robot Operating System] ([ROS])), please get in touch!
 

@@ -1,10 +1,10 @@
-## Schedule of AI&amp;NLP-Lab Meetings during Spring 2026
+## Schedule of AI &amp; NLP Lab Meetings during Spring 2026
 
 Created: [Damir Cavar], 2025-05-19
 
 Last change: [Damir Cavar], 2025-05-19
 
-Back to the [AI&amp;NLP-Lab](/)
+Back to the [AI &amp; NLP Lab](/)
 
 The topics to discuss, papers to read, or presentations to listen to during the Spring of 2026 meetings:
 
