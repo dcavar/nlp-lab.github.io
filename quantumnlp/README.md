@@ -219,7 +219,7 @@ Relevant literature from Cognitive Science and Psychology:
 
 - [Center for Quantum Technologies (CQT) - Indiana University, Purdue University, University of Notre Dame](https://www.purdue.edu/cqt/)
     - [Center for Quantum Technologies (CQT) - NSF Site](https://iucrc.nsf.gov/centers/center-for-quantum-technologies/)
-- [Centre for Quantum Technologies](https://www.quantumlah.org/) ([CQT](https://www.quantumlah.org/))
+- [Singapore’s Centre for Quantum Technologies](https://www.cqt.sg/) ([CQT](https://www.cqt.sg/))
 - [DARPA Quantum Benchmarking](https://www.darpa.mil/program/quantum-benchmarking) ([QB](https://www.darpa.mil/program/quantum-benchmarking))
 - [DARPA Quantum Benchmarking Initiative](https://www.darpa.mil/work-with-us/quantum-benchmarking-initiative) ([QBI](https://www.darpa.mil/work-with-us/quantum-benchmarking-initiative))
 - [Illinois Quantum &amp; Microelectronics Park](https://www.realcrg.com/project/illinois-quantum-microelectronics-park) ([IQMP](https://www.realcrg.com/project/illinois-quantum-microelectronics-park))
