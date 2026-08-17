@@ -148,6 +148,7 @@ Papers we have read include:
 
 ### Books:
 
+- John Watrous. [Understanding Quantum Information and Computation](https://arxiv.org/abs/2507.11536). arXiv:2507.11536, 2025.
 - Nielsen, Michael A., and Isaac L. Chuang. [Quantum Computation and Quantum Information](https://www.cambridge.org/highereducation/books/quantum-computation-and-quantum-information/01E10196D0A682A6AEFFEA52D53BE9AE#overview): 10th Anniversary Edition. Cambridge: Cambridge University Press, 2010. 
 - Luongo, Alessandro (2023) [Quantum algorithms for data analysis](https://quantumalgorithms.org/).
 - Hughes, Ciaran, et al. (2021) [Quantum Computing for the Quantum Curious](https://archive.org/details/oapen-20.500.12657-48236). Springer. Open Access, free download.
