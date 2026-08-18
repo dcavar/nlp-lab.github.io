@@ -2,10 +2,10 @@
 
 Created: [Damir Cavar], 2023-06-12
 
-Last change: [Damir Cavar], 2026-07-22
+Last change: [Damir Cavar], 2026-08-18
 
 
-**The Quantum AI Study Group meetings during the Summer of 2026 are held in Luddy Hall BL IF 0002 every Tuesday from 4:00 to 5:30 PM.**
+**The Quantum AI Study Group meetings during the Fall Semester of 2026 are held in Luddy Hall BL IF 0002 every Thursday from 5:30 to 7:00 PM.**
 
 See the public calendar with all the meeting times and details: [AI &amp; NLP Lab and Quantum AI Study Group Event Calendar](https://calendar.google.com/calendar/embed?src=3h9o18o7i82tjmmt5q2j3qgkj8%40group.calendar.google.com&ctz=America%2FNew_York).
 
@@ -16,16 +16,10 @@ The topics to discuss, papers to read, or presentations to listen to during the 
 
 | **Date** | **Topic** |
 | -------- | --------- |
-| 05/26/2026 | Classical and Quantum Embeddings - [CBIRD](https://nlp-lab.org/quantumnlp/cbird) Project - Model Training |
-| 06/02/2026 | Classical and Quantum Embeddings - [CBIRD](https://nlp-lab.org/quantumnlp/cbird) Project - Model Training finally with results... |
-| 06/09/2026 | Classical and Quantum Embeddings - [CBIRD](https://nlp-lab.org/quantumnlp/cbird) Project - Model Training finally with results... |
-| 06/16/2026 | Classical and Quantum Embeddings - [CBIRD](https://nlp-lab.org/quantumnlp/cbird) Project - Model Training finally with results... |
-| 06/23/2026 | Classical and Quantum Embeddings - [CBIRD](https://nlp-lab.org/quantumnlp/cbird) Project - Model Training finally with results... |
-| 06/30/2026 | Classical and Quantum Embeddings - [CBIRD](https://nlp-lab.org/quantumnlp/cbird) Project - Model Training finally with results... |
-| 07/07/2026 | [CBIRD](https://nlp-lab.org/quantumnlp/cbird) Project - Model Training finally with results... |
-| 07/14/2026 | [CBIRD](https://nlp-lab.org/quantumnlp/cbird) Project - Model Training, CBIRD is learning! |
-| 07/21/2026 | No meeting! |
-| 07/28/2026 | [CBIRD](https://nlp-lab.org/quantumnlp/cbird) test? - [Quantum AI 2026 Conference Preparation](https://qnlp.ai/) |
+| 08/27/2026 | Classical and Quantum Embeddings - [CBIRD](https://nlp-lab.org/quantumnlp/cbird) Project - Model Training |
+|            | Training AI models for molecular structure generation and Quantum Circuit for ground-state optimization |
+| 09/03/2026 | Classical and Quantum Embeddings - [CBIRD](https://nlp-lab.org/quantumnlp/cbird) Project - Model Training |
+|            | Training AI models for molecular structure generation and Quantum Circuit for ground-state optimization |
 | ... | |
 
 
@@ -37,6 +31,7 @@ The topics to discuss, papers to read, or presentations to listen to during the 
 - [Summer 2025](/quantumnlp/meetingschedule_summer_2025)
 - [Fall 2025](/quantumnlp/meetingschedule_fall_2025)
 - [Spring 2026](/quantumnlp/meetingschedule_spring_2026)
+- [Summer 2026](/quantumnlp/meetingschedule_summer_2026)
 
 
 ## TOC

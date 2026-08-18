@@ -7,13 +7,13 @@ The AI &amp; NLP Lab is located at [Indiana University at Bloomington](https://i
 
 There are two independent group meetings: the AI &amp; NLP Lab, which discusses general AI and NLP topics, and the [Quantum AI Study Group](https://nlp-lab.org/quantumnlp/). In addition, we organize occasional talks related to Quantum AI.
 
-**AI &amp; NLP Lab Meetings: During the Summer of 2026, we meet in person every week in Luddy Hall (BL IF) 0002, every Wednesday from 4:00 to 5:30 PM. (See Teams and email announcements for more details.)**
+**AI &amp; NLP Lab Meetings: During the Fall Semester of 2026, we meet in person every week in Luddy Hall (BL IF) 0002, every Friday from 4:00 to 5:30 PM. (See Teams and email announcements for more details.)**
 
-**[The Quantum AI Study Group](https://nlp-lab.org/quantumnlp/) meetings are in Luddy Hall (BL IF) 0002 every Tuesday from 4:00 to 5:30 PM.**
+**[The Quantum AI Study Group](https://nlp-lab.org/quantumnlp/) meetings are in Luddy Hall (BL IF) 0002 every Thursday from 5:30 to 7:00 PM.**
 
-**[The Quantum AI Study Group Talks](https://nlp-lab.org/quantumnlp/) are typically scheduled for Fridays at 4 PM in Luddy Hall (BL IF) 0002 or online.**
+**There are no scheduled [The Quantum AI Study Group Talks](https://nlp-lab.org/quantumnlp/) for Fall Semester 2026.**
 
-**Please contact [Damir Cavar] if you are interested in joining the AI &amp; NLP Lab meetings.**
+**Please contact [Damir Cavar] if you are interested in joining the Quantum AI Study Group or the AI &amp; NLP Lab meetings.**
 
 
 - [Publications](/publications)
@@ -24,12 +24,12 @@ There are two independent group meetings: the AI &amp; NLP Lab, which discusses 
 
 ## Schedule
 
-The topics to discuss, papers to read, or presentations to listen to during the Summer of 2026 meetings:
+The topics to discuss, papers to read, or presentations to listen to during the Fall of 2026 meetings:
 
 | **Date** | **Topic** |
 | -------- | --------- |
-| 05/27/2026 | Regular meeting: NIDA Drugs AI and Ontology project, Dove Recovery House final material and report |
-| 06/03/2026 | Regular meeting: NIDA Drugs AI and Ontology project |
+| 08/28/2026 | Regular meeting: NIDA Drugs AI and Ontology project, Dove Recovery House final material and report |
+| 09/04/2026 | Regular meeting: NIDA Drugs AI and Ontology project |
 | ... | |
 
 
@@ -39,6 +39,7 @@ The topics to discuss, papers to read, or presentations to listen to during the 
 - [Summer 2025](/meetingschedule_summer_2025)
 - [Fall 2025](/meetingschedule_fall_2025)
 - [Spring 2026](/meetingschedule_spring_2026)
+- [Summer 2026](/meetingschedule_summer_2026)
 
 
 
