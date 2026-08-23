@@ -5,15 +5,15 @@ The AI &amp; Natural Language Processing Lab (AI &amp; NLP Lab) is focused on th
 
 The AI &amp; NLP Lab is located at [Indiana University at Bloomington](https://iu.edu/). While it is mainly a local group of students and researchers with a strong interest in [AI] and [NLP] here in Indiana, it maintains connections with colleagues across the country.
 
-There are two independent group meetings: the AI &amp; NLP Lab, which discusses general AI and NLP topics, and the [Quantum AI Study Group](https://quantum-computing-lab.org/). In addition, we organize occasional talks related to Quantum AI.
+There are two independent group meetings: the AI &amp; NLP Lab, which discusses general AI and NLP topics, and the [Quantum AI Lab](https://quantum-computing-lab.org/). In addition, we organize occasional talks related to Quantum AI.
 
 **AI &amp; NLP Lab Meetings: During the Fall Semester of 2026, we meet in person every week in Luddy Hall (BL IF) 0002, every Friday from 4:00 to 5:30 PM. (See Teams and email announcements for more details.)**
 
-**[The Quantum AI Study Group](https://quantum-computing-lab.org/) meetings are in Luddy Hall (BL IF) 0002 every Thursday from 5:30 to 7:00 PM.**
+**[The Quantum AI Lab](https://quantum-computing-lab.org/) meetings are in Luddy Hall (BL IF) 0002 every Thursday from 5:30 to 7:00 PM.**
 
-**There are no scheduled [The Quantum AI Study Group Talks](https://quantum-computing-lab.org/) for Fall Semester 2026.**
+**There are no scheduled [The Quantum AI Lab Talks](https://quantum-computing-lab.org/) for Fall Semester 2026.**
 
-**Please contact [Damir Cavar] if you are interested in joining the Quantum AI Study Group or the AI &amp; NLP Lab meetings.**
+**Please contact [Damir Cavar] if you are interested in joining the Quantum AI Lab or the AI &amp; NLP Lab meetings.**
 
 
 - [Publications](/publications)
@@ -80,7 +80,7 @@ on Quantum Artificial Intelligence](https://attend.ieee.org/qai-2026/) ([QAI](ht
 
 During the 2025-2026 academic year, the focus is on:
 
-- [Quantum AI and NLP](https://quantum-computing-lab.org/)
+- [Quantum AI Lab](https://quantum-computing-lab.org/)
 - [Substance Abuse Knowledge and AI Systems](/substanceabuse): NIDA Drug Ontology, and substance abuse and slang in social media project
 - [Ontology Learning](/ontology_learning): Learning higher level semantic properties from raw text and images
 - [Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), Ontologies, and Knowledge Graphs for Agentive AI: extraction and visualization from relational databases, unstructured text, and images/videos](/kgextraction)

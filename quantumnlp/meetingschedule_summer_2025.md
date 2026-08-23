@@ -9,7 +9,7 @@ Created: [Damir Cavar], 2025-05-19
 
 Last change: [Damir Cavar], 2025-08-13
 
-Back to the [Quantum AI Study Group](https://quantum-computing-lab.org/)
+Back to the [Quantum AI Lab](https://quantum-computing-lab.org/)
 
 
 The topics discussed, papers read, and presentations by guest speakers during the Summer 2025 meetings:
@@ -45,6 +45,6 @@ The topics discussed, papers read, and presentations by guest speakers during th
 
 
 
-Back to the [Quantum Study Group](https://quantum-computing-lab.org/)
+Back to the [Quantum AI Lab](https://quantum-computing-lab.org/)
 
 [Damir Cavar]: http://damir.cavar.me/ "Damir Cavar"

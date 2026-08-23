@@ -9,7 +9,7 @@ Created: [Damir Cavar], 2026-05-28
 
 Last change: [Damir Cavar], 2026-05-28
 
-Back to the [Quantum AI Study Group](https://quantum-computing-lab.org/)
+Back to the [Quantum AI Lab](https://quantum-computing-lab.org/)
 
 
 

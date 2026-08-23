@@ -9,7 +9,7 @@ Created: [Damir Cavar], 2026-08-18
 
 Last change: [Damir Cavar], 2026-08-18
 
-Back to the [Quantum AI Study Group](https://quantum-computing-lab.org/)
+Back to the [Quantum AI Lab](https://quantum-computing-lab.org/)
 
 
 The topics to discuss, papers to read, or presentations to listen to during the Summer of 2026:
@@ -30,6 +30,6 @@ The topics to discuss, papers to read, or presentations to listen to during the 
 
 
 
-Back to the [Quantum Study Group](https://quantum-computing-lab.org/)
+Back to the [Quantum AI Lab](https://quantum-computing-lab.org/)
 
 [Damir Cavar]: http://damir.cavar.me/ "Damir Cavar"
