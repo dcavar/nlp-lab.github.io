@@ -1,3 +1,8 @@
+---
+layout: redirect
+redirect_to: https://quantum-computing-lab.org/cbird
+---
+
 # CBIRD: Complex Bidirectional Inducer for Representation Dynamics
 
 Created: [Damir Cavar], 2026-02-17

@@ -1,17 +1,17 @@
 ## Welcome to The AI &amp; NLP Lab Pages
 
-The AI &amp; Natural Language Processing Lab (AI &amp; NLP Lab) is focused on theoretical work and implementations of [Artificial Intelligence] ([AI]) and [Natural Language Processing] ([NLP]) solutions using hybrid empiricist, neural, probabilistic, and knowledge-driven approaches, with a particular interest in neuro-symbolic modeling. We are also interested in [Quantum AI](https://nlp-lab.org/quantumnlp/) and [NLP] combined with Machine Learning ([ML]) solutions for computer vision and multi-modal information processing — an ambition closely aligned with [Steve Jobs' vision in 1985](https://youtu.be/yolkEfuUaGs).
+The AI &amp; Natural Language Processing Lab (AI &amp; NLP Lab) is focused on theoretical work and implementations of [Artificial Intelligence] ([AI]) and [Natural Language Processing] ([NLP]) solutions using hybrid empiricist, neural, probabilistic, and knowledge-driven approaches, with a particular interest in neuro-symbolic modeling. We are also interested in [Quantum AI](https://quantum-computing-lab.org/) and [NLP] combined with Machine Learning ([ML]) solutions for computer vision and multi-modal information processing — an ambition closely aligned with [Steve Jobs' vision in 1985](https://youtu.be/yolkEfuUaGs).
 
 
 The AI &amp; NLP Lab is located at [Indiana University at Bloomington](https://iu.edu/). While it is mainly a local group of students and researchers with a strong interest in [AI] and [NLP] here in Indiana, it maintains connections with colleagues across the country.
 
-There are two independent group meetings: the AI &amp; NLP Lab, which discusses general AI and NLP topics, and the [Quantum AI Study Group](https://nlp-lab.org/quantumnlp/). In addition, we organize occasional talks related to Quantum AI.
+There are two independent group meetings: the AI &amp; NLP Lab, which discusses general AI and NLP topics, and the [Quantum AI Study Group](https://quantum-computing-lab.org/). In addition, we organize occasional talks related to Quantum AI.
 
 **AI &amp; NLP Lab Meetings: During the Fall Semester of 2026, we meet in person every week in Luddy Hall (BL IF) 0002, every Friday from 4:00 to 5:30 PM. (See Teams and email announcements for more details.)**
 
-**[The Quantum AI Study Group](https://nlp-lab.org/quantumnlp/) meetings are in Luddy Hall (BL IF) 0002 every Thursday from 5:30 to 7:00 PM.**
+**[The Quantum AI Study Group](https://quantum-computing-lab.org/) meetings are in Luddy Hall (BL IF) 0002 every Thursday from 5:30 to 7:00 PM.**
 
-**There are no scheduled [The Quantum AI Study Group Talks](https://nlp-lab.org/quantumnlp/) for Fall Semester 2026.**
+**There are no scheduled [The Quantum AI Study Group Talks](https://quantum-computing-lab.org/) for Fall Semester 2026.**
 
 **Please contact [Damir Cavar] if you are interested in joining the Quantum AI Study Group or the AI &amp; NLP Lab meetings.**
 
@@ -56,7 +56,7 @@ on Quantum Artificial Intelligence](https://attend.ieee.org/qai-2026/) ([QAI](ht
 - Cavar, D., Naishal Nehal Shah (2026) LLM OntologyRAG - Extending a Food-Agent with a Description Logic Knowledge Representation. Poster presented at the [Midwest Speech and Language Days](https://nlp.cs.illinois.edu/msld.html) at the [University of Illinois in Urbana-Champaign](https://illinois.edu/).
 - Cavar, D., Shruthi Nagappan, Kumar Koushik Telaprolu, Amy Stafford, Maria A. Parker, Danny Valdez (2026) Detecting Emerging Drug Slang and Code Language in Social Media Posts.  Poster presented at the [Midwest Speech and Language Days](https://nlp.cs.illinois.edu/msld.html) at the [University of Illinois in Urbana-Champaign](https://illinois.edu/).
 - Abdo, Muhammad S., Damir Cavar (2026) Ontology-Grounded Knowledge Graph Construction for Alzheimer's Research. Poster presented at the [Midwest Speech and Language Days](https://nlp.cs.illinois.edu/msld.html) at the [University of Illinois in Urbana-Champaign](https://illinois.edu/).
-- Cavar, D., Shane Sparks, Soren DeHaan, Ronit Jha, Ayomide Jeje, Yanin Charoenpomsawat, Sam Gray Miller (2026) Hybrid Classical-Quantum Language and World Models for AI - [CBIRD](https://nlp-lab.org/quantumnlp/cbird), Poster presentation at the [Center for Quantum Technologies](https://www.purdue.edu/cqt/) ([CQT](https://www.purdue.edu/cqt/)) Meeting 2026 at [Notre Dame](https://www.nd.edu/), 1st of April, 2026.
+- Cavar, D., Shane Sparks, Soren DeHaan, Ronit Jha, Ayomide Jeje, Yanin Charoenpomsawat, Sam Gray Miller (2026) Hybrid Classical-Quantum Language and World Models for AI - [CBIRD](https://quantum-computing-lab.org/cbird), Poster presentation at the [Center for Quantum Technologies](https://www.purdue.edu/cqt/) ([CQT](https://www.purdue.edu/cqt/)) Meeting 2026 at [Notre Dame](https://www.nd.edu/), 1st of April, 2026.
 - Cavar, D. "*The Rise of Agentic AI and How It Will Change Our World*," March 20, 2026 at the Artificial Intelligence for Legal Professionals Conference, Center for International and Comparative Law, Indiana University Robert H. McKinney School of Law.
 - Cavar, D. "*Hybrid Classical/Quantum Data Structures And Experiments For New AI Architectures*," March 25, 2026, Research Technologies Speaker Series, Cyberinfrastructure Building, Indiana University.
 - [Quantum AI Conference 2026](https://qnlp.ai/) (website currently being updated) will be August 14th–16th on the IUI campus in Indianapolis! Stay tuned for updates!
@@ -80,7 +80,7 @@ on Quantum Artificial Intelligence](https://attend.ieee.org/qai-2026/) ([QAI](ht
 
 During the 2025-2026 academic year, the focus is on:
 
-- [Quantum AI and NLP](/quantumnlp)
+- [Quantum AI and NLP](https://quantum-computing-lab.org/)
 - [Substance Abuse Knowledge and AI Systems](/substanceabuse): NIDA Drug Ontology, and substance abuse and slang in social media project
 - [Ontology Learning](/ontology_learning): Learning higher level semantic properties from raw text and images
 - [Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), Ontologies, and Knowledge Graphs for Agentive AI: extraction and visualization from relational databases, unstructured text, and images/videos](/kgextraction)

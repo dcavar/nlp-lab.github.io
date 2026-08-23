@@ -1,3 +1,8 @@
+---
+layout: redirect
+redirect_to: https://quantum-computing-lab.org/pubs
+---
+
 # Quantum AI and Natural Language Processing (NLP) Lab Publications
 
 Created: [Damir Cavar], 2025-06-02
@@ -13,7 +18,7 @@ Last change: [Damir Cavar], 2026-04-19
 ## Poster Presentations
 
 - Cavar, D., Peter Sullivan, Shane Sparks, Sam Gray Miller, Ronit Jha, Ayomide Jeje, Yanin Charoenpornsawat​ (2026) Training Language Models and Embeddings for Hybrid Classical/Quantum Computing​. Poster presented at the [Midwest Speech and Language Days](https://nlp.cs.illinois.edu/msld.html) at the [University of Illinois in Urbana-Champaign](https://illinois.edu/).
-- Cavar, D., Shane Sparks, Soren DeHaan, Ronit Jha, Ayomide Jeje, Yanin Charoenpomsawat, Sam Gray Miller (2026) Hybrid Classical-Quantum Language and World Models for AI - [CBIRD](https://nlp-lab.org/quantumnlp/cbird), Poster presentation at the [Center for Quantum Technologies](https://www.purdue.edu/cqt/) ([CQT](https://www.purdue.edu/cqt/)) Meeting 2026 at [Notre Dame](https://www.nd.edu/), 1st of April, 2026.
+- Cavar, D., Shane Sparks, Soren DeHaan, Ronit Jha, Ayomide Jeje, Yanin Charoenpomsawat, Sam Gray Miller (2026) Hybrid Classical-Quantum Language and World Models for AI - [CBIRD](https://quantum-computing-lab.org/cbird), Poster presentation at the [Center for Quantum Technologies](https://www.purdue.edu/cqt/) ([CQT](https://www.purdue.edu/cqt/)) Meeting 2026 at [Notre Dame](https://www.nd.edu/), 1st of April, 2026.
 - Cavar, D. (2026) "*From Vectors to Qubits: Rethinking AI Models for the Hybrid Classical–Quantum Era*," invited keynote lecture, September 16-18, 2026 at the [37th Central European Conference on Information and Intelligent Systems](https://ceciis.foi.hr/) ([CECIIS 2026](https://ceciis.foi.hr/)), Varaždin, Croatia.
 - Cavar, D. (2026) "*Hybrid Classical/Quantum Data Structures And Experiments For New AI Architectures*," invited lecture, March 25, 2026, Research Technologies Speaker Series, Cyberinfrastructure Building, Indiana University.
 - [Quantum Computing for AI and NLP](/publications/Quantum_Computing_For_AI_and_NLP.pdf), presentation at the Luddy School for Informatics, Computing, and Engineering, Indiana University Bloomington, Undergraduate Research Experiential Learning Fall 2025.
@@ -27,7 +32,7 @@ Last change: [Damir Cavar], 2026-04-19
 - [Damir Cavar], Koushik Reddy Parukola (2025) Word and Text Similarity Using Classical Word Embeddings in Quantum NLP Systems. Satellite Workshop: [Quantum Machine Learning in Signal Processing and Artificial Intelligence](https://sites.google.com/view/qmlicassp2025/home) at the [2025 IEEE International Conference on Acoustics, Speech, and Signal Processing](https://2025.ieeeicassp.org/). Hyderabad, India.
 - Chi Zhang, Akriti Kumari, [Damir Cavar] (2024) *[Entangled Meanings: Classification and Ambiguity Resolution in Near–Term QNLP](https://ieeexplore.ieee.org/document/10821233).* Paper and Poster presented at the [IEEE Quantum Week 2024](https://qce.quantum.ieee.org/2024/), Montreal, Canada, September 2024. (full paper, short paper, poster)
 - [Damir Cavar] and Chi Zhang (2024) *Semantic Similarities using Classical Embeddings in Quantum NLP.* Paper and Poster presented at the [IEEE Quantum Week 2024](https://qce.quantum.ieee.org/2024/), Montreal, Canada, September 2024. (paper, poster)
-- Damir Cavar, Chi Zhang, Koushik Reddy Parukola (2024) Quantum Natural Language Processing (QNLP) (2024) Presentation at the [Quantum Day 2024](/quantumnlp/QuantumDayIUQuTE2024.png) Seminar Series, organized by [Quantum Technologies for Everyone](https://beinvolved.indiana.edu/organization/qute) ([QuTE](https://beinvolved.indiana.edu/organization/qute)) at Indiana University Bloomington, April 14th 2024.
+- Damir Cavar, Chi Zhang, Koushik Reddy Parukola (2024) Quantum Natural Language Processing (QNLP) (2024) Presentation at the [Quantum Day 2024](https://quantum-computing-lab.org/QuantumDayIUQuTE2024.png) Seminar Series, organized by [Quantum Technologies for Everyone](https://beinvolved.indiana.edu/organization/qute) ([QuTE](https://beinvolved.indiana.edu/organization/qute)) at Indiana University Bloomington, April 14th 2024.
 - *Quantum-Natural Language Processing (NLP) and Machine Learning (ML)* (2024) Presentation at the [CQT - Center for Quantum Technologies](https://www.purdue.edu/cqt/), NSF Industry/University Cooperative Research Center (IUCRC) Year 2, Phase I, Spring 2024 Industry Advisory Board Meeting, April 3-4, 2024, University of Notre Dame, South Bend, IN.
 - [Quantum Natural Language Processing and Machine Learning](/publications/NLP_Lab_Quantum_Poster_2024.pdf) (2024)  [NLP-Lab] poster. Luddy-Crane Summit on March 29, 2024 at Indiana University Bloomington.
 

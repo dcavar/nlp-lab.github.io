@@ -1,10 +1,15 @@
+---
+layout: redirect
+redirect_to: https://quantum-computing-lab.org/meetingschedule_fall_2024
+---
+
 ## Schedule of Meetings during Fall 2024
 
 Created: [Damir Cavar], 2025-01-12
 
 Last change: [Damir Cavar], 2025-01-12
 
-Back to the [Quantum AI Study Group](/quantumnlp/)
+Back to the [Quantum AI Study Group](https://quantum-computing-lab.org/)
 
 
 The topics discussed, papers read, and presentations by guest speakers during the Fall 2024 meetings:
@@ -46,7 +51,7 @@ The topics discussed, papers read, and presentations by guest speakers during th
 | ---------- | --------- |
 
 
-Back to the [Quantum Study Group](/quantumnlp/)
+Back to the [Quantum Study Group](https://quantum-computing-lab.org/)
 
 
 

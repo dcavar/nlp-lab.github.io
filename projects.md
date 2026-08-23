@@ -10,7 +10,7 @@ permalink: /projects/
 
 ## Quantum AI
 
-- [Project page](/quantumnlp)
+- [Project page](https://quantum-computing-lab.org/)
 
 
 ## Ontology Learning

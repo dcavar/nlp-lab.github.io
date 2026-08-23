@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: "en-US" }}">
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="refresh" content="0; url={{ page.redirect_to }}">
+    <meta name="robots" content="noindex">
+    <link rel="canonical" href="{{ page.redirect_to }}">
+    <title>Redirecting to {{ page.redirect_to }}</title>
+    <script>location.replace({{ page.redirect_to | jsonify }});</script>
+  </head>
+  <body>
+    <p>This page has moved to <a href="{{ page.redirect_to }}">{{ page.redirect_to }}</a>.</p>
+  </body>
+</html>
