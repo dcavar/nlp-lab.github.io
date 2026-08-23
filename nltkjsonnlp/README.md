@@ -1,6 +1,7 @@
 ---
 layout: redirect
 redirect_to: https://ai-science-labs.org/nltkjsonnlp/
+permalink: /nltkjsonnlp/
 ---
 
 ## Welcome to Python NLTK to JSON-NLP Module Page

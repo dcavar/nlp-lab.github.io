@@ -1,6 +1,7 @@
 ---
 layout: redirect
 redirect_to: https://ai-science-labs.org/discontinuities/
+permalink: /discontinuities/
 ---
 
 # Discontinuities and Non-local Dependencies in Natural Language

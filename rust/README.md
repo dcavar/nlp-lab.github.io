@@ -1,6 +1,7 @@
 ---
 layout: redirect
 redirect_to: https://ai-science-labs.org/rust/
+permalink: /rust/
 ---
 
 ## AI &amp; NLP Lab Rust Info and Links

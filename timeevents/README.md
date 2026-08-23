@@ -1,6 +1,7 @@
 ---
 layout: redirect
 redirect_to: https://ai-science-labs.org/timeevents/
+permalink: /timeevents/
 ---
 
 # Time and Event Annotation

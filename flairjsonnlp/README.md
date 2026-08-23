@@ -1,6 +1,7 @@
 ---
 layout: redirect
 redirect_to: https://ai-science-labs.org/flairjsonnlp/
+permalink: /flairjsonnlp/
 ---
 
 ## Welcome to Python Flair to JSON-NLP Module Page

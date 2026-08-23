@@ -1,6 +1,7 @@
 ---
 layout: redirect
 redirect_to: https://ai-science-labs.org/
+permalink: /
 ---
 
 ## Welcome to The AI &amp; NLP Lab Pages

@@ -1,6 +1,7 @@
 ---
 layout: redirect
 redirect_to: https://ai-science-labs.org/ellipsis/
+permalink: /ellipsis/
 ---
 
 # Ellipsis and Elided Elements in Natural Language: The Hoosier Ellipsis Corpus

@@ -1,6 +1,7 @@
 ---
 layout: redirect
 redirect_to: https://ai-science-labs.org/antisemitism/
+permalink: /antisemitism/
 ---
 
 # Antisemitism and Hate-Speech in Social Media

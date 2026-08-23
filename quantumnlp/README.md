@@ -1,6 +1,7 @@
 ---
 layout: redirect
 redirect_to: https://quantum-computing-lab.org/
+permalink: /quantumnlp/
 ---
 
 # Quantum AI (QAI)

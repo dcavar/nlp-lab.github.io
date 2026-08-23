@@ -1,6 +1,7 @@
 ---
 layout: redirect
 redirect_to: https://ai-science-labs.org/turkic/
+permalink: /turkic/
 ---
 
 # Resources and Technologies for Turkic Languages

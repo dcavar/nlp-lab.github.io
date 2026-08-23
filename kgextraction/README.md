@@ -1,6 +1,7 @@
 ---
 layout: redirect
 redirect_to: https://ai-science-labs.org/kgextraction/
+permalink: /kgextraction/
 ---
 
 # Knowledge Graphs from Data, Unstructured Text, and Images
