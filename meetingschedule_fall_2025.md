@@ -1,3 +1,8 @@
+---
+layout: redirect
+redirect_to: https://ai-science-labs.org/meetingschedule_fall_2025
+---
+
 ## Schedule of Meetings during Fall 2025
 
 Created: [Damir Cavar], 2025-12-12

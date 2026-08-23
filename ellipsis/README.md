@@ -1,3 +1,8 @@
+---
+layout: redirect
+redirect_to: https://ai-science-labs.org/ellipsis/
+---
+
 # Ellipsis and Elided Elements in Natural Language: The Hoosier Ellipsis Corpus
 
 Created: [Damir Cavar], 2023-06-07

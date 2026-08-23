@@ -1,3 +1,8 @@
+---
+layout: redirect
+redirect_to: https://ai-science-labs.org/old_news
+---
+
 ## AI &amp; NLP Lab Old News
 
 Created: [Damir Cavar], 2025-08-21

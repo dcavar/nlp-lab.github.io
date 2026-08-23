@@ -1,3 +1,8 @@
+---
+layout: redirect
+redirect_to: https://ai-science-labs.org/ontology_learning/
+---
+
 # Ontology Learning
 
 This project is focused on learning ontologies from structured and unstructured information sources.

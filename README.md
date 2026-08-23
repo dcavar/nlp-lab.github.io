@@ -1,3 +1,8 @@
+---
+layout: redirect
+redirect_to: https://ai-science-labs.org/
+---
+
 ## Welcome to The AI &amp; NLP Lab Pages
 
 The AI &amp; Natural Language Processing Lab (AI &amp; NLP Lab) is focused on theoretical work and implementations of [Artificial Intelligence] ([AI]) and [Natural Language Processing] ([NLP]) solutions using hybrid empiricist, neural, probabilistic, and knowledge-driven approaches, with a particular interest in neuro-symbolic modeling. We are also interested in [Quantum AI](https://quantum-computing-lab.org/) and [NLP] combined with Machine Learning ([ML]) solutions for computer vision and multi-modal information processing — an ambition closely aligned with [Steve Jobs' vision in 1985](https://youtu.be/yolkEfuUaGs).

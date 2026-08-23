@@ -3,6 +3,8 @@ theme: jekyll-theme-minimal
 title: AI &amp; NLP Lab Data
 author: Damir Cavar
 permalink: /data/
+layout: redirect
+redirect_to: https://ai-science-labs.org/data/
 ---
 
 # Data

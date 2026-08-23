@@ -1,3 +1,8 @@
+---
+layout: redirect
+redirect_to: https://ai-science-labs.org/meetingschedule_summer_2025
+---
+
 ## Schedule of Meetings during Summer 2025
 
 Created: [Damir Cavar], 2025-05-19

@@ -1,3 +1,8 @@
+---
+layout: redirect
+redirect_to: https://ai-science-labs.org/discontinuities/
+---
+
 # Discontinuities and Non-local Dependencies in Natural Language
 
 Created: [Damir Cavar], 2023-06-07

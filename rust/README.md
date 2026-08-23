@@ -1,3 +1,8 @@
+---
+layout: redirect
+redirect_to: https://ai-science-labs.org/rust/
+---
+
 ## AI &amp; NLP Lab Rust Info and Links
 
 (C) 2022 by [Damir Cavar], [AI &amp; NLP Lab]

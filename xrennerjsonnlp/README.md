@@ -1,3 +1,8 @@
+---
+layout: redirect
+redirect_to: https://ai-science-labs.org/xrennerjsonnlp/
+---
+
 ## Welcome to Python Xrenner to JSON-NLP Module Page
 
 See for more details:

@@ -1,3 +1,8 @@
+---
+layout: redirect
+redirect_to: https://ai-science-labs.org/kgextraction/
+---
+
 # Knowledge Graphs from Data, Unstructured Text, and Images
 
 This was the focus from Fall 2024 through Fall 2025.

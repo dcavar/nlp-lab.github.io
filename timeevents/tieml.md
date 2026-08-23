@@ -1,3 +1,8 @@
+---
+layout: redirect
+redirect_to: https://ai-science-labs.org/timeevents/tieml
+---
+
 ##### September 2022
 
 # <center>TimeML and TieML</center>

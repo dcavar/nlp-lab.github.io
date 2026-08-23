@@ -3,6 +3,8 @@ theme: jekyll-theme-minimal
 title: AI &amp; NLP Lab Projects
 author: Damir Cavar
 permalink: /projects/
+layout: redirect
+redirect_to: https://ai-science-labs.org/projects/
 ---
 
 # Projects

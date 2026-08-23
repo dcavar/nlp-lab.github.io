@@ -1,3 +1,8 @@
+---
+layout: redirect
+redirect_to: https://ai-science-labs.org/substanceabuse
+---
+
 ## Substance Abuse and Social Media
 
 Created: [Damir Cavar], 2025-08-21

@@ -1,3 +1,8 @@
+---
+layout: redirect
+redirect_to: https://ai-science-labs.org/ellipsis/data_format
+---
+
 # The Hoosier Ellipsis Corpus - Data Format
 
 Created: [Damir Cavar], 2023-06-07

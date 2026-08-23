@@ -1,3 +1,8 @@
+---
+layout: redirect
+redirect_to: https://ai-science-labs.org/spacyjsonnlp/
+---
+
 ## Welcome to Python spaCy to JSON-NLP Module Page
 
 See for more details:

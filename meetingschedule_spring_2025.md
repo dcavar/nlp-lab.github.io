@@ -1,3 +1,8 @@
+---
+layout: redirect
+redirect_to: https://ai-science-labs.org/meetingschedule_spring_2025
+---
+
 ## Schedule of AI &amp; NLP Lab Meetings during Spring 2025
 
 Created: [Damir Cavar], 2025-05-19

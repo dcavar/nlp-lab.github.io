@@ -3,6 +3,8 @@ theme: jekyll-theme-minimal
 title: AI &amp; NLP Lab Software
 author: Damir Cavar
 permalink: /software/
+layout: redirect
+redirect_to: https://ai-science-labs.org/software/
 ---
 
 # Software

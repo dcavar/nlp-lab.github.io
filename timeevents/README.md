@@ -1,3 +1,8 @@
+---
+layout: redirect
+redirect_to: https://ai-science-labs.org/timeevents/
+---
+
 # Time and Event Annotation
 
 (C) 2021-2022 [Damir Cavar], Ali Abdulaziz Aljubailan, Soyoung Kim, [Billy Dickson], [Andrew Davis], [Matthew Fort], [Ludovic Mompelat], [Zoran Tiganj], [Yuna Won]

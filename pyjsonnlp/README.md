@@ -1,3 +1,8 @@
+---
+layout: redirect
+redirect_to: https://ai-science-labs.org/pyjsonnlp/
+---
+
 ## Welcome to Python JSON-NLP Module Page
 
 See for more details:

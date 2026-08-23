@@ -1,3 +1,8 @@
+---
+layout: redirect
+redirect_to: https://ai-science-labs.org/polyglotjsonnlp/
+---
+
 ## Welcome to Python Polyglot to JSON-NLP Module Page
 
 See for more details:
